@@ -1,5 +1,4 @@
-# 
-Robotic_Contact_aware_VLM_UPV_System
+# Robotic_Contact_aware_VLM_UPV_System
 
 Research software for RGB-D material perception, candidate contact-pair generation,
 vision-language contact assessment, and selected-path length estimation for
