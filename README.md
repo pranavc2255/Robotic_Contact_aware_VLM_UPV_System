@@ -115,6 +115,7 @@ final-action field. Raw responses retain both for audit.
 
 - [Reproduction commands](docs/REPRODUCTION.md): baselines, VLM inference, paths and plots.
 - [Method definitions](docs/METHODS.md): classification and selection conventions.
+- [Prompt-sensitivity system prompts](results/prompt_sensitivity/README.md): original and four wording variants.
 - [Data documentation](docs/DATA.md): raw assets, checksums and provenance.
 
 ## Data Distribution
