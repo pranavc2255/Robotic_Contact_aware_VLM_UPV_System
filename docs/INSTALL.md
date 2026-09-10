@@ -97,8 +97,8 @@ that cannot hold both stacks. Use the staged workflow in [PIPELINE.md](PIPELINE.
 ## 4. Datasets
 
 The Git checkout includes small result tables; raw assets are separate verified
-archives. Publication in the replacement repository is pending. Once available,
-place the four ZIP assets in `release_assets/`, then install with checksum verification:
+archives. Download the four ZIPs from the repository's v0.1.0 release and
+place them in `release_assets/`, then install with checksum verification:
 
 ```bash
 upv-reproduce install-data contact --archive release_assets/contact.zip

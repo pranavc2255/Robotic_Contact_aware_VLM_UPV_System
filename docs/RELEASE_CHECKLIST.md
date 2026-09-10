@@ -4,7 +4,7 @@
 - Review third-party model/code licenses and retain their required notices; copied source is not automatically relicensed.
 - Author names, ORCIDs and title are recorded in CITATION.cff; add a publication DOI only when available.
 - Review all images and text for publication rights and sensitive laboratory information.
-- Upload the four verified ZIPs to the replacement repository and populate the archive URLs. Earlier publication verification does not establish availability at the new address.
+- Four verified ZIPs are public on the new repository's v0.1.0 release; archive URLs are populated and GitHub sizes/digests match the catalog.
 - Keep `release_assets/`, `datasets/`, `local_models/`, environments and new runs out of Git.
 - Add the missing Windows waveform exports with units, sampling rate, acquisition settings, specimen IDs and checksum provenance.
 - Validate `upv-pipeline` on a fresh GPU environment with real perception and Qwen. Synthetic CPU tests do not establish model compatibility or fresh-run equivalence.

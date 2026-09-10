@@ -1,7 +1,7 @@
 # Release Readiness Assessment
 
 Updated: 2026-09-10. Parent working branch: `robot_upv_interactive_20260527`.
-Replacement repository publication pending. See RELEASE_AUDIT_20260910.md for local validation.
+New repository v0.1.0 archives are public. See RELEASE_AUDIT_20260910.md for local validation.
 
 ## Implemented
 
@@ -23,8 +23,8 @@ Replacement repository publication pending. See RELEASE_AUDIT_20260910.md for lo
 2. **Latest evidence import:** the public snapshot covers Contact73/82. Add the
    concrete/Contact89 extension and its manual-mask-override provenance before
    describing the repository as containing the latest full results.
-3. **Data hosting:** verified local archives must be uploaded to the replacement
-   repository. Download URLs are unset pending that publication.
+3. **Data hosting complete:** all four new-repository v0.1.0 assets match the
+   catalog sizes/digests and download URLs are populated.
 4. **Licensing and citation:** pending code licensing notice and author/title/ORCID
    metadata are recorded. Dataset reuse is reserved pending a licensing decision.
    Third-party redistribution review remains incomplete.

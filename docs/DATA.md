@@ -1,8 +1,8 @@
 # Dataset Archives and Provenance
 
 `data/manifests/archives.json` records archive byte sizes, SHA-256, unique object
-counts and logical file counts. Download URLs are unset pending archive upload
-to the replacement repository. Local archive hashes remain verified.
+counts and logical file counts. Download URLs point to the new repository's
+public v0.1.0 release. GitHub-reported sizes and digests match the verified archives.
 See [dataset rights](../DATA_LICENSE.md) before reuse. Local ZIPs are in `release_assets/` and
 are ignored by Git. Copy/upload them separately, not through normal Git history.
 

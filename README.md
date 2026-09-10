@@ -22,7 +22,7 @@ hardware. A separate, opt-in lab robot-cycle launcher is described below.
 > Offline tests, detached-copy reproduction and a synthetic CPU pipeline smoke
 > test pass. A fresh GPU installation has not been validated.
 > Code: [rights reserved; licensing pending](LICENSE). Data: [rights notice](DATA_LICENSE.md).
-> Dataset archive publication in the replacement repository is pending.
+> Datasets: [v0.1.0 release](https://github.com/pranavc2255/Robotic_Contact_aware_VLM_UPV_System/releases/tag/v0.1.0).
 
 ## Quick Start
 
@@ -134,8 +134,7 @@ upv-reproduce install-data runtime --archive release_assets/runtime.zip
 ```
 
 The four archives have verified sizes and SHA256 digests in
-`data/manifests/archives.json`. Download URLs remain unset until they are
-uploaded to the replacement repository's releases.
+`data/manifests/archives.json`, with download URLs for the public v0.1.0 release.
 Git alone supports saved-table reproduction;
 image-based reruns need the archives. Do not commit dataset ZIPs, model weights,
 environments or generated runs. Historical `workspace/...` paths are provenance

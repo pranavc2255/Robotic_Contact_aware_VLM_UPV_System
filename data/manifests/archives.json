@@ -5,7 +5,7 @@
     "size_bytes": 805403052,
     "logical_files": 6396,
     "unique_objects": 2878,
-    "url": null
+    "url": "https://github.com/pranavc2255/Robotic_Contact_aware_VLM_UPV_System/releases/download/v0.1.0/contact.zip"
   },
   "perception": {
     "file": "perception.zip",
@@ -13,7 +13,7 @@
     "size_bytes": 135989674,
     "logical_files": 2513,
     "unique_objects": 1535,
-    "url": null
+    "url": "https://github.com/pranavc2255/Robotic_Contact_aware_VLM_UPV_System/releases/download/v0.1.0/perception.zip"
   },
   "path_length": {
     "file": "path_length.zip",
@@ -21,7 +21,7 @@
     "size_bytes": 421224517,
     "logical_files": 1638,
     "unique_objects": 861,
-    "url": null
+    "url": "https://github.com/pranavc2255/Robotic_Contact_aware_VLM_UPV_System/releases/download/v0.1.0/path_length.zip"
   },
   "runtime": {
     "file": "runtime.zip",
@@ -29,6 +29,6 @@
     "size_bytes": 2950352,
     "logical_files": 786,
     "unique_objects": 557,
-    "url": null
+    "url": "https://github.com/pranavc2255/Robotic_Contact_aware_VLM_UPV_System/releases/download/v0.1.0/runtime.zip"
   }
 }
