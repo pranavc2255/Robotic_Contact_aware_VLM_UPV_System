@@ -24,7 +24,7 @@ def write(path, value):
 
 def contact(root, dataset):
     rows=read(root/'results/contact'/dataset/'predictions.csv')
-    expected=73 if dataset=='contact73' else 82
+    expected={'contact73':73,'contact82':82,'contact89':89}[dataset]
     models=defaultdict(list)
     for r in rows:models[r['model']].append(r)
     summaries={};selections=[]
@@ -126,11 +126,11 @@ def runtime(root):
 
 def reproduce(root,out):
     out.mkdir(parents=True,exist_ok=False)
-    report={'contact73':contact(root,'contact73'),'contact82':contact(root,'contact82'),
+    report={'contact89':contact(root,'contact89'),'contact73':contact(root,'contact73'),'contact82':contact(root,'contact82'),
             'perception':perception(root),'path_length':paths(root),'runtime':runtime(root)}
     for name,value in report.items():write(out/(name+'.json'),value)
     lines=['# Offline reproduction','', 'No model inference or hardware access.','']
-    for dataset in ('contact73','contact82'):
+    for dataset in ('contact89','contact73','contact82'):
         lines += [f'## {dataset}','| Method | N | Precision | Recall | Specificity | F1 | Good selection |','|---|---:|---:|---:|---:|---:|---:|']
         for model,r in report[dataset]['metrics'].items():
             lines.append(f"| {model} | {r['n']} | {100*r['precision']:.2f}% | {100*r['recall']:.2f}% | {100*r['specificity']:.2f}% | {100*r['F1']:.2f}% | {r['selected_good']}/{r['scenes']} |")
@@ -147,17 +147,17 @@ def main():
     rep=sub.add_parser('reproduce',help='Recompute metrics from committed saved predictions only')
     rep.add_argument('--output',type=Path)
     ds=sub.add_parser('install-data',help='Install a verified archive; no inference')
-    ds.add_argument('dataset',choices=['contact','perception','path_length','runtime'])
+    ds.add_argument('dataset',choices=['contact','contact89','pl200','perception','path_length','runtime'])
     ds.add_argument('--archive',type=Path)
     inf=sub.add_parser('infer-contact',help='Explicit HTTP calls to an already-running model server')
-    inf.add_argument('--dataset',choices=['contact73','contact82'],required=True)
+    inf.add_argument('--dataset',choices=['contact73','contact82','contact89'],required=True)
     inf.add_argument('--model',required=True)
     inf.add_argument('--server-url',default='http://127.0.0.1:8899')
     inf.add_argument('--case-id')
     inf.add_argument('--output',type=Path,required=True)
     inf.add_argument('--run-inference',action='store_true')
     cv=sub.add_parser('baseline-rgb',help='CPU-only saved RGB/mask algorithm')
-    cv.add_argument('--dataset',choices=['contact73','contact82'],required=True)
+    cv.add_argument('--dataset',choices=['contact73','contact82','contact89'],required=True)
     cv.add_argument('--case-id')
     cv.add_argument('--output',type=Path,required=True)
     cv.add_argument('--run',action='store_true')

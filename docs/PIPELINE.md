@@ -56,8 +56,7 @@ The perception subprocess exits before the next stage. Now start Qwen separately
 in the VLM environment:
 
 ```bash
-python scripts/start_vlm_server.py --model qwen25-32b \
-  --model-path local_models/Qwen2.5-VL-32B-Instruct --load-4bit --run
+python scripts/start_qwen25_32b_bnb4_contact_server.py
 ```
 
 In another terminal with the installed package and vision dependencies:
@@ -72,6 +71,18 @@ fail the stage; they are not converted into bad-contact labels. Ground-truth
 annotations are only used by benchmark evaluation commands.
 
 ## One-command computational pipeline
+
+For automatic sequential residency on one RTX 4090, use the main NF4 launcher:
+
+```bash
+.venv/bin/python scripts/run_prequantized_qwen_upv_cycle.py \
+  --gpu-simulation --case-dir /path/to/saved_rgbd --material brick --axis major
+```
+
+This starts and stops Qwen itself; do not start a separate VLM server. It uses
+the standard checkpoint processor settings, not the reduced-pixel experiment.
+See [complete cycle](PREQUANTIZED_ROBOT_CYCLE.md) for live-camera planning and
+operator-confirmed physical execution with manual PL-200 terminal entry.
 
 On a host where the separate VLM server can remain resident (for example a second
 GPU/host with a shared filesystem), all stages can be invoked together:
@@ -111,6 +122,7 @@ path-length study, reproduced with `upv-reproduce recompute-paths`.
 
 - Saved-result reproduction and standard-library planning tests: passed.
 - Synthetic saved-mask -> candidate crops -> mocked contact -> path smoke: passed.
-- Real GroundingDINO/SAM2/CLIP plus Qwen end-to-end: **not run in this release audit**.
+- The main NF4 launcher has a saved successful real-perception/Qwen computational
+  run with simulated hardware; fresh installations require local validation.
 - Robot motion, calibration deployment, clamping and UPV acquisition: **not supported
   by this public runner**; historical sources are references only.

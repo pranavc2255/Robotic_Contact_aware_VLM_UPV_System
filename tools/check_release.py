@@ -66,9 +66,11 @@ def main():
                         raise ValueError(f'Possible secret in archive {name}: {file}')
                 report['archives'][name] = dict(sha256='passed', logical_files=len(index),
                     max_internal_path_chars=max(map(len, z.namelist())))
-                if name == 'contact':
+                if name in ('contact', 'contact89'):
                     entries = json.loads((ROOT/'data/manifests/contact_inputs.json').read_text())
                     for entry in entries:
+                        if (entry['dataset'] == 'contact89') != (name == 'contact89'):
+                            continue
                         for field in ('image','mask','geometry','rgb'):
                             if entry[field].removeprefix('workspace/') not in index:
                                 raise ValueError(f'Missing contact input {entry[field]}')

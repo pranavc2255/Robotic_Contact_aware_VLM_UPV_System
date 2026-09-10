@@ -1,0 +1,3210 @@
+[
+  {
+    "file": "contact30/0001.usp",
+    "original_path": "data from proceq PL 200/30_readings/Comparison of good and bad contact_30_readings/Pundit_2026_05_26-11.52.44.usp",
+    "sha256": "cae4928a6640edee9355df0a03146641436cf282ed6b1db17877f37bfeefbdd2",
+    "size_bytes": 1071726,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0002.csv",
+    "original_path": "data from proceq PL 200/30_readings/Comparison of good and bad contact_30_readings/PL-Link Data_export1_good_contact.csv",
+    "sha256": "3446513cb1317b9d7278768fdde1ac5edb598efd6f4673414611b667458347d0",
+    "size_bytes": 2656584,
+    "group": "contact30",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "contact30/0003.csv",
+    "original_path": "data from proceq PL 200/30_readings/Comparison of good and bad contact_30_readings/PL-Link Data_export1_bad_contact.csv",
+    "sha256": "2835a017d702bd9ad15e66f2753bc8cbc9c1fce43c6bf1e8652728f8a732c8c8",
+    "size_bytes": 2181324,
+    "group": "contact30",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "contact30/0004.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig01_transmission_time_repeated_readings.png",
+    "sha256": "fd023c911f2ada42de9f94bf16595d75f21121745cdc91a121f57f34e7c4b46b",
+    "size_bytes": 378828,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0005.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig01_transmission_time_repeated_readings.pdf",
+    "sha256": "eeab6598426f4708610f93943f8cb5194bb51857650647d1ed34f112e89303ce",
+    "size_bytes": 16636,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0006.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig02_upv_velocity_repeated_readings.png",
+    "sha256": "3a6373957a4fe8eca49dced08a215a82364a0549668e83afa041aa9b2fe824bb",
+    "size_bytes": 434113,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0007.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig02_upv_velocity_repeated_readings.pdf",
+    "sha256": "89ca77b8d832e51d3443a0cd224ec4b9219f8cf22c3e0ff19e3c7a585b547a18",
+    "size_bytes": 17528,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0008.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig03_time_boxplot_with_points.png",
+    "sha256": "82fa81712fae6752ae99ccdaadc85e157071b387b897728f4dfd9c09e660d1ae",
+    "size_bytes": 244071,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0009.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig03_time_boxplot_with_points.pdf",
+    "sha256": "b4f8803517e51fa01671803cc0880fc65516a6f44c88061d0ea25083ed933ae3",
+    "size_bytes": 15800,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0010.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig04_velocity_boxplot_with_points.png",
+    "sha256": "62ee4475a8f1ad1db0174a4bede67ef6d7fd8d62f25f526d47619ac0709d0b29",
+    "size_bytes": 278965,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0011.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig04_velocity_boxplot_with_points.pdf",
+    "sha256": "921cf2c48e2139ee61a48fc4b94ec9afbc91fa74b4a4b56db8c564f282a1995c",
+    "size_bytes": 16425,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0012.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig05_transmission_time_distribution.png",
+    "sha256": "c4aaf02eee739015bf446a1cc93d2641752afdc1d3d1b94dfde125562884c1f3",
+    "size_bytes": 277448,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0013.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig05_transmission_time_distribution.pdf",
+    "sha256": "48b1acdcbbdd0d20a5c37b128dd2d82f312fc2643565e8c63ba7c02ad1d3f6cc",
+    "size_bytes": 25102,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0014.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig06_upv_velocity_distribution.png",
+    "sha256": "6fa8641ff8d28a5b9ed61f17d7a1e9b5841fd330cc7e3f34c1e8ac3e56fcf85a",
+    "size_bytes": 347968,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0015.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig06_upv_velocity_distribution.pdf",
+    "sha256": "f283455fec5aa7c4e8e60cc0f421a7098cf31adbecd1cb88c7241382dfeb4688",
+    "size_bytes": 26989,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0016.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig07_waveform_overlay_bad_good.png",
+    "sha256": "78fd05ac7f659e44ccab4773e458b33290452dd13c98db86415255f6c90adfd3",
+    "size_bytes": 753782,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0017.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig07_waveform_overlay_bad_good.pdf",
+    "sha256": "f673b2eecbc06643701d5ef24c59061b7393e91a68a53c7e18b030ec83a28971",
+    "size_bytes": 723851,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0018.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig08_mean_waveform_with_std.png",
+    "sha256": "d69494da651b3bb6c6a065198c0e5417d79c68eacf8cfaac88d4bc345d04947d",
+    "size_bytes": 711553,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0019.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig08_mean_waveform_with_std.pdf",
+    "sha256": "5fa6f8455229dfe9628456ba073d7931b84422b4c282557b5db6aa0646bb376b",
+    "size_bytes": 333142,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0020.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig09_waveform_peak_to_peak_comparison.png",
+    "sha256": "2c4de46b06a46170d56fd93157517eb7613f3dc442f0a013e1720d768c9e17f3",
+    "size_bytes": 276095,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0021.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig09_waveform_peak_to_peak_comparison.pdf",
+    "sha256": "8089297471f9c88bdcc54c06b4f01818a44dec504467d1ea336781b26f8aaab0",
+    "size_bytes": 13558,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0022.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig10_waveform_rms_energy_comparison.png",
+    "sha256": "6f2e606955fd18d4ae5db65b48529250c6123bd9b35aabaecfe1febc0a4a203b",
+    "size_bytes": 313244,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0023.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig10_waveform_rms_energy_comparison.pdf",
+    "sha256": "2cb5bf7cc3400d0386a74c8ecd23cd2a3c02017c60687163f818714816b552bb",
+    "size_bytes": 17210,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0024.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig11_contact_quality_summary_panel.png",
+    "sha256": "fc2cd63f91db641f1bfc1f18013006c16f36fa636d220d9cf0aba88f53323519",
+    "size_bytes": 1365773,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0025.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/figures/fig11_contact_quality_summary_panel.pdf",
+    "sha256": "ec1d0bf0310d65269c95efb4bbedbc77e736c1a2d960d410ed0df4c92c2ed6e8",
+    "size_bytes": 330158,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0026.csv",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/tables/reading_by_reading_results.csv",
+    "sha256": "fcaaad96bf4795f99d715bd789208574f2616ff1ab96131bc1b3e75f9db93484",
+    "size_bytes": 9933,
+    "group": "contact30",
+    "csv_first_line": "condition,source_file,reading_number,name,date_time,path_length_mm,time_us,velocity_m_s,signal_size_samples,peak_abs_adc,peak_to_peak_adc,rms_adc,energy_adc2"
+  },
+  {
+    "file": "contact30/0027.csv",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/tables/summary_statistics.csv",
+    "sha256": "c98d5e6132dfa32e4930a4a72ba0683f6fb63ff35fcf586aa3eb2a003a524d86",
+    "size_bytes": 2221,
+    "group": "contact30",
+    "csv_first_line": "condition,metric,n,mean,median,std,cv_percent,min,q1,q3,max,range,iqr"
+  },
+  {
+    "file": "contact30/0028.csv",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs/tables/waveform_quality_statistics.csv",
+    "sha256": "f1ddad73af4b75ef1d47b925f84583a31ba6c68ded9764c054ed725896d240cb",
+    "size_bytes": 5656,
+    "group": "contact30",
+    "csv_first_line": "condition,reading_number,path_length_mm,time_us,velocity_m_s,peak_abs_adc,peak_to_peak_adc,rms_adc,energy_adc2"
+  },
+  {
+    "file": "contact30/0029.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig01_normalized_velocity_percent_deviation_readings.png",
+    "sha256": "e6169898925ea1dd4e10c458ddfe5c343193e8e1d3b3afe83579d785aacd1cf0",
+    "size_bytes": 552208,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0030.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig01_normalized_velocity_percent_deviation_readings.pdf",
+    "sha256": "768f5d68c7111233a166fa7c302acaecfbd2688fd5a8df97eb4cbe34b539bc2d",
+    "size_bytes": 15672,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0031.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig02_normalized_velocity_percent_deviation_boxplot.png",
+    "sha256": "a54012de5aac50fd4788e6a1cc7bfbdab8edb271238a9a4f92fded21bfde3b97",
+    "size_bytes": 307923,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0032.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig02_normalized_velocity_percent_deviation_boxplot.pdf",
+    "sha256": "f852fe88f5a354c5ac16759a00680e1ba6a465d8e67bc538524f34098f5ca577",
+    "size_bytes": 14365,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0033.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig03_normalized_time_percent_deviation_readings.png",
+    "sha256": "777eb64a8ab0fc843d0acf9662a36a81ec71bc2d47994ae7463a47820a736a54",
+    "size_bytes": 558209,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0034.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig03_normalized_time_percent_deviation_readings.pdf",
+    "sha256": "3a3b12b725cb709a3d17c6070d55bf587c684feb201a3154d6c9e578cb7976b2",
+    "size_bytes": 14921,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0035.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig04_normalized_time_percent_deviation_boxplot.png",
+    "sha256": "44e4787a34bd6bfd93dbf85c9e04c9c11bcebeffb2bad7b2b824dc7354bfd7a9",
+    "size_bytes": 325165,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0036.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig04_normalized_time_percent_deviation_boxplot.pdf",
+    "sha256": "3c14fdaf28a8bcfccd9e57b04c5c943d71ea6dc0595404ff3894e864639719fa",
+    "size_bytes": 14297,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0037.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig05_mean_absolute_percent_deviation.png",
+    "sha256": "6d945d70e271309874bed317947e2a8238682fb95ca1b6d64503f5b0f4e48702",
+    "size_bytes": 212500,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0038.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig05_mean_absolute_percent_deviation.pdf",
+    "sha256": "4aff4bac000315c03e38b38bf1a7e940273ebedf1dc9c688ee1cb99e740cf30b",
+    "size_bytes": 13120,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0039.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig06_coefficient_of_variation_comparison.png",
+    "sha256": "fde95d06d457baf6537f08032df3b8881d32222760944a35cdc5b755f23bf8f9",
+    "size_bytes": 198032,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0040.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig06_coefficient_of_variation_comparison.pdf",
+    "sha256": "2d2769db439cf22d589690e43879f4ef0c9ec1f90f95c2aac6d85fff2cf3ca15",
+    "size_bytes": 12606,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0041.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig07_velocity_zscore_temporal_pattern.png",
+    "sha256": "3395d654e3f58f913f35de32d0228fde114115ce41b73ae5728f459d8e9382bc",
+    "size_bytes": 587703,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0042.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig07_velocity_zscore_temporal_pattern.pdf",
+    "sha256": "ba4717a58ff0385b52064ef2b453ff78aa2e2826f6e7f6bdafdaa406cc26b2b2",
+    "size_bytes": 13889,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0043.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig08_final_normalized_repeatability_panel.png",
+    "sha256": "e274d6b21dcd8fd9005047f6792d23653619e0e8c3cc585ae18997cac535d099",
+    "size_bytes": 1021452,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0044.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/figures/fig08_final_normalized_repeatability_panel.pdf",
+    "sha256": "bc4b4d2e326ec1a9f610a3d5995f15e71a06379c0ff3a830440bbfee3d5854c2",
+    "size_bytes": 19821,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0045.csv",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/tables/normalized_reading_by_reading_results.csv",
+    "sha256": "ac3f1fd975ba797abf47889ddaa0fad0a8e7766997a2a2586192996410f9291d",
+    "size_bytes": 19913,
+    "group": "contact30",
+    "csv_first_line": "condition,reading_number,path_length_mm,time_us,velocity_m_s,peak_abs_adc,peak_to_peak_adc,rms_adc,energy_adc2,time_us_mean_centered,time_us_percent_deviation,time_us_zscore,velocity_m_s_mean_centered,velocity_m_s_percent_deviation,velocity_m_s_zscore,peak_to_peak_adc_mean_centered,peak_to_peak_adc_percent_deviation,peak_to_peak_adc_zscore,rms_adc_mean_centered,rms_adc_percent_deviation,rms_adc_zscore"
+  },
+  {
+    "file": "contact30/0046.csv",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/tables/normalized_summary_statistics.csv",
+    "sha256": "9b05ab029334b72aacd0d7f6f18c676e7b897323f8071ae4fcde30d01547a09c",
+    "size_bytes": 885,
+    "group": "contact30",
+    "csv_first_line": "condition,n,path_length_mm,time_mean_us,time_std_us,time_cv_percent,velocity_mean_m_s,velocity_std_m_s,velocity_cv_percent,time_percent_deviation_min,time_percent_deviation_max,velocity_percent_deviation_min,velocity_percent_deviation_max,peak_to_peak_mean_adc,peak_to_peak_cv_percent,rms_mean_adc,rms_cv_percent"
+  },
+  {
+    "file": "contact30/0047.csv",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_contact_comparison_outputs_normalized/tables/mean_absolute_percent_deviation_summary.csv",
+    "sha256": "f738254d88908c095b30705e550302723436a1cf5637b6abc56421cb97f66eb2",
+    "size_bytes": 254,
+    "group": "contact30",
+    "csv_first_line": "condition,mean_abs_time_deviation_percent,mean_abs_velocity_deviation_percent,std_abs_velocity_deviation_percent"
+  },
+  {
+    "file": "contact30/0048.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig01_raw_transmission_time_repeated_readings.png",
+    "sha256": "48c93789ecb8ecfe3c59aec9f27f99a5c7c6b28bb779d27ed700ffafb0201247",
+    "size_bytes": 430448,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0049.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig01_raw_transmission_time_repeated_readings.pdf",
+    "sha256": "9a53d73c50d218cf21e186d782bd88d0cd6d639843787fdde054bb22b7697632",
+    "size_bytes": 17519,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0050.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig02_raw_upv_velocity_repeated_readings.png",
+    "sha256": "8e445e0886a7e6ec9ada326dc50f460fe726809188efe0e2e0c8a090f2e58c64",
+    "size_bytes": 489732,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0051.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig02_raw_upv_velocity_repeated_readings.pdf",
+    "sha256": "fc94ba3d99d0b7bec855d8aa54074ba94236fbb384c5cb3da89adc7f698405d8",
+    "size_bytes": 18266,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0052.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig03_raw_time_boxplot_with_points.png",
+    "sha256": "4d2bb8c964f5ea5766d034eda376170a5d0e4d46448ee5be2a566c578c31ac41",
+    "size_bytes": 278781,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0053.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig03_raw_time_boxplot_with_points.pdf",
+    "sha256": "70e432fc2a770a8eb3fdc9ee7e57bc0c64e72ddf338b0e69af6935929e59503b",
+    "size_bytes": 16793,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0054.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig04_raw_velocity_boxplot_with_points.png",
+    "sha256": "eaa20c8c3639c35f09d71a7453285b918c35e966f4c736a007dc8e4746be360a",
+    "size_bytes": 315593,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0055.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig04_raw_velocity_boxplot_with_points.pdf",
+    "sha256": "d85adf386e0e7c18b364cae6c9c425760d727e1cbb1104a1990ab4cc00282609",
+    "size_bytes": 17458,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0056.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig05_raw_transmission_time_distribution.png",
+    "sha256": "303a322a979d24975cb92f252781e0bcf61d14a644281ed7b3e4f0b23b86a307",
+    "size_bytes": 320763,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0057.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig05_raw_transmission_time_distribution.pdf",
+    "sha256": "3c088340833f6abe5dbb2558d851b69823d600de77bd006ee383dfa69e29e3b9",
+    "size_bytes": 24971,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0058.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig06_raw_upv_velocity_distribution.png",
+    "sha256": "0f5ded7d0473319f5a655fb9914b1fa63a40d242181107efd2bbf7c94c5ad917",
+    "size_bytes": 392112,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0059.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig06_raw_upv_velocity_distribution.pdf",
+    "sha256": "727f01c62cd3b22b37eb8aecf3a4f90be94f43c8069dd25dea1042c0b32349d2",
+    "size_bytes": 26914,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0060.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig07_norm_velocity_percent_deviation_readings.png",
+    "sha256": "bed328061700331e78b327cdc430ff1a006c3f978960c7aae7a41dbcd5d8252a",
+    "size_bytes": 597690,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0061.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig07_norm_velocity_percent_deviation_readings.pdf",
+    "sha256": "75998422de05ce0670e22346d72a5498780df9c04ecf086d5c1b345c85b16298",
+    "size_bytes": 15808,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0062.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig08_norm_velocity_percent_deviation_boxplot.png",
+    "sha256": "ba1aea2dcd90cc42a7a49492198a06a3519572064a947a7177e845f4825bd048",
+    "size_bytes": 340837,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0063.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig08_norm_velocity_percent_deviation_boxplot.pdf",
+    "sha256": "a37355d29f2adf07caa106fbf75c5599e2c274dbc2ac4d7cbbbd38df3345d647",
+    "size_bytes": 15037,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0064.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig09_norm_time_percent_deviation_readings.png",
+    "sha256": "6f0f7d457ab188bd57208eccef1fd19a8655e817a02297cbf8999ba811e7a659",
+    "size_bytes": 602839,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0065.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig09_norm_time_percent_deviation_readings.pdf",
+    "sha256": "15f0f91fb958379a27abe64e2c1786bad19e08975be9310ca02fae3f537048e4",
+    "size_bytes": 14919,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0066.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig10_norm_time_percent_deviation_boxplot.png",
+    "sha256": "3c97370f2dde3a738dbe1984115988708b03a1f284ed4ab22bfc26001639a03f",
+    "size_bytes": 358939,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0067.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig10_norm_time_percent_deviation_boxplot.pdf",
+    "sha256": "cbf688b9178ade1f4acd20e2d24be573bf8dccfa949b935ea253fd34d3f89612",
+    "size_bytes": 14554,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0068.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig11_norm_coefficient_of_variation_comparison.png",
+    "sha256": "9f494e714cdb87bd98e47b919a492a711b2fcfe2e16360173ee37c8001436577",
+    "size_bytes": 229287,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0069.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig11_norm_coefficient_of_variation_comparison.pdf",
+    "sha256": "9cb1a903693d929505b22f780e45afd14a329f192af327847106f80274071701",
+    "size_bytes": 13033,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0070.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig12_norm_mean_absolute_percent_deviation.png",
+    "sha256": "ba3aa0130c1c6e496e53a9cbe4a6cdb17d114bda788fa1e141f577bcad29acbb",
+    "size_bytes": 253737,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0071.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig12_norm_mean_absolute_percent_deviation.pdf",
+    "sha256": "9889838b2801dd143bb9c0c700ed587a9b3c48a01a6bd687200254c2b8194d79",
+    "size_bytes": 13543,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0072.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig13_waveform_overlay_individual_readings.png",
+    "sha256": "e6f0b3ca208b8407bea6c1103df2867e4168c288b2007e1fa5ec9c99c4a961ac",
+    "size_bytes": 790430,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0073.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig13_waveform_overlay_individual_readings.pdf",
+    "sha256": "cf5e90947f97327283848135f91cde6f6f74eb65cc6f9b073354c11b6a183468",
+    "size_bytes": 732663,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0074.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig14_waveform_mean_with_std_band.png",
+    "sha256": "35fe63dc05fecf414145f2d55e8c2ee6b0bbe394a735f9fd015415fd033ecce5",
+    "size_bytes": 768554,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0075.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig14_waveform_mean_with_std_band.pdf",
+    "sha256": "378c907e22ba80b4e9f8e1cc9d72f6a11b740a8d47687de36062b17dfaf62e94",
+    "size_bytes": 334965,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0076.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig15_waveform_peak_to_peak_comparison.png",
+    "sha256": "fde1794bb29011b9bdd170d4409e2897caef2e7c952928cad2f673b734552fe5",
+    "size_bytes": 316557,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0077.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig15_waveform_peak_to_peak_comparison.pdf",
+    "sha256": "451b7706171fc68898755193c55f79ebc2cf46a715054669ef06c8b5c7620998",
+    "size_bytes": 14059,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0078.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig16_waveform_rms_comparison.png",
+    "sha256": "12aed24bed1fb15ae533ebba167e940620a24b6e2e2d5735ec014be5a63df6f9",
+    "size_bytes": 240159,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0079.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig16_waveform_rms_comparison.pdf",
+    "sha256": "5c9f0b3913a33d88637d1e04144049dacf5cdd4ac34c086149030093c3d2cfc8",
+    "size_bytes": 14198,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0080.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig17_combined_raw_normalized_waveform_panel.png",
+    "sha256": "335111e59f6e02266f42f29a718b0c32b3b4b1e960124683f0b97246a26d691c",
+    "size_bytes": 1983735,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0081.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig17_combined_raw_normalized_waveform_panel.pdf",
+    "sha256": "b7ec4434abcf6fa91de73b25f13c7e5d937e30fdc4615fe705bc48ab58558ef9",
+    "size_bytes": 339690,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0082.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig18_compact_normalized_repeatability_panel.png",
+    "sha256": "3335e033f0f5c79460de5e3bf3cb97c18830be70814457d2e40543cf414287f1",
+    "size_bytes": 1114743,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0083.pdf",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/figures/fig18_compact_normalized_repeatability_panel.pdf",
+    "sha256": "11592ed9faec3b3ae3b39dc6dc4a8e7f97553d69226f4306f5072592fa52c513",
+    "size_bytes": 19829,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0084.csv",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/tables/reading_by_reading_results_with_normalized_metrics.csv",
+    "sha256": "ac0f053ed2ea7b92fabfb95f6c98d8963cd4e1f20c905968b3d6afebd87b21d2",
+    "size_bytes": 33062,
+    "group": "contact30",
+    "csv_first_line": "condition_key,condition_label,condition_short,source_file,reading_number,name,date_time,path_length_mm,time_us,velocity_m_s,signal_size_samples,peak_abs_adc,peak_to_peak_adc,rms_adc,energy_adc2,time_us_mean_centered,time_us_percent_deviation,time_us_zscore,velocity_m_s_mean_centered,velocity_m_s_percent_deviation,velocity_m_s_zscore,peak_to_peak_adc_mean_centered,peak_to_peak_adc_percent_deviation,peak_to_peak_adc_zscore,rms_adc_mean_centered,rms_adc_percent_deviation,rms_adc_zscore,peak_abs_adc"
+  },
+  {
+    "file": "contact30/0085.csv",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/tables/detailed_summary_statistics.csv",
+    "sha256": "54cbc62b078f8ce65743705dc48b77200dbe7e764689ea0e6948245ce09011ac",
+    "size_bytes": 4799,
+    "group": "contact30",
+    "csv_first_line": "condition_key,condition_label,condition_short,path_length_mm,metric,n,mean,median,std,cv_percent,min,q1,q3,max,range,iqr"
+  },
+  {
+    "file": "contact30/0086.csv",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/tables/condition_level_summary.csv",
+    "sha256": "3fa7de88c9dc79fffb78a276b6578ea5f49f3f7298058e51783be9951ad76363",
+    "size_bytes": 1165,
+    "group": "contact30",
+    "csv_first_line": "condition_key,condition_label,condition_short,path_length_mm,n,time_mean_us,time_std_us,time_cv_percent,time_range_us,time_mean_abs_percent_deviation,velocity_mean_m_s,velocity_std_m_s,velocity_cv_percent,velocity_range_m_s,velocity_mean_abs_percent_deviation,peak_to_peak_mean_adc,peak_to_peak_std_adc,peak_to_peak_cv_percent,rms_mean_adc,rms_std_adc,rms_cv_percent"
+  },
+  {
+    "file": "contact30/0087.csv",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs/tables/waveform_quality_statistics.csv",
+    "sha256": "df50ee6e5eda772f0054b55e71cf43af6cf23cae6c32dfea660355b1fdec51f4",
+    "size_bytes": 9172,
+    "group": "contact30",
+    "csv_first_line": "condition_key,condition_short,reading_number,path_length_mm,time_us,velocity_m_s,velocity_m_s_percent_deviation,peak_abs_adc,peak_to_peak_adc,rms_adc,energy_adc2"
+  },
+  {
+    "file": "contact30/0088.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs_extra/figures/fig01_cleaned_normalized_transmission_time_scatter.png",
+    "sha256": "5d2ae4f54ced7f743aaffe826fd7e608fa4f252424d8e7b6962aef8ca0e3ada9",
+    "size_bytes": 284830,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0089.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs_extra/figures/fig02_cleaned_normalized_upv_velocity_scatter.png",
+    "sha256": "2106b5421e5642b5dd793cc90dff653b6f1fe5479d8617b7924b6db1e1636ea4",
+    "size_bytes": 292770,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0090.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs_extra/figures/fig03_dominant_peak_sample_index_boxplot.png",
+    "sha256": "e4ea78e90d3d4d0c3f6b2174fe8c6da994d8a9aa7f8cfec6772b93acbac23c66",
+    "size_bytes": 136547,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0091.png",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs_extra/figures/fig04_dominant_peak_sample_index_over_readings.png",
+    "sha256": "9e70aec92da96b81c131caaff34988aafe33231ccf76f20835bb0b763062f315",
+    "size_bytes": 183812,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0092.csv",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/UPV_coupling_condition_comparison_outputs_extra/tables/dominant_peak_time_velocity_normalized_table.csv",
+    "sha256": "d1f101c739efc24de2c0bde4c65298bc2689a8895a2caef422be0f678a480946",
+    "size_bytes": 11429,
+    "group": "contact30",
+    "csv_first_line": "condition_key,condition_label,reading_number,path_length_mm,time_us,velocity_m_s,dominant_peak_index,dominant_peak_value_adc,peak_abs_adc,time_us_percent_deviation,velocity_m_s_percent_deviation,dominant_peak_index_percent_deviation"
+  },
+  {
+    "file": "contact30/0093.py",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/compare_good_and_bad_upv_contact_normalized.py",
+    "sha256": "57d7d32abe4bde21ae2b75f4a2f75dbbc2267e39e815af4e9fe4b48f443313be",
+    "size_bytes": 23139,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0094.py",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/compare_good_and_bad_upv_contanct.py",
+    "sha256": "401a062a73ad5850904e34e85990b5aa5030069a6d4b0019a377a2226564379e",
+    "size_bytes": 29029,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0095.py",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/compare_upv_coupling_conditions_combined.py",
+    "sha256": "84bc30c80f319b90470d9fbc73f2808ce0389758e521561a2667ce5aa1e27086",
+    "size_bytes": 40854,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "contact30/0096.py",
+    "original_path": "data from proceq PL 200/30_readings/Comparison 30 readings figures and codes/make_extra_upv_coupling_figures.py",
+    "sha256": "549130e4cca5b1905e9f78586d83d4703e0c00afad5e3dfebb0143acef849f19",
+    "size_bytes": 15245,
+    "group": "contact30",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0097.usp",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/Pundit_2026_05_29-05.36.00.usp",
+    "sha256": "76eb5fbe0aae75aa0484a0a9d58ba6510d5ffe26660b3a089b47ff78c11ea431",
+    "size_bytes": 1401688,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0098.usp",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/B2 Bad/Pundit_2026_05_29-05.58.49.usp",
+    "sha256": "c64a2fe60daae201a0d525c098d486d297df81797ff8d365159a2ff77814e501",
+    "size_bytes": 659070,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0099.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/B2B.csv",
+    "sha256": "9383ad83e2fbfbaeeb2bc864b45ef01d0fc6208bea20f2337f78edd378644555",
+    "size_bytes": 397800,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0100.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/B5B.csv",
+    "sha256": "780f9e4b4210e4cc472817317ef7d756cd9c31827b0719e4462fca7a2cf8e432",
+    "size_bytes": 349330,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0101.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/B4B.csv",
+    "sha256": "45fced6be0b009cba2c1be6f1c12badb8aa37cfd3bcceb3e87dbea0a7b391340",
+    "size_bytes": 387566,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0102.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/B3B.csv",
+    "sha256": "5c2440de11ab8f9e82b32f7bf89f868464ca21447cbd301ba2d9573e4ccc0332",
+    "size_bytes": 385000,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0103.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/T5B.csv",
+    "sha256": "29ad7a5a5f5acba14bc4f68d7ba3881a6f92b7f9a17364f41d9d0773fdf508ff",
+    "size_bytes": 341008,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0104.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/T4B.csv",
+    "sha256": "62971d276d0f9b4801ca52382c5f087cf58648abce90307d75c2726bf35a2539",
+    "size_bytes": 365620,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0105.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/T3B.csv",
+    "sha256": "5728f3a40586c08143e86818fed1c351fb8912d575de5f7af397a154c815b5c7",
+    "size_bytes": 337116,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0106.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/T2B.csv",
+    "sha256": "a3c1bcb9bb02df8e131a2fa2c98322a69b1861508586566a65edaa17a766db83",
+    "size_bytes": 343390,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0107.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/T5G.csv",
+    "sha256": "3fa68b6240b5d47f6b0f81372e51bfc09a2857a4fe6480b219c6cdc7cfb97294",
+    "size_bytes": 391862,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0108.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/T4G.csv",
+    "sha256": "d77ed8c9fab7fec0913a0b0835ffd74af24e52d4269f0dcc06f11e7385ea11f4",
+    "size_bytes": 409404,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0109.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/T3G.csv",
+    "sha256": "f59d5c439c7f0736fd28c9e53b929fe3703175ff6a51e328fac55492889f08fc",
+    "size_bytes": 369968,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0110.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/T2G.csv",
+    "sha256": "ddcd704070b15822e281e83f3124b2624ccdcc46e8c5cf3829dd332e89658bb8",
+    "size_bytes": 384970,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0111.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/T1G.csv",
+    "sha256": "c2ad61c69996599f04fabee15e182d735f54e2772b5c81fb7ba11bddf19f8ed8",
+    "size_bytes": 389858,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0112.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/B5G.csv",
+    "sha256": "27c3707d1611b571afc13a015258b6a27b746271ef222571a6691fff56d41e40",
+    "size_bytes": 411100,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0113.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/B4G.csv",
+    "sha256": "9ec73c4ddf5aa284390d7bd4997ab618d1a29b523bd8b6da853acd56dc33c6bd",
+    "size_bytes": 412094,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0114.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/B3G.csv",
+    "sha256": "64d324cc85a00667a79919a0c5a7c714625a8cd46e549d3f95a4a05a63ebe775",
+    "size_bytes": 411996,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0115.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/B2G.csv",
+    "sha256": "523d3deba182abfb1fd1af71e81919bcda2e715aa3752944f285942f37c32888",
+    "size_bytes": 415794,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0116.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/B1G.csv",
+    "sha256": "ec1f8a23717df8d59d18b4562c7ccd25a057c6cb65f31a6e1b8929d0a6bf40c8",
+    "size_bytes": 418312,
+    "group": "e45",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  },
+  {
+    "file": "e45/0117.js",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/make_waveform_preview.js",
+    "sha256": "a2142ac72aeb4308accf5a56bf9d25a9cc05d851e42e8f75f17a2e6a2fcd0105",
+    "size_bytes": 10420,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0118.py",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/analyze_upv_metrics.py",
+    "sha256": "6dade451b29a39fe2e4dd02d36b5b9999794b309abd5312af48be216342be6cf",
+    "size_bytes": 11421,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0119.py",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/organize_upv_signal_metrics.py",
+    "sha256": "60d44b24ba9c87257de4355665586edaed01095b1e6adbbf769e3ead698d1c8f",
+    "size_bytes": 12206,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0120.py",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/create_selected_journal_metrics.py",
+    "sha256": "3f149a478edde76f377424bf8892e10501d3e2add49f88c673bdc61b1e848b64",
+    "size_bytes": 6047,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0121.py",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/build_journal_tables_docx.py",
+    "sha256": "cb45c4ef7ca4aa946e36fbba1ccf2d82ad08775792df6fd1a245fdd500ec4c41",
+    "size_bytes": 16100,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0122.py",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/build_updated_journal_tables_and_figures.py",
+    "sha256": "7fa55f1beeda4c20e895d74f8c6c1af38ed64c9a58481d993ce04118817fb7ad",
+    "size_bytes": 26582,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0123.py",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/build_journal_tables_and_figures_v2.py",
+    "sha256": "b11a563252e63808632d0c8738d9e69471ed210a4f7e969bb97d2e171617b28a",
+    "size_bytes": 26846,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0124.py",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/create_titleless_figure_variants.py",
+    "sha256": "7ff814814670352cd667593944a6e8212ac3b666d4669b3219827c1e119a9cc0",
+    "size_bytes": 1329,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0125.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/figures/waveform_preview_B1G_repeat-001.svg",
+    "sha256": "17a9dcf8391b87533d8699711e4219ddcc8ff1fff4d5a0e4dd52a6961082a853",
+    "size_bytes": 130215,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0126.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B1G/svg/B1G_reading-1.svg",
+    "sha256": "17a9dcf8391b87533d8699711e4219ddcc8ff1fff4d5a0e4dd52a6961082a853",
+    "size_bytes": 130215,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0127.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B1G/svg/B1G_reading-2.svg",
+    "sha256": "7e552be496c20f0f4599da0b5fdd403500f197ccbb2a4fabe1f9d7fc769df8a6",
+    "size_bytes": 130189,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0128.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B1G/svg/B1G_reading-3.svg",
+    "sha256": "04b91fab22658b47f4511bf7759fc82e13976ed187daa7b014c21392e61e4c74",
+    "size_bytes": 130029,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0129.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B1G/svg/B1G_reading-4.svg",
+    "sha256": "7175d48a8584e8b469df581583ff7e01177606c70ed2926ee09f43dea1523f95",
+    "size_bytes": 130398,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0130.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B1G/svg/B1G_reading-5.svg",
+    "sha256": "7ade7aeb867e6b44cec288abd5599d2e81e98fd4b6ff1178d3de491e87007e48",
+    "size_bytes": 130265,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0131.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B1G/png/B1G_reading-1.png",
+    "sha256": "13dfac2eb70c095a8512a6af0bfb2a82d23c6192af470894b34af81b762bccf7",
+    "size_bytes": 285921,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0132.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B1G/png/B1G_reading-2.png",
+    "sha256": "22f9d4eed6fdea9f5c52a9537df9eba4f0883770c6b8b3f31ac66e1ba54b87db",
+    "size_bytes": 288900,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0133.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B1G/png/B1G_reading-3.png",
+    "sha256": "2efd93bb716212c3ce95d298ec737664a2ab7d988d320b046ed21d436912a112",
+    "size_bytes": 300441,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0134.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B1G/png/B1G_reading-4.png",
+    "sha256": "83a51b4b88d114a6188a3d6201456e60397676001541bbe0c7c92ee9feca8336",
+    "size_bytes": 239910,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0135.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B1G/png/B1G_reading-5.png",
+    "sha256": "376b910ffe9c6f8f09609fe834d8872d4739a36adf59ec513b5b8cb8eceff04a",
+    "size_bytes": 278843,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0136.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2B/svg/B2B_reading-1.svg",
+    "sha256": "c628f312db1af8099c90631b34be212e65390fbe869a5e0c3ef4d1dee79d8cd3",
+    "size_bytes": 130435,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0137.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2B/svg/B2B_reading-2.svg",
+    "sha256": "36265fb9046316fefa5b3b2ac51617b39c5e6344b6c6161d8371fd920b98cc7a",
+    "size_bytes": 130435,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0138.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2B/svg/B2B_reading-3.svg",
+    "sha256": "92eb12698020abf096778d62a3541db34b3b72309ef0757f6522473bc12e2779",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0139.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2B/svg/B2B_reading-4.svg",
+    "sha256": "a640dc70b89a963bcc22b9321cbd162e30b2ae9b58bc72e30f6bce44feb79fb2",
+    "size_bytes": 130435,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0140.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2B/svg/B2B_reading-5.svg",
+    "sha256": "725b0a94f3e96783d246db1ba5d971e62d8fd0a4df99f72496abe2d6ec57c0fc",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0141.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2B/png/B2B_reading-1.png",
+    "sha256": "9ca5ac6c5ad7ba036387183a2b27d51fa888160807c0d4618051a223f877e8dd",
+    "size_bytes": 214368,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0142.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2B/png/B2B_reading-2.png",
+    "sha256": "9a23dc870531a8aeee43591968af5dd638118c15f5904813bd05caf02c65955f",
+    "size_bytes": 213626,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0143.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2B/png/B2B_reading-3.png",
+    "sha256": "0916cc702f837612b137e978e05b2180c59d8f57ca206de14036b9f36306494f",
+    "size_bytes": 213380,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0144.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2B/png/B2B_reading-4.png",
+    "sha256": "0e94d72e9c91aef1e8f3a1218c51bd3de0eb95318499eda25465e014f782089e",
+    "size_bytes": 212263,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0145.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2B/png/B2B_reading-5.png",
+    "sha256": "01cf0bcba28896a65cdc818599c4bbe5f4fd048d04e90ecf0ae8ea7de32f6670",
+    "size_bytes": 214110,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0146.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2G/svg/B2G_reading-1.svg",
+    "sha256": "0beda0e9c2af566ac154713621f23052f3af6b74a7e8eb5bb755d8fbe1fa45b2",
+    "size_bytes": 130344,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0147.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2G/svg/B2G_reading-2.svg",
+    "sha256": "61d4d79f5ef29934c6a245e21ee1b9ca9eed2102a6cb85a8765e635bd6422e83",
+    "size_bytes": 130034,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0148.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2G/svg/B2G_reading-3.svg",
+    "sha256": "140ed18fb9fca4a071711f7f48b641db33926eeb1fa96d377ba540a8d9e833ea",
+    "size_bytes": 130225,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0149.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2G/svg/B2G_reading-4.svg",
+    "sha256": "612556d6bdd75e5a593e12918e769ac08dbd935a217b6eabad360fd5abf919e1",
+    "size_bytes": 130233,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0150.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2G/svg/B2G_reading-5.svg",
+    "sha256": "13cc05549defd3a82f3543f4b21a0bae2459c571a611341adf6aae99fa876c00",
+    "size_bytes": 130118,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0151.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2G/png/B2G_reading-1.png",
+    "sha256": "5d99b27158ff1d07b9ee83c3d2c81587f3f2e45314f5ff3a2e6e65ef4f858df5",
+    "size_bytes": 269016,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0152.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2G/png/B2G_reading-2.png",
+    "sha256": "3247c2c3ec9d5ec7e85fa1c11e8c99c7e40b2ac59cf3948ca7a93b71d1f0d80f",
+    "size_bytes": 308450,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0153.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2G/png/B2G_reading-3.png",
+    "sha256": "a447558389bbf84555580b6fcdba3950fd7d67ab2ad53a04d023d4a05b7b10e2",
+    "size_bytes": 281743,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0154.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2G/png/B2G_reading-4.png",
+    "sha256": "c76b10f0495cebf8862e843c2059666b3400f79f7570a68b10cfa454491df126",
+    "size_bytes": 282207,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0155.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B2G/png/B2G_reading-5.png",
+    "sha256": "ee2abc1c0c5ee124875b43fd1d90f3d3873779d5dcb98ff816bb4f68d73a4918",
+    "size_bytes": 295939,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0156.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3B/svg/B3B_reading-1.svg",
+    "sha256": "581587d1797ca7ab8745175fd5686dea628866a48258a694fce83b8300890561",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0157.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3B/svg/B3B_reading-2.svg",
+    "sha256": "568fc30e1b8f96dda841f95b238150606c247a77006e4753fe3d74371ad30d56",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0158.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3B/svg/B3B_reading-3.svg",
+    "sha256": "007aeb04f54a50e669ba6f34efb7bfc0e219c8fc080aa8e05366ce300c283d32",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0159.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3B/svg/B3B_reading-4.svg",
+    "sha256": "f8f169c1af36d117bee93202caa975f8e18a832b721fed4192fc318bbe94a2fc",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0160.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3B/svg/B3B_reading-5.svg",
+    "sha256": "5aef214fc7be54c8bcc903f9172a78c8bcd8f0c91cfc2c51ae8c2c60776ef89e",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0161.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3B/png/B3B_reading-1.png",
+    "sha256": "cc36141cd6114ab5fda344d414db65cf7f563c8ac8563d2b8b562af0beaeb74f",
+    "size_bytes": 186702,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0162.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3B/png/B3B_reading-2.png",
+    "sha256": "25f88d8ee0e461ad0ec8610a6b5f67462de0d028ae142471d55557e2722cef17",
+    "size_bytes": 187028,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0163.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3B/png/B3B_reading-3.png",
+    "sha256": "164d7898b0cd204a4f44a12c6fda98b56051e2d88cbeae5f3d6b2159d2bf831b",
+    "size_bytes": 186833,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0164.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3B/png/B3B_reading-4.png",
+    "sha256": "ba4dc1338098a3929675edfb984cb98e925ae5cdd3356b5fee19ead5baf46195",
+    "size_bytes": 188123,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0165.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3B/png/B3B_reading-5.png",
+    "sha256": "a22388fb364ec70db41434dda8a00adf48f54b400f423d9a5059938557eb4734",
+    "size_bytes": 189215,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0166.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3G/svg/B3G_reading-1.svg",
+    "sha256": "157ca088d6a20faa6887f1e599c87cff4e4a222d66757f8189e6005445ad0a37",
+    "size_bytes": 130246,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0167.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3G/svg/B3G_reading-2.svg",
+    "sha256": "ad4e06cd1b928b23eeb50a495806f00652bbce72e09d681ae365bc621207f3e8",
+    "size_bytes": 130282,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0168.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3G/svg/B3G_reading-3.svg",
+    "sha256": "866168d5c2c53d4764cc3c242567053af1ee3be2798a46e66814cabeecc154b0",
+    "size_bytes": 130280,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0169.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3G/svg/B3G_reading-4.svg",
+    "sha256": "5c26f04e921f19568d99df61096873c2b94186a879c1f3a6dca8c78715f2907c",
+    "size_bytes": 130282,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0170.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3G/svg/B3G_reading-5.svg",
+    "sha256": "b0386f785bd80ed43884e4355c23e22d0b93255dce9d5b03e04fa7eaaef6da13",
+    "size_bytes": 130283,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0171.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3G/png/B3G_reading-1.png",
+    "sha256": "5b357cc328aff78e56cef4e2f5921acd998d32d946a7a359701eb1f85ec5ed8b",
+    "size_bytes": 269122,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0172.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3G/png/B3G_reading-2.png",
+    "sha256": "1a790a1fe764648c87582ac37faf19b773da96a02c38af3c58c5a98b23cce512",
+    "size_bytes": 262887,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0173.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3G/png/B3G_reading-3.png",
+    "sha256": "9e7a368500f064ec3467f6655995f6f83a55704abdfc8927aff85df151993713",
+    "size_bytes": 262347,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0174.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3G/png/B3G_reading-4.png",
+    "sha256": "4aed46b999a066b259c351ecd977ace600b88ac5a32951286eb6226ffd1e6c6b",
+    "size_bytes": 261860,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0175.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B3G/png/B3G_reading-5.png",
+    "sha256": "5d4b63c2d6e0130c8ba3c6c348c634fe99b7983ef78e9598e69130b04171a058",
+    "size_bytes": 262661,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0176.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4B/svg/B4B_reading-1.svg",
+    "sha256": "d4119814a2c3a8f0a9aa15d5a404201031e0ce474f38ad9d0bf75de04a2782d8",
+    "size_bytes": 130440,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0177.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4B/svg/B4B_reading-2.svg",
+    "sha256": "65785884530ced12654d75708e3560966650b146f278e6db499dbc1dd41b2f45",
+    "size_bytes": 130440,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0178.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4B/svg/B4B_reading-3.svg",
+    "sha256": "a7cb96f6ebfecf61a79cd513889d36f0230d25b58bad9231ca74da1deda2923c",
+    "size_bytes": 130440,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0179.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4B/svg/B4B_reading-4.svg",
+    "sha256": "8a2885ef37b4801a68b82cff1c821424d9d7c015624f294d229c1264c76e8b2c",
+    "size_bytes": 130440,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0180.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4B/svg/B4B_reading-5.svg",
+    "sha256": "8067ec449a696ba6d1855d6d75b7be7e5f04ca8cf93b5de2b722bf1602171eeb",
+    "size_bytes": 130440,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0181.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4B/png/B4B_reading-1.png",
+    "sha256": "264b4222297d729de3ddd479bbcbc9a5b98e344d0f441239c3d6bab51b3b0c7c",
+    "size_bytes": 205713,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0182.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4B/png/B4B_reading-2.png",
+    "sha256": "a5d32aa82dfbc69554fe9393108b764fc3d3868da7ea1cbadbba37614723b2a6",
+    "size_bytes": 205423,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0183.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4B/png/B4B_reading-3.png",
+    "sha256": "0a0789c1a33e1d0c756c81d07288e94f2ccea1927fcb11ebef7ac77aea365e64",
+    "size_bytes": 206136,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0184.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4B/png/B4B_reading-4.png",
+    "sha256": "376cf376a6f851e74603aa78927faf4c21cebde5a865d9e87709ccb5b7c536a8",
+    "size_bytes": 206814,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0185.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4B/png/B4B_reading-5.png",
+    "sha256": "8955af02395460f657ae17de58532c6ad5d7a4559ed2ea9e92ad1eb4396845b1",
+    "size_bytes": 206229,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0186.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4G/svg/B4G_reading-1.svg",
+    "sha256": "3c11fe97994ccbb22ea668c38a4d478156c09eac3d4ed7f8b6c8776b60766359",
+    "size_bytes": 130413,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0187.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4G/svg/B4G_reading-2.svg",
+    "sha256": "09eada463fcd8054179d046f18fd45fff709960aebf1366d030b2a4ab3eb22b9",
+    "size_bytes": 130388,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0188.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4G/svg/B4G_reading-3.svg",
+    "sha256": "5d9c1dfd2fadbef4c1c61dfe9e752c5df3ddfa37c2387189eb6259d022cfa22a",
+    "size_bytes": 130380,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0189.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4G/svg/B4G_reading-4.svg",
+    "sha256": "e36fc53c82ee3c7a9f0fc5d3c3f141d262032be792186bfc3f41808ad97780cd",
+    "size_bytes": 130380,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0190.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4G/svg/B4G_reading-5.svg",
+    "sha256": "51c0aa5ff2f1b5f69d2940ab2bfd25e1b17049b60f60f77140880d2c41dd4c47",
+    "size_bytes": 130375,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0191.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4G/png/B4G_reading-1.png",
+    "sha256": "9a6d19cd825f181f64b224d081f8a400dc8b7b98f47de34a800340e797bc4974",
+    "size_bytes": 243854,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0192.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4G/png/B4G_reading-2.png",
+    "sha256": "25576199b421ab2b35f9006280b3193cd127ba73338deb467f8deb9e83d2eb71",
+    "size_bytes": 246011,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0193.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4G/png/B4G_reading-3.png",
+    "sha256": "1e616bb32c7c950fe96299bc11d0981bb40387289da027697bab2446697d816c",
+    "size_bytes": 247256,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0194.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4G/png/B4G_reading-4.png",
+    "sha256": "6a6dd2cd274018eca96ab78fedf33e080c29422aea49cd87c66e37626080980e",
+    "size_bytes": 246210,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0195.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B4G/png/B4G_reading-5.png",
+    "sha256": "cddd4d425fdabc88dabb865fa5117afce7c48f9d3bc00eaa131804b14b94d710",
+    "size_bytes": 247106,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0196.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5B/svg/B5B_reading-1.svg",
+    "sha256": "83ff822ae4c4ede32c2ee4ac0a5ff78ba78cf1bff48ef1ccadf322b18e92087b",
+    "size_bytes": 130440,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0197.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5B/svg/B5B_reading-2.svg",
+    "sha256": "927c38900e64ac432aafa361da83d46bc0bdf5325daa064d708340e35ce2a08d",
+    "size_bytes": 130440,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0198.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5B/svg/B5B_reading-3.svg",
+    "sha256": "e567f3aacc6fb48c3e678ab0af87c0f5b0ef4786de07983e042f0b1a75d5091e",
+    "size_bytes": 130440,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0199.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5B/svg/B5B_reading-4.svg",
+    "sha256": "205a5e1fd59edf83b9f6f937343be51a0b549804bb034014575b4de60e5e29df",
+    "size_bytes": 130440,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0200.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5B/svg/B5B_reading-5.svg",
+    "sha256": "a2fd654ae2b28b32be770d3c1c547edfff44788aae399c3b393561181e66f5c9",
+    "size_bytes": 130440,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0201.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5B/png/B5B_reading-1.png",
+    "sha256": "8fac7f5447fef9be7bbaaf416d32970d32d0dba380cae1de01f32014837bd642",
+    "size_bytes": 172826,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0202.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5B/png/B5B_reading-2.png",
+    "sha256": "98f1933facca34785223a1fca7bc60afd1afbafd80cbb601f64b9fce3bc25e87",
+    "size_bytes": 197780,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0203.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5B/png/B5B_reading-3.png",
+    "sha256": "f71bc44b97c727e0fe9d9cae66883888746abfdd19c1c88d761a9b25ab49804c",
+    "size_bytes": 163618,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0204.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5B/png/B5B_reading-4.png",
+    "sha256": "915fdd09e8ddc9c26335dd8e49bff5a0c7a2de7883eab7efcb0d2a89f38997fb",
+    "size_bytes": 162146,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0205.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5B/png/B5B_reading-5.png",
+    "sha256": "2af4f4238240345d20ae0455fae5cc4b7ea6c29f3d5e1216a37ed852266e4e26",
+    "size_bytes": 162684,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0206.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5G/svg/B5G_reading-1.svg",
+    "sha256": "92f6d49106e2429fdf28588a68eae7e12b6b806f0a88065ec7cd4c95777031b8",
+    "size_bytes": 130275,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0207.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5G/svg/B5G_reading-2.svg",
+    "sha256": "2d7113b4a6d6c77b02c659b685e46d6833170b3c3319f9ad24d71444f9bb0049",
+    "size_bytes": 130275,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0208.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5G/svg/B5G_reading-3.svg",
+    "sha256": "83a1d5ef97109e9a25ab080d0a56078a9ad06c6c71030d48dcf4bc6269141ae8",
+    "size_bytes": 130278,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0209.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5G/svg/B5G_reading-4.svg",
+    "sha256": "b437e10559757126bd4c14efed26d81c3acb8d909255783a3b1e87fa0e0ca6d0",
+    "size_bytes": 130278,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0210.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5G/svg/B5G_reading-5.svg",
+    "sha256": "864b0f73c597401263e22484bebc79b0f3bc6f26ae9fa3d34bb73930ed0b964d",
+    "size_bytes": 130278,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0211.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5G/png/B5G_reading-1.png",
+    "sha256": "56512d5606ce97562783280781523d4e2dd378476fa87b649d52f89e1a6af248",
+    "size_bytes": 244256,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0212.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5G/png/B5G_reading-2.png",
+    "sha256": "26ea32e079927e7cbfcc490f3af6abfae2d97875f42d4e88870c9f0289511a36",
+    "size_bytes": 244965,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0213.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5G/png/B5G_reading-3.png",
+    "sha256": "6be0d428d4f751456c37c61c58e70e31a61cb6584bb9994a4ca080720c9220ca",
+    "size_bytes": 244494,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0214.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5G/png/B5G_reading-4.png",
+    "sha256": "bed2d261b050333aea6f2563f9edb23680e896fb6c92682136a7df6833054838",
+    "size_bytes": 243524,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0215.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/B5G/png/B5G_reading-5.png",
+    "sha256": "f19c2355f8a828469527313232d8f8ede95e708679908f89117702bf4824333f",
+    "size_bytes": 243608,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0216.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T1G/svg/T1G_reading-1.svg",
+    "sha256": "5996703742f90fb0f3b6f37b04a2b07914b2395e38d7a21618839a56d120a0e3",
+    "size_bytes": 130433,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0217.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T1G/svg/T1G_reading-2.svg",
+    "sha256": "f2b7b9c325fc5859bef22c1a41e956f1ffdde3b0b44ed70392d9170f96549dd7",
+    "size_bytes": 130433,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0218.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T1G/svg/T1G_reading-3.svg",
+    "sha256": "e3cd8c2cf6dcd1d03344ea8831d3c5a063c83820a1d77a18fe76f21681bd527a",
+    "size_bytes": 130433,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0219.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T1G/svg/T1G_reading-4.svg",
+    "sha256": "9004aacfcccb20e645b2e6303489998fa31e6fefae7f54883f5f538096263998",
+    "size_bytes": 130433,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0220.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T1G/svg/T1G_reading-5.svg",
+    "sha256": "d24d0624bdc3a82f5762540de901fa72fb2e6db10e64cc8b1b08c71baa13e346",
+    "size_bytes": 130433,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0221.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T1G/png/T1G_reading-1.png",
+    "sha256": "cc07ea17f5fff0c4a4de211bb7f98a26e9136e4ca6e8b1f75360179a864fbda4",
+    "size_bytes": 195368,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0222.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T1G/png/T1G_reading-2.png",
+    "sha256": "48ecca3bc86a164306f0cfd3fc5e0418d21c16b573cf1a6abffd9e99ab1e6ee5",
+    "size_bytes": 196022,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0223.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T1G/png/T1G_reading-3.png",
+    "sha256": "4a0ebfdaa73e7646b1fa77857c9b31ba8120092d1a98d1b2230b257f28fc69ca",
+    "size_bytes": 197149,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0224.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T1G/png/T1G_reading-4.png",
+    "sha256": "0f013ce10598486eb65427cf44cfab339885709e6d0ff861a0b74c51c22473f4",
+    "size_bytes": 197104,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0225.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T1G/png/T1G_reading-5.png",
+    "sha256": "8351ad6f1b76d0a4f9efabd198f467a137b794e305301b953b06f2a0e256c66a",
+    "size_bytes": 198799,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0226.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2B/svg/T2B_reading-1.svg",
+    "sha256": "8e83e090f0658120004dedf3baddfe18ca802983e7524884f73cfdde587c13ac",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0227.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2B/svg/T2B_reading-2.svg",
+    "sha256": "a14d86fc1c50f8d7012f2bbe6e0c6e70dd3e717887c66eec127e578f19f75e7f",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0228.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2B/svg/T2B_reading-3.svg",
+    "sha256": "7d9c562b11e821d84cf5baf71c6fa06cf28054225dd2594af3f5abbf46c3d3be",
+    "size_bytes": 130437,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0229.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2B/svg/T2B_reading-4.svg",
+    "sha256": "1e51717f5e082d7ab93e063150444d1cf9a3ff17d0edf28f1b68be4cdf56bd6f",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0230.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2B/svg/T2B_reading-5.svg",
+    "sha256": "e0d323a8a4bbc15cd14d8a5d5a8d3ce81aaa70b44376cecd3f771a473f428798",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0231.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2B/png/T2B_reading-1.png",
+    "sha256": "79520bf2d28a1b68b2dca922d63eedb837a061bd58740b694dcbb008711d420e",
+    "size_bytes": 153827,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0232.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2B/png/T2B_reading-2.png",
+    "sha256": "6188712b03b8133ea29981dcf9c4106e5cb3cbb4cf96d0c3db8e9bad976fbe75",
+    "size_bytes": 157706,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0233.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2B/png/T2B_reading-3.png",
+    "sha256": "dde747efcb3616e34808dfe0e6621eed4029894ea3f812f59352516074db993f",
+    "size_bytes": 153769,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0234.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2B/png/T2B_reading-4.png",
+    "sha256": "530ac580fc1485349ca2bd035f0ac5505284554bbbe649b1323b6eb749788bb1",
+    "size_bytes": 156241,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0235.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2B/png/T2B_reading-5.png",
+    "sha256": "1a78ced69110458a6aae13e9b0372479e507ba263554a336f2ee196f869bda90",
+    "size_bytes": 152236,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0236.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2G/svg/T2G_reading-1.svg",
+    "sha256": "63aa03d9a965aa4af7a0d60bd3a8570bdf3c339c822ac8974973d570ffb57b5c",
+    "size_bytes": 130386,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0237.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2G/svg/T2G_reading-2.svg",
+    "sha256": "e1f6b1bac3c8d309a923ffc722234620d35838d5af8029e1e0e847cae1bb544d",
+    "size_bytes": 130384,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0238.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2G/svg/T2G_reading-3.svg",
+    "sha256": "c0c32dea415d276d180629cb72f494bc0a6b1eeb22010bec7fd8520ac0486f81",
+    "size_bytes": 130384,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0239.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2G/svg/T2G_reading-4.svg",
+    "sha256": "35fdb11af35eb0a27f3dd11948e1c1620735e1201157a81eed6244ee383bcd36",
+    "size_bytes": 130385,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0240.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2G/svg/T2G_reading-5.svg",
+    "sha256": "8a69ef8e7a669e744e87771fc4475e0086974255987631e136cb17bbd4332595",
+    "size_bytes": 130386,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0241.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2G/png/T2G_reading-1.png",
+    "sha256": "4cffa81bc2d0732285f32afe38114645d8d0affb421f7b60731c80f6d3f74e5f",
+    "size_bytes": 205183,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0242.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2G/png/T2G_reading-2.png",
+    "sha256": "77d63d0033273adc65a5c16130c9bc770cc6a0e86b2879ab2a150ba71a86556d",
+    "size_bytes": 205843,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0243.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2G/png/T2G_reading-3.png",
+    "sha256": "e48294019b95cf3fa010704e8191e2fcabb1b71b47d1c6d9ba3b093b9fa6e78b",
+    "size_bytes": 205805,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0244.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2G/png/T2G_reading-4.png",
+    "sha256": "c54370dc404d3dd2c56f0c16ca533b45111d2770ce26d34e5ec7f7049feedf59",
+    "size_bytes": 205764,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0245.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T2G/png/T2G_reading-5.png",
+    "sha256": "da6da9307e86231177a99d57ef5d875e6b56cc60923423f9c5f2c0432f12686d",
+    "size_bytes": 204407,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0246.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3B/svg/T3B_reading-1.svg",
+    "sha256": "9fa133a81f84007fdd2cdd3edf42e11703646491e6230545a24ca7d0a68598f2",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0247.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3B/svg/T3B_reading-2.svg",
+    "sha256": "edd6dbc63953106fa95855233cbdd48adcbe4e385917a8b8c089edb900ad0b41",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0248.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3B/svg/T3B_reading-3.svg",
+    "sha256": "527f5d41b2ffabc91a4e078976ffd451735eb389d7348718d9ec2b883aaceb6d",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0249.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3B/svg/T3B_reading-4.svg",
+    "sha256": "c5940a601d8322588631f97bdf5fe9a020a3ffe582b70e95d17eba0a8ebeaedf",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0250.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3B/svg/T3B_reading-5.svg",
+    "sha256": "6169ccb9bbfd79d4953c7a452fe2b326b178cb0a89a59c3564262b1041f44ba8",
+    "size_bytes": 130436,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0251.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3B/png/T3B_reading-1.png",
+    "sha256": "7aec583b91bf2373b0492cf8e7c00a8b888971ca0d6a8fbd2889842b855bf8b1",
+    "size_bytes": 145922,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0252.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3B/png/T3B_reading-2.png",
+    "sha256": "cb03f8d9855ebdf0ef5a9194982b087c8fe1b3628abe5c56834ace34eb88de2a",
+    "size_bytes": 146549,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0253.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3B/png/T3B_reading-3.png",
+    "sha256": "354bbc9567ef99ddf3e430005aa4558c0902d1de0f96e3ebbd9edaae691e863c",
+    "size_bytes": 147256,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0254.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3B/png/T3B_reading-4.png",
+    "sha256": "ca53bf037390f8a044b10bcf0bcb1c819695f5b3aedc265627e259535a505e95",
+    "size_bytes": 145154,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0255.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3B/png/T3B_reading-5.png",
+    "sha256": "e647a4fc75943fc079f6466f39a72e7153db8155e676046d8236f15ba87a10f3",
+    "size_bytes": 145845,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0256.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3G/svg/T3G_reading-1.svg",
+    "sha256": "0d720ac36f9a2209e21b366c56aaf452335390845e25ba09c5d20762a70752d1",
+    "size_bytes": 130321,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0257.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3G/svg/T3G_reading-2.svg",
+    "sha256": "445ce01382fe39e1b20cbc8a57e5efee5b3328f95e26d4a6c726ebebf77269f1",
+    "size_bytes": 130320,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0258.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3G/svg/T3G_reading-3.svg",
+    "sha256": "41f78c03d694f2a3de16ddf174e5f4b1b3355243cefdef7ecc68b5ce5fc090ff",
+    "size_bytes": 130319,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0259.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3G/svg/T3G_reading-4.svg",
+    "sha256": "d70645433168cf016f03c5299a81c46bd278a72933ed9e88d440262751a8888d",
+    "size_bytes": 130318,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0260.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3G/svg/T3G_reading-5.svg",
+    "sha256": "f6af15eb19625f3476acbd95fbbe49e38afa0fd41b7da9a80e9420f1c8aa079e",
+    "size_bytes": 130317,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0261.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3G/png/T3G_reading-1.png",
+    "sha256": "b12d6dd9943c931a45d22ec4a71dc2b9bc235b8a00ba8b6d494c22a7c99e2458",
+    "size_bytes": 205959,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0262.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3G/png/T3G_reading-2.png",
+    "sha256": "54e482a7c90bf1f90270db113ec649e0e840703bcf7e4c49b501ba64d193ea53",
+    "size_bytes": 206558,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0263.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3G/png/T3G_reading-3.png",
+    "sha256": "e984592d1eda81cdbc8fe6ecae55834d9921ff86e5e1f65da69e3ba17389b136",
+    "size_bytes": 206640,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0264.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3G/png/T3G_reading-4.png",
+    "sha256": "e6d2dc20a805dfaf36262b9f48a231da5a31ca0797853b465d4a4d029586483e",
+    "size_bytes": 207662,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0265.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T3G/png/T3G_reading-5.png",
+    "sha256": "eda080370093c59f96d2512bbc54cd4cec7973c85f2087116096a4dad40d211a",
+    "size_bytes": 206959,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0266.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4B/svg/T4B_reading-1.svg",
+    "sha256": "dc247e71cde5e3009fabd6473ac836e6b3a22e918cd60e24ec4a1fa40c481363",
+    "size_bytes": 130441,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0267.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4B/svg/T4B_reading-2.svg",
+    "sha256": "83d29f94d23206de1fa7201e9811f979639e97317765e368cf4a418691594908",
+    "size_bytes": 130441,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0268.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4B/svg/T4B_reading-3.svg",
+    "sha256": "c064f9cdb8da4d3f8065f5ffb11932922da3b3ed35a2a1b415c70033cea3e9d8",
+    "size_bytes": 130441,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0269.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4B/svg/T4B_reading-4.svg",
+    "sha256": "b189133511d946e8f4e1d6b439b14cc78e94e8ff6bb0b602a521906ee698f993",
+    "size_bytes": 130441,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0270.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4B/svg/T4B_reading-5.svg",
+    "sha256": "5db2d8505792e24e3103d1e632a9be7bb82d5f857efe7c9ae41e2f4bae837bf8",
+    "size_bytes": 130441,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0271.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4B/png/T4B_reading-1.png",
+    "sha256": "691750ad702082f41badf1c5388f579fd03ece8ea9993298109f95dede00dbdf",
+    "size_bytes": 198580,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0272.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4B/png/T4B_reading-2.png",
+    "sha256": "af5852a8a57ab4809b5059d4afcb1095dc431346795c5d48443d41e8686f3913",
+    "size_bytes": 199523,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0273.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4B/png/T4B_reading-3.png",
+    "sha256": "fc293642438781bcc09d513426b2336bee9d3b6fd15a18dd6b0a8c666e6e8d8f",
+    "size_bytes": 199826,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0274.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4B/png/T4B_reading-4.png",
+    "sha256": "146a86a3324d302eaf84e0f08d5bc11179ab37e7cb46e74ac4bd5e5332921d41",
+    "size_bytes": 200143,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0275.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4B/png/T4B_reading-5.png",
+    "sha256": "00fcf5982b3bc3048b0c3c519b343597033799f261549e5555f41c4350070862",
+    "size_bytes": 178029,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0276.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4G/svg/T4G_reading-1.svg",
+    "sha256": "3c86e874bdcd8891e7c1064490cbee8531f4d85cc05056402b648ac4a8fbeef8",
+    "size_bytes": 130251,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0277.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4G/svg/T4G_reading-2.svg",
+    "sha256": "87403446d0545889ce82f76769bfd6ecd1ce1a24b92a5af1aedacb21b1f55a79",
+    "size_bytes": 130246,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0278.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4G/svg/T4G_reading-3.svg",
+    "sha256": "b1d33b45d8c5d4c85fa7e2e700dd0e810a6607a85eaf025108e71cac4eedf29e",
+    "size_bytes": 130257,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0279.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4G/svg/T4G_reading-4.svg",
+    "sha256": "4102d9173c430d0a6b360d13960f435f5f7722598cbcbdd689027dbcac6a1f97",
+    "size_bytes": 130248,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0280.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4G/svg/T4G_reading-5.svg",
+    "sha256": "9d9e43f2f24a589c8572504964e92645191faea5f8618ec052c946ebb94781af",
+    "size_bytes": 130253,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0281.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4G/png/T4G_reading-1.png",
+    "sha256": "27ce58fa638b581636003e2a121d1caa00c24d648a2bb7729f8378e740bb22e1",
+    "size_bytes": 244477,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0282.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4G/png/T4G_reading-2.png",
+    "sha256": "e2536024d2f57878c1c21d69f319ec4a9d81f7d1389ea16a71dd729c931b1e4f",
+    "size_bytes": 244858,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0283.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4G/png/T4G_reading-3.png",
+    "sha256": "6c2f81e5362f315311b36929f037a498529d9cd84716fcecc260fcbcde9808ff",
+    "size_bytes": 245966,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0284.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4G/png/T4G_reading-4.png",
+    "sha256": "2233b303604eb7bf938314f338d624db66f5b6382e9cbae60ea05e779e5df947",
+    "size_bytes": 244987,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0285.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T4G/png/T4G_reading-5.png",
+    "sha256": "9c9b260679b89bad46eda2b01b0dd98da53b29914979065f66eef21e2566364f",
+    "size_bytes": 245143,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0286.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5B/svg/T5B_reading-1.svg",
+    "sha256": "b3278979df4c2264bf6bfe9e20c00ba6ccfa4d1661acc0a6d2a8041fcc482566",
+    "size_bytes": 130442,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0287.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5B/svg/T5B_reading-2.svg",
+    "sha256": "d53b7fded380005503796b4e369ad9ada7a1a2674f0da06904cb51ff10147123",
+    "size_bytes": 130441,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0288.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5B/svg/T5B_reading-3.svg",
+    "sha256": "353f221ff6471814f166c48a72b1d4e50659ad5b5b832bb98f656cd45baf3acc",
+    "size_bytes": 130442,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0289.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5B/svg/T5B_reading-4.svg",
+    "sha256": "307f3c383c29a680969149074b3bb1a5c74f9eecab4236c9ca67753891d7eae6",
+    "size_bytes": 130442,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0290.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5B/svg/T5B_reading-5.svg",
+    "sha256": "505d17ebe6039806dce2bad2b71b07240f8c3ced24ea54f77f3336f8059e0f01",
+    "size_bytes": 130441,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0291.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5B/png/T5B_reading-1.png",
+    "sha256": "f5a013d3a12584fc9cc78e95c1661cc445e2d53b3a028d9c4e6c689be6f66144",
+    "size_bytes": 170077,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0292.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5B/png/T5B_reading-2.png",
+    "sha256": "b3b17039744cb50cbdf1d9b36b9c08e921f95c26bec3d416948a7847ea092f88",
+    "size_bytes": 167585,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0293.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5B/png/T5B_reading-3.png",
+    "sha256": "69a60bc879a5306da04cc7131a8203a3d6cc35fc750f2e203ea6a7e0f76c6164",
+    "size_bytes": 168485,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0294.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5B/png/T5B_reading-4.png",
+    "sha256": "e8bcb2c494f292ded67b34c55986bdb267c847714a4f4dc67629f1488de1fed2",
+    "size_bytes": 169147,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0295.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5B/png/T5B_reading-5.png",
+    "sha256": "89c55c5bcd292a1a78daf1e1c01be971266ea0f5d77f75aa83ab1eeeee3d1da4",
+    "size_bytes": 168631,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0296.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5G/svg/T5G_reading-1.svg",
+    "sha256": "b7f0bb1d7678244862b5b7c29321071cb0c07aab38fdd3ba777a88277984ed16",
+    "size_bytes": 130392,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0297.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5G/svg/T5G_reading-2.svg",
+    "sha256": "e53dd350bb3474ff0ef29ee2f75e459f9b29e3805e23ed009eb34e2798a44893",
+    "size_bytes": 130391,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0298.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5G/svg/T5G_reading-3.svg",
+    "sha256": "308d6e51e36bfed0c452227e9cdd6f3bafbb182f6cd875f21339550334f469dc",
+    "size_bytes": 130392,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0299.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5G/svg/T5G_reading-4.svg",
+    "sha256": "2c8f8e337f10ecd04dc17a966c794fa2758e4cf5afad27275614b00f68c42c17",
+    "size_bytes": 130389,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0300.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5G/svg/T5G_reading-5.svg",
+    "sha256": "5840923e78f32236d583e8f9640884f7706bb5bd41ed41b5d0612093d38a2dc7",
+    "size_bytes": 130392,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0301.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5G/png/T5G_reading-1.png",
+    "sha256": "f3c64fe36406e6fb3bd5626cff01bf57a63b2e707d9380e149dbd0e355d4008b",
+    "size_bytes": 217704,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0302.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5G/png/T5G_reading-2.png",
+    "sha256": "a0c1a394fbb63cae94555cbce3fd605a58baebdefd509d8690ee3085c823d514",
+    "size_bytes": 221717,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0303.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5G/png/T5G_reading-3.png",
+    "sha256": "2356878985ac5edc16a7481a1fb3f81435edde3719d7fc462d319a05900a1135",
+    "size_bytes": 222684,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0304.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5G/png/T5G_reading-4.png",
+    "sha256": "e6b48ff82d8f3e81d3ade042e40e5f476319f4ec1e1cdd082ed0c24fd72d7d19",
+    "size_bytes": 220851,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0305.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/waveforms/T5G/png/T5G_reading-5.png",
+    "sha256": "ccadb78606c51ebc3a7fe2f68a61d590af87cf5351337d38c3dcf5fa74d5d29b",
+    "size_bytes": 222070,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0306.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/analysis_outputs/per_reading_waveform_metrics.csv",
+    "sha256": "d173a5bac8bb35b64b36cecc26eb10b4da36523566b723e53ca666652d27f3fe",
+    "size_bytes": 65820,
+    "group": "e45",
+    "csv_first_line": "case,material_code,material,condition_number,condition,contact_code,contact,contact_label,source_file,repeat_name,reading,tof_us,late_or_failed_arrival,result_label,signal_size,time_step_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_p"
+  },
+  {
+    "file": "e45/0307.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/analysis_outputs/per_case_summary_metrics.csv",
+    "sha256": "75dace2cc6349e22c88254b6385280f1da3e64e9872889c89f2b6108cbcf06a9",
+    "size_bytes": 21942,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,tof_us_mean,tof_us_std,tof_us_var,tof_us_min,tof_us_max,max_abs_pct_mean,max_abs_pct_std,max_abs_pct_var,max_abs_pct_min,max_abs_pct_max,peak_to_peak_pct_mean,peak_to_peak_pct_std,peak_to_peak_pct_var,peak_to_peak_pct_min,peak_to_peak_pct_max,rms_pct_mean,rms_pct_std,rms_pct_var,rms_pct_min,rms_pct_max,mean_abs_pct_mean,mean_abs_pct_std,mean_abs_pct_var,mean_abs_pct_min,mean_abs_pct_max,energy_pct2_us_mean,energy_pct2_us_std,energy_pct2_us_var,ene"
+  },
+  {
+    "file": "e45/0308.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/analysis_outputs/contact_overall_summary.csv",
+    "sha256": "cbdb1a6865ab0c8eedb97737180db081ae0839049549954ca6d1a58bd1ca2263",
+    "size_bytes": 3489,
+    "group": "e45",
+    "csv_first_line": "contact,tof_us_mean,tof_us_std,tof_us_var,tof_us_min,tof_us_max,max_abs_pct_mean,max_abs_pct_std,max_abs_pct_var,max_abs_pct_min,max_abs_pct_max,peak_to_peak_pct_mean,peak_to_peak_pct_std,peak_to_peak_pct_var,peak_to_peak_pct_min,peak_to_peak_pct_max,rms_pct_mean,rms_pct_std,rms_pct_var,rms_pct_min,rms_pct_max,mean_abs_pct_mean,mean_abs_pct_std,mean_abs_pct_var,mean_abs_pct_min,mean_abs_pct_max,energy_pct2_us_mean,energy_pct2_us_std,energy_pct2_us_var,energy_pct2_us_min,energy_pct2_us_max,post_p"
+  },
+  {
+    "file": "e45/0309.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/analysis_outputs/contact_by_material_summary.csv",
+    "sha256": "41bf05c4bc2d25db3a4b8eb97f343e14ad1f1ea3b125fdfd49fe1bfea08de6ba",
+    "size_bytes": 5717,
+    "group": "e45",
+    "csv_first_line": "material,contact,tof_us_mean,tof_us_std,tof_us_var,tof_us_min,tof_us_max,max_abs_pct_mean,max_abs_pct_std,max_abs_pct_var,max_abs_pct_min,max_abs_pct_max,peak_to_peak_pct_mean,peak_to_peak_pct_std,peak_to_peak_pct_var,peak_to_peak_pct_min,peak_to_peak_pct_max,rms_pct_mean,rms_pct_std,rms_pct_var,rms_pct_min,rms_pct_max,mean_abs_pct_mean,mean_abs_pct_std,mean_abs_pct_var,mean_abs_pct_min,mean_abs_pct_max,energy_pct2_us_mean,energy_pct2_us_std,energy_pct2_us_var,energy_pct2_us_min,energy_pct2_us_m"
+  },
+  {
+    "file": "e45/0310.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/analysis_outputs/matched_contact_effects_by_material_condition.csv",
+    "sha256": "b8601c7a24a50ba4a15d26850ef56d889e75360dde9ca9204f30b028660c979d",
+    "size_bytes": 11193,
+    "group": "e45",
+    "csv_first_line": "material,condition_number,tof_us_adequate_mean,tof_us_inadequate_mean,tof_us_diff_inadequate_minus_adequate,tof_us_pct_change_inadequate_vs_adequate,tof_us_cohens_d,max_abs_pct_adequate_mean,max_abs_pct_inadequate_mean,max_abs_pct_diff_inadequate_minus_adequate,max_abs_pct_pct_change_inadequate_vs_adequate,max_abs_pct_cohens_d,peak_to_peak_pct_adequate_mean,peak_to_peak_pct_inadequate_mean,peak_to_peak_pct_diff_inadequate_minus_adequate,peak_to_peak_pct_pct_change_inadequate_vs_adequate,peak_to_"
+  },
+  {
+    "file": "e45/0311.xlsx",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/analysis_outputs/upv_waveform_metrics_summary.xlsx",
+    "sha256": "443f16dae8ec03c3b81cd3d45729f776745f72d1ee018a423e4c70e1ed1b38dc",
+    "size_bytes": 102773,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0312.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/analysis_outputs/per_case_summary_metrics_excluding_late_failed.csv",
+    "sha256": "122a53fbb96e7ad3313359a6d3f7c2fde2913276d4f5591f1ac552e05813a7fc",
+    "size_bytes": 21921,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,tof_us_mean,tof_us_std,tof_us_var,tof_us_min,tof_us_max,max_abs_pct_mean,max_abs_pct_std,max_abs_pct_var,max_abs_pct_min,max_abs_pct_max,peak_to_peak_pct_mean,peak_to_peak_pct_std,peak_to_peak_pct_var,peak_to_peak_pct_min,peak_to_peak_pct_max,rms_pct_mean,rms_pct_std,rms_pct_var,rms_pct_min,rms_pct_max,mean_abs_pct_mean,mean_abs_pct_std,mean_abs_pct_var,mean_abs_pct_min,mean_abs_pct_max,energy_pct2_us_mean,energy_pct2_us_std,energy_pct2_us_var,ene"
+  },
+  {
+    "file": "e45/0313.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/analysis_outputs/matched_contact_effects_excluding_late_failed.csv",
+    "sha256": "9d3539f4227297e5c2beb67e17835167989e7235ca55127651dcb181a3b59a30",
+    "size_bytes": 11251,
+    "group": "e45",
+    "csv_first_line": "material,condition_number,tof_us_adequate_mean,tof_us_inadequate_mean,tof_us_diff_inadequate_minus_adequate,tof_us_pct_change_inadequate_vs_adequate,tof_us_cohens_d,max_abs_pct_adequate_mean,max_abs_pct_inadequate_mean,max_abs_pct_diff_inadequate_minus_adequate,max_abs_pct_pct_change_inadequate_vs_adequate,max_abs_pct_cohens_d,peak_to_peak_pct_adequate_mean,peak_to_peak_pct_inadequate_mean,peak_to_peak_pct_diff_inadequate_minus_adequate,peak_to_peak_pct_pct_change_inadequate_vs_adequate,peak_to_"
+  },
+  {
+    "file": "e45/0314.md",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/analysis_outputs/UPV_waveform_findings.md",
+    "sha256": "088d4e174922ed4684fd803de81ddb7e849b70546297b6d7e140b783a9ef1657",
+    "size_bytes": 4641,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0315.xlsx",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/upv_signal_metrics_organized_summary.xlsx",
+    "sha256": "982a9374c1ad77db3e85c7d833e538e726c6a95a8e426bbd4e62218d45ee0390",
+    "size_bytes": 141493,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0316.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/01_per_case_metrics/per_case_all_metrics.csv",
+    "sha256": "78efd3bad17c235aa556bf39193ff57c51b259f600452faf4e0d82851ee0ac4e",
+    "size_bytes": 60108,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,tof_us_mean,tof_us_std,tof_us_var,tof_us_min,tof_us_max,max_positive_pct_mean,max_positive_pct_std,max_positive_pct_var,max_positive_pct_min,max_positive_pct_max,min_negative_pct_mean,min_negative_pct_std,min_negative_pct_var,min_negative_pct_min,min_negative_pct_max,max_abs_pct_mean,max_abs_pct_std,max_abs_pct_var,max_abs_pct_min,max_abs_pct_max,peak_to_peak_pct_mean,peak_to_peak_pct_std,peak_to_peak_pct_var,peak_to_peak_pct_min,pea"
+  },
+  {
+    "file": "e45/0317.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/01_per_case_metrics/per_case_all_metrics_excluding_late_failed.csv",
+    "sha256": "4e49cf99b63c0fc8b8d39f48ca6e4519e9230ff4f03fdc9800b290510b2ff3b4",
+    "size_bytes": 60095,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,tof_us_mean,tof_us_std,tof_us_var,tof_us_min,tof_us_max,max_positive_pct_mean,max_positive_pct_std,max_positive_pct_var,max_positive_pct_min,max_positive_pct_max,min_negative_pct_mean,min_negative_pct_std,min_negative_pct_var,min_negative_pct_min,min_negative_pct_max,max_abs_pct_mean,max_abs_pct_std,max_abs_pct_var,max_abs_pct_min,max_abs_pct_max,peak_to_peak_pct_mean,peak_to_peak_pct_std,peak_to_peak_pct_var,peak_to_peak_pct_min,pea"
+  },
+  {
+    "file": "e45/0318.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/all_readings_all_cases.csv",
+    "sha256": "5d93fc6a58fd8033b0bb4052ff7a76e7c2dc2c72f9324b8d246c17727c0943d0",
+    "size_bytes": 60947,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0319.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/B1G_readings.csv",
+    "sha256": "47df32ef730d388347b1bcc645181f40ae3676aea043288929a7ef801c34c7ed",
+    "size_bytes": 4092,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0320.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/B2B_readings.csv",
+    "sha256": "90f900ba8fc7a204f4916d64cc8a222ce51bdd63446261a7f603e219156ad1fd",
+    "size_bytes": 4113,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0321.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/B2G_readings.csv",
+    "sha256": "8e705365cc81afd55c09f99e0f24bcec19d39ad13435f6a6ba9041c5c4b97f70",
+    "size_bytes": 4092,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0322.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/B3B_readings.csv",
+    "sha256": "7af487c4035b62819f2a5e4649aa8a8d1a0bb7518e22c84a051f8032403238a9",
+    "size_bytes": 4124,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0323.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/B3G_readings.csv",
+    "sha256": "509eacd3d92c2d9fc36fe270d957a28be5894e577c06f3ea15fdd09e9ef7bd37",
+    "size_bytes": 4058,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0324.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/B4B_readings.csv",
+    "sha256": "8de1594d240a270ea5ab4cd9b93f4ffc2e73024196d086c630d10ea8b75c9d56",
+    "size_bytes": 4142,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0325.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/B4G_readings.csv",
+    "sha256": "5e0bac7108b54c1f4b3045304117ad4447019071faacb3cb1688f399a46619c7",
+    "size_bytes": 4094,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0326.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/B5B_readings.csv",
+    "sha256": "ef9a22ee2ff629e30ecb204931f8d8597654796ba7773882375a51ad6a385c52",
+    "size_bytes": 4141,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0327.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/B5G_readings.csv",
+    "sha256": "a6651addce71d5368aa3c235c5f8bc9a5248faf91f44bbd9ee2b34725536dcaf",
+    "size_bytes": 4100,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0328.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/T1G_readings.csv",
+    "sha256": "fceacaba2583018526c08662e65c9f8eacd5fc0ddf89dcbb2b4069c451a493a1",
+    "size_bytes": 4090,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0329.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/T2B_readings.csv",
+    "sha256": "bdc70f99ccf4cc943730116b4bd20ceb572bb0645e129a19058f5bb8f5f62309",
+    "size_bytes": 4099,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0330.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/T2G_readings.csv",
+    "sha256": "2db1eac9faba404b98c83a04a9bfcfa92961cbd77fff36461ba60f820161d7b0",
+    "size_bytes": 4091,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0331.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/T3B_readings.csv",
+    "sha256": "da5f075cf75bc59ba9376e89b3db55f604175e8d4b952628f8e7d03ff5774e90",
+    "size_bytes": 4117,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0332.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/T3G_readings.csv",
+    "sha256": "4ece3f262b7914494c7fba7db6f2b96ac02275d7251562bb6267ae067b398e91",
+    "size_bytes": 4078,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0333.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/T4B_readings.csv",
+    "sha256": "73e59d37aed11e0dd64ef835b52ea675b1407461afa7ade77cf5a4142ade4b34",
+    "size_bytes": 4131,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0334.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/T4G_readings.csv",
+    "sha256": "c8a514791aeb3c9e0279038192fb70cdc6cc473a1e8e364970f98e99ec560800",
+    "size_bytes": 4113,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0335.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/T5B_readings.csv",
+    "sha256": "59e556b1458e7cf6ac289fdcd9339cb1f5dc90a9b76076b6e12c70176c41feb7",
+    "size_bytes": 4132,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0336.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/02_per_reading_metrics_by_case/T5G_readings.csv",
+    "sha256": "ee5d5f7f33d460d263aa3b345879c50b9b2e83e5c7d20a27a07eab43c2f081a0",
+    "size_bytes": 4111,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_positive_pct,min_negative_pct,max_abs_pct,peak_to_peak_pct,rms_pct,mean_abs_pct,median_abs_pct,crest_factor,rectified_area_pct_us,energy_pct2_us,abs_peak_time_us,zero_crossings,pre_tof_20us_rms_pct,post_tof_50us_rms_pct,post_tof_100us_rms_pct,post_pre_rms_ratio,arrival_window_peak_abs_pct,arrival_window_peak_time_us,energy_0_100_pct2_us,energy_100_300_pct2_us,energy_300_800_pct2_u"
+  },
+  {
+    "file": "e45/0337.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/B2G_vs_B2B_all_metrics.csv",
+    "sha256": "859cf12e84f151e3af27aaad640c6b3e275a22dfbae1da48e3359a0030426bf5",
+    "size_bytes": 5928,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0338.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/B2G_vs_B2B_excluding_late_failed.csv",
+    "sha256": "859cf12e84f151e3af27aaad640c6b3e275a22dfbae1da48e3359a0030426bf5",
+    "size_bytes": 5928,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0339.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/B3G_vs_B3B_all_metrics.csv",
+    "sha256": "b65584b2a26a64e572d0ce6d7349f6f883ac4e0a53952ad83571f39ea34a56c4",
+    "size_bytes": 5991,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0340.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/B3G_vs_B3B_excluding_late_failed.csv",
+    "sha256": "b65584b2a26a64e572d0ce6d7349f6f883ac4e0a53952ad83571f39ea34a56c4",
+    "size_bytes": 5991,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0341.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/B4G_vs_B4B_all_metrics.csv",
+    "sha256": "833d09b4d3bf897023580976e960bbc84d209aab46125a097882e1d57fe9b067",
+    "size_bytes": 5969,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0342.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/B4G_vs_B4B_excluding_late_failed.csv",
+    "sha256": "833d09b4d3bf897023580976e960bbc84d209aab46125a097882e1d57fe9b067",
+    "size_bytes": 5969,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0343.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/B5G_vs_B5B_all_metrics.csv",
+    "sha256": "4275b949c4b1704c58bf6f6e1a146e09f127ffd05f61607c979a6cdcbd69d309",
+    "size_bytes": 5990,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0344.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/B5G_vs_B5B_excluding_late_failed.csv",
+    "sha256": "4275b949c4b1704c58bf6f6e1a146e09f127ffd05f61607c979a6cdcbd69d309",
+    "size_bytes": 5990,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0345.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/T2G_vs_T2B_all_metrics.csv",
+    "sha256": "170792af35842e11bae3f8c6d12325de5f0e0b8ccd8d9e8d5920276548b0c9b1",
+    "size_bytes": 6004,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0346.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/T2G_vs_T2B_excluding_late_failed.csv",
+    "sha256": "017c6ba7c0a7891c7266bc374b488d7c14ed5ded03765778896d3d6cdea525bf",
+    "size_bytes": 5984,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0347.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/T3G_vs_T3B_all_metrics.csv",
+    "sha256": "25bcd075457c29a68bc6f34a5abcc6e48ea74151f01a5422aba86afabb21db40",
+    "size_bytes": 6003,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0348.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/T3G_vs_T3B_excluding_late_failed.csv",
+    "sha256": "25bcd075457c29a68bc6f34a5abcc6e48ea74151f01a5422aba86afabb21db40",
+    "size_bytes": 6003,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0349.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/T4G_vs_T4B_all_metrics.csv",
+    "sha256": "3e6568c0a2aa72114998b792d3c13b9d543b5f9a905a7d8fc89605216c53ade3",
+    "size_bytes": 5966,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0350.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/T4G_vs_T4B_excluding_late_failed.csv",
+    "sha256": "3e6568c0a2aa72114998b792d3c13b9d543b5f9a905a7d8fc89605216c53ade3",
+    "size_bytes": 5966,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0351.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/T5G_vs_T5B_all_metrics.csv",
+    "sha256": "cd49c66d12ce4da8a2b22fdb56035cb21a91e1dadbaef54c9e75bd5602397b26",
+    "size_bytes": 5973,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0352.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/T5G_vs_T5B_excluding_late_failed.csv",
+    "sha256": "4cf7cb64620b20b49174996d42901cd201a876e73108abc4f860dfe4d726f368",
+    "size_bytes": 6010,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0353.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/03_paired_contact_comparisons/all_paired_contact_comparisons.csv",
+    "sha256": "a92882948a37b47d4260d81bc7e1c6ca714e84affca778fd50d59aa185f5ff12",
+    "size_bytes": 46347,
+    "group": "e45",
+    "csv_first_line": "adequate_case,inadequate_case,comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0354.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/04_overall_contact_comparison/overall_adequate_vs_inadequate_all_metrics.csv",
+    "sha256": "8fb00e8c8d8e00223405b212fa1521a5937ab4dfdb6edf0ecee17d7c823c9699",
+    "size_bytes": 6430,
+    "group": "e45",
+    "csv_first_line": "comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0355.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/04_overall_contact_comparison/overall_adequate_vs_inadequate_excluding_late_failed.csv",
+    "sha256": "2a3c365327d8224702fd9509745834d83a46e112c0fc6e08717f64d02e6f7f3f",
+    "size_bytes": 6459,
+    "group": "e45",
+    "csv_first_line": "comparison,metric,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_std,inadequate_std,cohens_d,adequate_n,inadequate_n"
+  },
+  {
+    "file": "e45/0356.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/04_overall_contact_comparison/adequate_vs_inadequate_by_material.csv",
+    "sha256": "0818d09f029a490557a68494908ceb772164f606be6bb5e2c0ccef298012e436",
+    "size_bytes": 16201,
+    "group": "e45",
+    "csv_first_line": "material,contact,tof_us_mean,tof_us_std,tof_us_var,tof_us_min,tof_us_max,max_positive_pct_mean,max_positive_pct_std,max_positive_pct_var,max_positive_pct_min,max_positive_pct_max,min_negative_pct_mean,min_negative_pct_std,min_negative_pct_var,min_negative_pct_min,min_negative_pct_max,max_abs_pct_mean,max_abs_pct_std,max_abs_pct_var,max_abs_pct_min,max_abs_pct_max,peak_to_peak_pct_mean,peak_to_peak_pct_std,peak_to_peak_pct_var,peak_to_peak_pct_min,peak_to_peak_pct_max,rms_pct_mean,rms_pct_std,rms"
+  },
+  {
+    "file": "e45/0357.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/04_overall_contact_comparison/adequate_vs_inadequate_by_material_excluding_late_failed.csv",
+    "sha256": "6e7810af155efbd186124a3552e861d28e37a2579b5e83cb99d130900dd25f15",
+    "size_bytes": 16191,
+    "group": "e45",
+    "csv_first_line": "material,contact,tof_us_mean,tof_us_std,tof_us_var,tof_us_min,tof_us_max,max_positive_pct_mean,max_positive_pct_std,max_positive_pct_var,max_positive_pct_min,max_positive_pct_max,min_negative_pct_mean,min_negative_pct_std,min_negative_pct_var,min_negative_pct_min,min_negative_pct_max,max_abs_pct_mean,max_abs_pct_std,max_abs_pct_var,max_abs_pct_min,max_abs_pct_max,peak_to_peak_pct_mean,peak_to_peak_pct_std,peak_to_peak_pct_var,peak_to_peak_pct_min,peak_to_peak_pct_max,rms_pct_mean,rms_pct_std,rms"
+  },
+  {
+    "file": "e45/0358.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/05_metric_dictionary/metric_definitions.csv",
+    "sha256": "24153ad0c16da1b9ce6e2162ca30b3a224144212bd43de5d382f4ed4145993c4",
+    "size_bytes": 2268,
+    "group": "e45",
+    "csv_first_line": "metric,definition"
+  },
+  {
+    "file": "e45/0359.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/selected_journal_metrics/01_per_reading_selected_metrics.csv",
+    "sha256": "ea06293a7ebe18532b1fd3f27abc06217ff420692c30710c21a058386fda2e95",
+    "size_bytes": 15290,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_abs_amplitude_pct,peak_to_peak_amplitude_pct,rms_amplitude_pct,total_waveform_energy_pct2_us"
+  },
+  {
+    "file": "e45/0360.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/selected_journal_metrics/02_per_case_selected_summary.csv",
+    "sha256": "c79501a2f7e82d75b94853285a1b13fc1b2d051e8e7b5f35ea5d05ce4451464e",
+    "size_bytes": 3819,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading_count,late_failed_count,tof_mean_us,tof_sd_us,tof_cv_pct,max_abs_amplitude_mean_pct,peak_to_peak_amplitude_mean_pct,rms_amplitude_mean_pct,total_waveform_energy_mean_pct2_us"
+  },
+  {
+    "file": "e45/0361.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/selected_journal_metrics/03_paired_adequate_vs_inadequate_selected_metrics.csv",
+    "sha256": "d91646e37952d9189cb7d0b7103dbf326e784df238415b7ece2771af8c4a08c3",
+    "size_bytes": 7575,
+    "group": "e45",
+    "csv_first_line": "comparison,metric,metric_label,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_sd,inadequate_sd,cohens_d,adequate_n,inadequate_n,adequate_late_failed_count,inadequate_late_failed_count"
+  },
+  {
+    "file": "e45/0362.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/selected_journal_metrics/04_overall_adequate_vs_inadequate_selected_metrics.csv",
+    "sha256": "7eaba5240f177016bb80fddd5960b876505789fa9919e046cb32d0dd6aabaec4",
+    "size_bytes": 1265,
+    "group": "e45",
+    "csv_first_line": "comparison,metric,metric_label,adequate_mean,inadequate_mean,difference_inadequate_minus_adequate,pct_change_inadequate_vs_adequate,adequate_sd,inadequate_sd,cohens_d,adequate_n,inadequate_n,adequate_late_failed_count,inadequate_late_failed_count"
+  },
+  {
+    "file": "e45/0363.csv",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/selected_journal_metrics/05_late_failed_arrivals.csv",
+    "sha256": "5bf487f1f3a6879108c335c55004b027913fc9d096957ed35026cb3e68483afc",
+    "size_bytes": 897,
+    "group": "e45",
+    "csv_first_line": "case,material,condition_number,condition,contact,contact_label,reading,repeat_name,late_or_failed_arrival,tof_us,max_abs_amplitude_pct,peak_to_peak_amplitude_pct,rms_amplitude_pct,total_waveform_energy_pct2_us"
+  },
+  {
+    "file": "e45/0364.xlsx",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/upv_signal_metrics/selected_journal_metrics/selected_journal_upv_metrics.xlsx",
+    "sha256": "872d7f1f5db71e16143f5f3f6ca9373bf3e4f32e8494fa3cb1ed5dceab207f4d",
+    "size_bytes": 25973,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0365.docx",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/UPV_signal_metrics_journal_tables_and_figure_plan.docx",
+    "sha256": "dbf2b7fa944a66a0ae86b770c9f3774fd480b84a99c9b15a6cb0b7aaf606b97f",
+    "size_bytes": 39953,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0366.docx",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/UPV_signal_metrics_updated_tables_and_figures.docx",
+    "sha256": "2378d86d957d7f7dc63f2dc1ee375b4488c12e409203914a102b37c6c9efddbc",
+    "size_bytes": 645324,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0367.docx",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/UPV_signal_metrics_corrected_tables_and_figures.docx",
+    "sha256": "680728639c50ea5aa8c4663e149525c6a6dea7927c94da5823c378ed8aa9985b",
+    "size_bytes": 871264,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0368.docx",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/UPV_signal_metrics_corrected_tables_and_figures_v3.docx",
+    "sha256": "ff3253ae52e86eb042c35fb69db5984b0314ca0fdb0738b2b596c6b44462131f",
+    "size_bytes": 891507,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0369.docx",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/UPV_signal_metrics_corrected_tables_and_figures_v4.docx",
+    "sha256": "01195603e196ea90a1ba3cae04722728ce518ce00e144f71abb744c76b4d883d",
+    "size_bytes": 754157,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0370.docx",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/UPV_signal_metrics_corrected_tables_and_figures_v5.docx",
+    "sha256": "ca4011f640171726f659b44fc6c72543658b5bacbe59e41f535da63d4ec2a432",
+    "size_bytes": 753865,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0371.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures/Figure_1_representative_waveforms.svg",
+    "sha256": "3b128d2e8ae4fde214acda3c96f820d9ffec363f958df5923bfdfa13123e5fc2",
+    "size_bytes": 972739,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0372.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures/Figure_1_representative_waveforms.png",
+    "sha256": "64026136eefc862eac811bf64cc5acb77b7c24d015786517198c399599704f56",
+    "size_bytes": 461044,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0373.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures/Figure_2_TOF_CV_range_plot.svg",
+    "sha256": "705ee4f573c3966ad93f3af4769a5988264ab6a36fb767eb3e456ca96d9709c7",
+    "size_bytes": 5883,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0374.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures/Figure_2_TOF_CV_range_plot.png",
+    "sha256": "cf6d82c428f3172184c232bcbe45463e487c9ea45829f832c5d48b37a19acc9e",
+    "size_bytes": 119835,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0375.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures/Figure_3_signal_degradation.svg",
+    "sha256": "572018e935328e02336e0ccad7138f9b2eb0f73d4593b4eaef05ab3bfc644e40",
+    "size_bytes": 5818,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0376.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures/Figure_3_signal_degradation.png",
+    "sha256": "97da19bf82c3a28f9c4c6b0130b543cfca4cc75dd88f8ee15d63ce033ea4019a",
+    "size_bytes": 117473,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0377.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures_v2/Figure_1_representative_waveforms_v2.svg",
+    "sha256": "9247e95bf800592a10ab47ce09b82e1d68a6bd61c65d17b95051b7b5f78742e6",
+    "size_bytes": 972573,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0378.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures_v2/Figure_1_representative_waveforms_v2.png",
+    "sha256": "0020bb309c42e59807881eb521d6d89742a9f5c2e7c9b9c22ec3264781188891",
+    "size_bytes": 396720,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0379.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures_v2/Figure_2_TOF_CV_distribution_v2.svg",
+    "sha256": "98f28eed777fdebfd38c2564517a21d5ecf964aa2aaad1cf42d6e83b387f6e25",
+    "size_bytes": 4562,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0380.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures_v2/Figure_2_TOF_CV_distribution_v2.png",
+    "sha256": "ac8c0969792004f5e3a411deb1b36baee89098d9a0580b59bc3b1bd7da21c9ac",
+    "size_bytes": 117921,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0381.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures_v2/Figure_3_signal_strength_paired_v2.svg",
+    "sha256": "18d9c0453189ff0dc2189cc4bd0f212fb7009231e46d5597a29f7076e35e39da",
+    "size_bytes": 9592,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0382.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures_v2/Figure_3_signal_strength_paired_v2.png",
+    "sha256": "35702c491d4625697299582149ace0ec0474dd1698fddb99aae269e91be37045",
+    "size_bytes": 306458,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0383.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures_v2/Figure_1_representative_waveforms_v2_no_title.svg",
+    "sha256": "76040153ede6d94bd0275f71a7121a820e8511e4d92df729c67c30df3f4fbfe1",
+    "size_bytes": 972333,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0384.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures_v2/Figure_1_representative_waveforms_v2_no_title.png",
+    "sha256": "4ab2fc2374abd466307a9598c8f118e44ba22fe22f746a13cb53d4be2406ab02",
+    "size_bytes": 370926,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0385.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures_v2/Figure_2_TOF_CV_distribution_v2_no_title.svg",
+    "sha256": "f9d4881bb59708d642d4693afaeb9eb51d47f7aaea377d4161ec0b0b798056c6",
+    "size_bytes": 4331,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0386.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures_v2/Figure_2_TOF_CV_distribution_v2_no_title.png",
+    "sha256": "4f501583c2b2edd6482fdf3d02184dd41d7f88136a15a4e7fe05624d4d0f7866",
+    "size_bytes": 92673,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0387.svg",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures_v2/Figure_3_signal_strength_paired_v2_no_title.svg",
+    "sha256": "407e841620f9d777e7d8d1a51b392057e8bc21a6f85b28b1eba82150fb4d3cfa",
+    "size_bytes": 9349,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0388.png",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/journal_tables_and_figure_plan/figures_v2/Figure_3_signal_strength_paired_v2_no_title.png",
+    "sha256": "162f991058652ff51e4c3b0896b28b87325c4518a3d14f65c7d0b4c6e1c179e4",
+    "size_bytes": 275885,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0389.py",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/codes_for_creating_artifects/build_journal_tables_and_figures_v2.py",
+    "sha256": "b11a563252e63808632d0c8738d9e69471ed210a4f7e969bb97d2e171617b28a",
+    "size_bytes": 26846,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0390.py",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/codes_for_creating_artifects/create_titleless_figure_variants.py",
+    "sha256": "7ff814814670352cd667593944a6e8212ac3b666d4669b3219827c1e119a9cc0",
+    "size_bytes": 1329,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0391.py",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/codes_for_creating_artifects/create_selected_journal_metrics.py",
+    "sha256": "3f149a478edde76f377424bf8892e10501d3e2add49f88c673bdc61b1e848b64",
+    "size_bytes": 6047,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0392.py",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/codes_for_creating_artifects/organize_upv_signal_metrics.py",
+    "sha256": "60d44b24ba9c87257de4355665586edaed01095b1e6adbbf769e3ead698d1c8f",
+    "size_bytes": 12206,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "e45/0393.py",
+    "original_path": "data from proceq PL 200/Experiment4_80+10_readings/E45 data/E45 upv data/codes_for_creating_artifects/analyze_upv_metrics.py",
+    "sha256": "6dade451b29a39fe2e4dd02d36b5b9999794b309abd5312af48be216342be6cf",
+    "size_bytes": 11421,
+    "group": "e45",
+    "csv_first_line": ""
+  },
+  {
+    "file": "audit/0394.txt",
+    "original_path": "data from proceq PL 200/audit_outputs/UPV_directory_tree.txt",
+    "sha256": "8534e23976755f9fa0de20ac6fdd511076a1869ae57afa5f38c7b947846d723f",
+    "size_bytes": 4138,
+    "group": "audit",
+    "csv_first_line": ""
+  },
+  {
+    "file": "audit/0395.csv",
+    "original_path": "data from proceq PL 200/audit_outputs/UPV_file_inventory.csv",
+    "sha256": "c0790863da05608349dc7bf1dbd3f5ac92026eaa3de7feb317ddf4f522156796",
+    "size_bytes": 2062524,
+    "group": "audit",
+    "csv_first_line": "relative_path,filename,extension,parent_folder,size_bytes,modified_time,likely_role,dataset_group"
+  },
+  {
+    "file": "audit/0396.csv",
+    "original_path": "data from proceq PL 200/audit_outputs/UPV_raw_csv_audit.csv",
+    "sha256": "4d35406146a1f72819b8cf486c668c7d4965e3f8d52f850a3520b46db96a3864",
+    "size_bytes": 23620,
+    "group": "audit",
+    "csv_first_line": "relative_path,filename,case,material_filename_inferred,specimen_filename_inferred,contact_filename_inferred,inference_note,encoding,delimiter,header_row_index_zero_based,column_count,row_count_after_header,detected_reading_count,reading_count_basis,reading_count_category,waveform_samples_present,signal_sample_count_min,signal_sample_count_max,tof_related_columns,velocity_related_columns,path_length_related_columns,waveform_time_or_sample_columns,waveform_amplitude_or_signal_columns,reading_or_me"
+  },
+  {
+    "file": "audit/0397.csv",
+    "original_path": "data from proceq PL 200/audit_outputs/UPV_existing_artifact_inventory.csv",
+    "sha256": "6f546ae5af7ea5cd87f6cb32c5e2718f58cb1d0041d213cf2008b82fac702f01",
+    "size_bytes": 108968,
+    "group": "audit",
+    "csv_first_line": "relative_path,filename,extension,parent_folder,size_bytes,modified_time,likely_role,dataset_group,likely_figure_type,title_variant_status"
+  },
+  {
+    "file": "audit/0398.json",
+    "original_path": "data from proceq PL 200/audit_outputs/UPV_audit_summary.json",
+    "sha256": "ef3e1aae323fdb1fe957036de6875358803b737128a8d84687ffbc6666cf26f4",
+    "size_bytes": 155330,
+    "group": "audit",
+    "csv_first_line": ""
+  },
+  {
+    "file": "audit/0399.md",
+    "original_path": "data from proceq PL 200/audit_outputs/UPV_data_audit_report.md",
+    "sha256": "cbd092fd3fe72ab035cd78daedc1219734d79c7fb10d0e933027978d260c9fad",
+    "size_bytes": 63894,
+    "group": "audit",
+    "csv_first_line": ""
+  },
+  {
+    "file": "concrete_revision/0400.usp",
+    "original_path": "data from proceq PL 200/New revision 5 concrete UPV data/Pundit_2026_09_03-18.00.22.usp",
+    "sha256": "faffe77c67f76f820451bc372ea72a27dff9ea4aacc06e82dd8bd14e776ebd4c",
+    "size_bytes": 658904,
+    "group": "concrete_revision",
+    "csv_first_line": ""
+  },
+  {
+    "file": "concrete_revision/0401.csv",
+    "original_path": "data from proceq PL 200/New revision 5 concrete UPV data/concrete-review-data.csv",
+    "sha256": "db3c27f182387d6d4a089822aa2b76fe0dcf25447d9aca868991f11211e444ab",
+    "size_bytes": 3278466,
+    "group": "concrete_revision",
+    "csv_first_line": "PL-Link Version\t3.0.5.0"
+  }
+]

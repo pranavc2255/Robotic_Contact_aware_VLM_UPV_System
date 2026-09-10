@@ -30,5 +30,19 @@
     "logical_files": 786,
     "unique_objects": 557,
     "url": "https://github.com/pranavc2255/Robotic_Contact_aware_VLM_UPV_System/releases/download/v0.1.0/runtime.zip"
+  },
+  "contact89": {
+    "file": "contact89.zip",
+    "size_bytes": 889535286,
+    "sha256": "bbb43c0f21526a6338290e02183d03c35c8e04eea17193f90f8c0a9a47d19775",
+    "url": null,
+    "status": "Built and validated locally; upload release asset before configuring URL"
+  },
+  "pl200": {
+    "file": "pl200.zip",
+    "size_bytes": 53090964,
+    "sha256": "ca43959fd937d06339226ef6261af1803a490264498faf1cac32a2ee96b4e469",
+    "url": null,
+    "status": "Built and validated locally; upload release asset before configuring URL"
   }
 }

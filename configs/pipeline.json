@@ -62,7 +62,7 @@
     "qwen32_single_anchor_contact_scoring_enabled": false,
     "qwen_required": false,
     "qwen_mode": "multi_image",
-    "qwen_server_url": "http://127.0.0.1:8899",
+    "qwen_server_url": "http://127.0.0.1:8896",
     "qwen_server_endpoint": "/infer_multi",
     "qwen_prompt_variant": "multi_image_v1_original",
     "anchor_layout_variant": "L6_magenta_line_only_fixed",
@@ -96,9 +96,9 @@
     "save_candidate_overlays": true
   },
   "contact": {
-    "server_url": "http://127.0.0.1:8899",
+    "server_url": "http://127.0.0.1:8896",
     "timeout_seconds": 900,
-    "model_label": "Qwen2.5-VL-32B-Instruct"
+    "model_label": "Qwen2.5-VL-32B-Instruct-bnb-4bit"
   },
   "depth_scale_m_per_unit": 0.001,
   "path": {

@@ -29,7 +29,7 @@ def inputs(root, args):
             (not args.case_id or r['case'] == args.case_id)]
     if not rows:
         raise ValueError('No exact dataset/case match')
-    assets = Assets(root, 'contact')
+    assets = Assets(root, 'contact89' if args.dataset == 'contact89' else 'contact')
     for row in rows:
         for field in ('image', 'geometry', 'rgb', 'mask'):
             if not assets.path(row[field]).is_file():

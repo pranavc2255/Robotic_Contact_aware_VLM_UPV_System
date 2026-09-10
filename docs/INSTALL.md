@@ -85,14 +85,14 @@ Use a tested dependency set for your selected model, then record it with
 Print a server command without loading anything:
 
 ```bash
-python scripts/start_vlm_server.py --model qwen25-32b \
-  --model-path local_models/Qwen2.5-VL-32B-Instruct --load-4bit
+python scripts/start_qwen25_32b_bnb4_contact_server.py --dry-run
 ```
 
-Add `--run` to start it. For a 24 GB GPU, the documented Qwen32 deployment uses
-4-bit loading; this is not a guarantee of fit for every input size or dependency
-version. Do not leave this server resident while running perception on a GPU
-that cannot hold both stacks. Use the staged workflow in [PIPELINE.md](PIPELINE.md).
+Remove `--dry-run` to start the NF4 server on port 8896. The checkpoint directory
+is `local_models/Qwen2.5-VL-32B-Instruct-bnb-4bit`. Do not pass `--load-4bit`:
+quantization is embedded in the checkpoint. For the main RTX 4090 deployment,
+the full-cycle launcher manages startup and shutdown automatically; do not start
+a separate server. See [PREQUANTIZED_ROBOT_CYCLE.md](PREQUANTIZED_ROBOT_CYCLE.md).
 
 ## 4. Datasets
 

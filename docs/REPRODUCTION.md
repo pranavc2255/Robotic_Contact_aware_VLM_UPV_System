@@ -34,7 +34,7 @@ missing without further handling; do not silently ignore failed inputs.
 
 Models are not bundled or downloaded automatically. Obtain the appropriate
 model under its own license and place it under an ignored `local_models/` folder:
-`Qwen/Qwen2.5-VL-32B-Instruct`, `Qwen/Qwen2.5-VL-3B-Instruct`, or
+`local_models/Qwen2.5-VL-32B-Instruct-bnb-4bit` for the main model; `Qwen/Qwen2.5-VL-3B-Instruct` or
 `Qwen/Qwen3-VL-2B-Instruct`. Verify the exact model path and supported Transformers
 version, and allocate a GPU environment separately from the offline environment.
 `configs/build_environment.json` records the importer environment, not all historic
@@ -44,19 +44,18 @@ on the deployment host.
 ```bash
 python -m pip install -e '.[vlm]'
 # Dry-run command print only:
-python scripts/start_vlm_server.py --model qwen25-32b --model-path local_models/Qwen2.5-VL-32B-Instruct --load-4bit
+python scripts/start_qwen25_32b_bnb4_contact_server.py --dry-run
 # Explicitly start ONE server; this loads weights, so run manually:
-python scripts/start_vlm_server.py --model qwen25-32b --model-path local_models/Qwen2.5-VL-32B-Instruct --load-4bit --run
+python scripts/start_qwen25_32b_bnb4_contact_server.py
 ```
 
 In a second terminal using the same filesystem:
 
 ```bash
-upv-reproduce infer-contact --dataset contact82 --model Qwen2.5-32B --case-id case_001_brick_01_clean_regular --output runs/qwen_pilot
+upv-reproduce infer-contact --dataset contact89 --model Qwen2.5-32B-NF4 --case-id case_001_brick_01_clean_regular --server-url http://127.0.0.1:8896 --output runs/qwen_pilot
 # Explicit HTTP inference, never hardware execution:
-upv-reproduce infer-contact --dataset contact82 --model Qwen2.5-32B --case-id case_001_brick_01_clean_regular --output runs/qwen_pilot --run-inference
-upv-reproduce infer-contact --dataset contact82 --model Qwen2.5-32B --output runs/qwen82 --run-inference
-upv-reproduce infer-contact --dataset contact73 --model Qwen2.5-32B --output runs/qwen73 --run-inference
+upv-reproduce infer-contact --dataset contact89 --model Qwen2.5-32B-NF4 --case-id case_001_brick_01_clean_regular --server-url http://127.0.0.1:8896 --output runs/qwen_pilot --run-inference
+upv-reproduce infer-contact --dataset contact89 --model Qwen2.5-32B-NF4 --server-url http://127.0.0.1:8896 --output runs/qwen89_nf4 --run-inference
 ```
 
 Stop that server manually before starting another model. Substitute server

@@ -6,9 +6,9 @@
 - Review all images and text for publication rights and sensitive laboratory information.
 - Four verified ZIPs are public on the new repository's v0.1.0 release; archive URLs are populated and GitHub sizes/digests match the catalog.
 - Keep `release_assets/`, `datasets/`, `local_models/`, environments and new runs out of Git.
-- Add the missing Windows waveform exports with units, sampling rate, acquisition settings, specimen IDs and checksum provenance.
+- PL-200 exports are packaged locally in `pl200.zip`; upload the asset. Preserve instrument metadata and verify specimen/session associations before waveform reprocessing claims.
 - Validate `upv-pipeline` on a fresh GPU environment with real perception and Qwen. Synthetic CPU tests do not establish model compatibility or fresh-run equivalence.
-- Import the later concrete extension / Contact89 evidence before claiming this snapshot includes the latest 89-pair comparison. The current catalog covers Contact73/82 and the original perception/path/runtime studies.
+- Contact89 labels, predictions and inputs are imported and tested locally. Upload `contact89.zip` and `pl200.zip`, push updated source/tables/manifests, then configure verified download URLs. Local completion does not mean these new assets are already public.
 - Run tests and the standalone portability check, then review the Git file list before committing.
 - Publishing repository: https://github.com/pranavc2255/Robotic_Contact_aware_VLM_UPV_System . No push or commit is performed automatically by local release validation.
 

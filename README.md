@@ -49,7 +49,7 @@ Saved RGB-D + material query
   -> CLIP ViT-B/32 material verification / selected mask
   -> object geometry + length-dependent A* contact candidates
   -> L6 two-contact crop images
-  -> Qwen2.5-VL-32B /infer_multi
+  -> Qwen2.5-VL-32B-Instruct-bnb-4bit /infer_multi
   -> highest-scoring model-labeled usable pair, or NO_SAFE_ANCHOR
   -> mask-based and local depth point-cloud path lengths
 ```
@@ -79,7 +79,31 @@ See [installation](docs/INSTALL.md) for environments/model dependencies and
 [pipeline commands](docs/PIPELINE.md) for full and staged operation, saved-mask
 reuse, input formats and validation limits.
 
-## Optional Lab Robot Cycle
+## Main Single-GPU Cycle
+
+The main deployment uses prequantized BitsAndBytes NF4 weights with BF16 compute
+on one NVIDIA RTX 4090 (24 GB). Perception and Qwen use the GPU in sequence:
+DINO/SAM2 and CLIP finish, Qwen starts and ranks contact pairs, then Qwen stops.
+There is no reduced-pixel or vLLM experiment enabled by this launcher.
+
+Validate the installed files without inference or hardware:
+
+```bash
+.venv/bin/python scripts/run_prequantized_qwen_upv_cycle.py --dry-run
+```
+
+For an end-to-end computational test using saved RGB-D and simulated hardware:
+
+```bash
+.venv/bin/python scripts/run_prequantized_qwen_upv_cycle.py \
+  --gpu-simulation --material 'concrete block' --axis major
+```
+
+The saved-input directory defaults to `datasets/gpu_smoke/concrete`; supply
+`--case-dir` for another directory containing `raw_rgb.png`,
+`raw_depth_aligned_z16.png` and `camera_info_aligned_depth.json`.
+This route has a recorded successful real-GPU/simulated-hardware run. Physical
+operation still requires rig calibration, hardware checks and operator confirmation.
 
 `scripts/run_prequantized_qwen_upv_cycle.py` supports the original UR3e rig using
 staged perception, prequantized Qwen2.5-32B NF4 startup/inference/shutdown, and the
@@ -96,6 +120,7 @@ See [complete-cycle commands and prerequisites](docs/PREQUANTIZED_ROBOT_CYCLE.md
 
 | Experiment | Cohort | Supported analysis |
 |---|---|---|
+| Contact89 | 89 candidate pairs; 21 cases, including five concrete cases | Classification and selected-pair usability; three VLMs and classical RGB+mask |
 | Perception | 27 original + 36 revision trials | Saved 57/63 correct (90.48%) |
 | Contact73 | 45 E3 + 28 new10 pairs; 16 scenes | Classification and selected-pair usability; five methods |
 | Contact82 | 50 E3 + 32 E45 pairs; 18 scenes | Classification and selected-pair usability; five methods |
@@ -141,9 +166,18 @@ image-based reruns need the archives. Do not commit dataset ZIPs, model weights,
 environments or generated runs. Historical `workspace/...` paths are provenance
 identifiers resolved through archive indexes, not parent-workspace dependencies.
 
-The later five-concrete / Contact89 extension is not yet imported into this
-public snapshot's archive catalog. Do not claim it is included until that
-additional release-data import is completed.
+Contact89 is registered in the archive catalog and saved-table reproduction.
+It combines Contact73 with 16 pairs from five concrete cases, not Contact82.
+The additional `contact89.zip` and `pl200.zip` assets must be uploaded separately;
+their catalog URLs remain unset until publication is verified. Local installation:
+
+```bash
+upv-reproduce install-data contact89 --archive release_assets/contact89.zip
+upv-reproduce install-data pl200 --archive release_assets/pl200.zip
+upv-reproduce reproduce --output runs/contact89_reproduced
+```
+
+See [Contact89 and PL-200 release additions](docs/CONTACT89_RELEASE.md).
 
 ## Repository Layout
 
@@ -176,8 +210,9 @@ python tools/check_release.py --check-archives
 The release checker copies the repository to a detached temporary directory and
 reproduces saved tables there. The CPU smoke test mocks the VLM decision; it does
 not establish GPU/model correctness. Hardware references need fresh calibration,
-operator safeguards and a separate deployment review. Raw PL-200 waveform exports
-are not included, so waveform reprocessing is not currently reproducible.
+operator safeguards and a separate deployment review. The separate PL-200 archive
+contains saved waveform exports and historical analyses. Exact correspondence to
+robot sessions/contact anchors and end-to-end waveform reprocessing are not yet validated.
 
 Complete [the release checklist](docs/RELEASE_CHECKLIST.md) before publication.
 Project code licensing is pending; see LICENSE. Available

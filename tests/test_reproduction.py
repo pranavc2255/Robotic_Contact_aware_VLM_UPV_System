@@ -37,6 +37,19 @@ class ReproductionTests(unittest.TestCase):
         self.assertEqual(result['original27']['correct'], 27)
         self.assertEqual(result['revision36']['correct'], 30)
 
+    def test_contact89_reported_metrics(self):
+        import csv
+        result = contact(ROOT, 'contact89')['metrics']
+        with (ROOT/'results/contact/contact89/reported_metrics.csv').open() as f:
+            for row in csv.DictReader(f):
+                if row['group'] != 'combined89':
+                    continue
+                actual = result[row['model']]
+                for field in ('n','TP','FP','TN','FN','scenes','selected_good','selected_bad','abstain'):
+                    self.assertEqual(actual[field], int(row[field]))
+                for field in ('precision','recall','specificity','F1','accuracy','balanced_accuracy'):
+                    self.assertAlmostEqual(actual[field], float(row[field]))
+
     def test_path_summaries(self):
         for version in paths(ROOT).values():
             self.assertEqual(version['all']['mask']['n_valid'], 30)
@@ -72,7 +85,7 @@ class ReproductionTests(unittest.TestCase):
 
     def test_input_cohorts(self):
         rows = json.loads((ROOT/'data/manifests/contact_inputs.json').read_text())
-        for dataset, count in [('contact73', 73), ('contact82', 82)]:
+        for dataset, count in [('contact73', 73), ('contact82', 82), ('contact89',89)]:
             ids = [(r['split'], r['case'], r['anchor_id']) for r in rows if r['dataset'] == dataset]
             self.assertEqual(len(ids), count)
             self.assertEqual(len(set(ids)), count)

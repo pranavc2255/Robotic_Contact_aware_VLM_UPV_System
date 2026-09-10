@@ -1548,5 +1548,895 @@
     "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
     "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/rotated_object_rgb.png",
     "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_001_brick_01_clean_regular",
+    "anchor_id": "A1",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_001_brick_01_clean_regular/A1.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/pipeline_session/session_20260522_131552/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/pipeline_session/session_20260522_131552/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_001_brick_01_clean_regular",
+    "anchor_id": "A2",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_001_brick_01_clean_regular/A2.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/pipeline_session/session_20260522_131552/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/pipeline_session/session_20260522_131552/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_001_brick_01_clean_regular",
+    "anchor_id": "A3",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_001_brick_01_clean_regular/A3.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/pipeline_session/session_20260522_131552/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/pipeline_session/session_20260522_131552/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_001_brick_01_clean_regular",
+    "anchor_id": "A4",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_001_brick_01_clean_regular/A4.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/pipeline_session/session_20260522_131552/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/pipeline_session/session_20260522_131552/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_001_brick_01_clean_regular",
+    "anchor_id": "A5",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_001_brick_01_clean_regular/A5.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/pipeline_session/session_20260522_131552/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_001_brick_01_clean_regular/pipeline_session/session_20260522_131552/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_003_brick_03_chipped_jagged",
+    "anchor_id": "A1",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_003_brick_03_chipped_jagged/A1.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/pipeline_session/session_20260522_131615/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/pipeline_session/session_20260522_131615/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_003_brick_03_chipped_jagged",
+    "anchor_id": "A2",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_003_brick_03_chipped_jagged/A2.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/pipeline_session/session_20260522_131615/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/pipeline_session/session_20260522_131615/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_003_brick_03_chipped_jagged",
+    "anchor_id": "A3",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_003_brick_03_chipped_jagged/A3.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/pipeline_session/session_20260522_131615/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/pipeline_session/session_20260522_131615/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_003_brick_03_chipped_jagged",
+    "anchor_id": "A4",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_003_brick_03_chipped_jagged/A4.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/pipeline_session/session_20260522_131615/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/pipeline_session/session_20260522_131615/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_003_brick_03_chipped_jagged",
+    "anchor_id": "A5",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_003_brick_03_chipped_jagged/A5.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/pipeline_session/session_20260522_131615/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_003_brick_03_chipped_jagged/pipeline_session/session_20260522_131615/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_004_brick_04_debris_obstruction",
+    "anchor_id": "A1",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_004_brick_04_debris_obstruction/A1.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/pipeline_session/session_20260522_131626/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/pipeline_session/session_20260522_131626/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_004_brick_04_debris_obstruction",
+    "anchor_id": "A2",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_004_brick_04_debris_obstruction/A2.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/pipeline_session/session_20260522_131626/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/pipeline_session/session_20260522_131626/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_004_brick_04_debris_obstruction",
+    "anchor_id": "A3",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_004_brick_04_debris_obstruction/A3.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/pipeline_session/session_20260522_131626/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/pipeline_session/session_20260522_131626/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_004_brick_04_debris_obstruction",
+    "anchor_id": "A4",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_004_brick_04_debris_obstruction/A4.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/pipeline_session/session_20260522_131626/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/pipeline_session/session_20260522_131626/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_004_brick_04_debris_obstruction",
+    "anchor_id": "A5",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_004_brick_04_debris_obstruction/A5.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/pipeline_session/session_20260522_131626/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_004_brick_04_debris_obstruction/pipeline_session/session_20260522_131626/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_005_brick_05_debris_obstruction",
+    "anchor_id": "A1",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_005_brick_05_debris_obstruction/A1.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/pipeline_session/session_20260522_131637/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/pipeline_session/session_20260522_131637/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_005_brick_05_debris_obstruction",
+    "anchor_id": "A2",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_005_brick_05_debris_obstruction/A2.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/pipeline_session/session_20260522_131637/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/pipeline_session/session_20260522_131637/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_005_brick_05_debris_obstruction",
+    "anchor_id": "A3",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_005_brick_05_debris_obstruction/A3.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/pipeline_session/session_20260522_131637/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/pipeline_session/session_20260522_131637/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_005_brick_05_debris_obstruction",
+    "anchor_id": "A4",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_005_brick_05_debris_obstruction/A4.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/pipeline_session/session_20260522_131637/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/pipeline_session/session_20260522_131637/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_005_brick_05_debris_obstruction",
+    "anchor_id": "A5",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_005_brick_05_debris_obstruction/A5.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/pipeline_session/session_20260522_131637/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_005_brick_05_debris_obstruction/pipeline_session/session_20260522_131637/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_006_timber_01_clean_regular",
+    "anchor_id": "A1",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_006_timber_01_clean_regular/A1.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/pipeline_session/session_20260522_131648/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/pipeline_session/session_20260522_131648/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_006_timber_01_clean_regular",
+    "anchor_id": "A2",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_006_timber_01_clean_regular/A2.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/pipeline_session/session_20260522_131648/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/pipeline_session/session_20260522_131648/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_006_timber_01_clean_regular",
+    "anchor_id": "A3",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_006_timber_01_clean_regular/A3.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/pipeline_session/session_20260522_131648/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/pipeline_session/session_20260522_131648/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_006_timber_01_clean_regular",
+    "anchor_id": "A4",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_006_timber_01_clean_regular/A4.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/pipeline_session/session_20260522_131648/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/pipeline_session/session_20260522_131648/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_006_timber_01_clean_regular",
+    "anchor_id": "A5",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_006_timber_01_clean_regular/A5.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/pipeline_session/session_20260522_131648/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_006_timber_01_clean_regular/pipeline_session/session_20260522_131648/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_007_timber_02_chipped_jagged",
+    "anchor_id": "A1",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_007_timber_02_chipped_jagged/A1.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/pipeline_session/session_20260522_131659/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/pipeline_session/session_20260522_131659/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_007_timber_02_chipped_jagged",
+    "anchor_id": "A2",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_007_timber_02_chipped_jagged/A2.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/pipeline_session/session_20260522_131659/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/pipeline_session/session_20260522_131659/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_007_timber_02_chipped_jagged",
+    "anchor_id": "A3",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_007_timber_02_chipped_jagged/A3.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/pipeline_session/session_20260522_131659/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/pipeline_session/session_20260522_131659/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_007_timber_02_chipped_jagged",
+    "anchor_id": "A4",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_007_timber_02_chipped_jagged/A4.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/pipeline_session/session_20260522_131659/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/pipeline_session/session_20260522_131659/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_007_timber_02_chipped_jagged",
+    "anchor_id": "A5",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_007_timber_02_chipped_jagged/A5.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/pipeline_session/session_20260522_131659/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_007_timber_02_chipped_jagged/pipeline_session/session_20260522_131659/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_008_timber_03_chipped_jagged",
+    "anchor_id": "A1",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_008_timber_03_chipped_jagged/A1.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/pipeline_session/session_20260522_131710/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/pipeline_session/session_20260522_131710/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_008_timber_03_chipped_jagged",
+    "anchor_id": "A2",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_008_timber_03_chipped_jagged/A2.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/pipeline_session/session_20260522_131710/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/pipeline_session/session_20260522_131710/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_008_timber_03_chipped_jagged",
+    "anchor_id": "A3",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_008_timber_03_chipped_jagged/A3.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/pipeline_session/session_20260522_131710/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/pipeline_session/session_20260522_131710/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_008_timber_03_chipped_jagged",
+    "anchor_id": "A4",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_008_timber_03_chipped_jagged/A4.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/pipeline_session/session_20260522_131710/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/pipeline_session/session_20260522_131710/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_008_timber_03_chipped_jagged",
+    "anchor_id": "A5",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_008_timber_03_chipped_jagged/A5.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/pipeline_session/session_20260522_131710/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_008_timber_03_chipped_jagged/pipeline_session/session_20260522_131710/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_009_timber_04_debris_obstruction",
+    "anchor_id": "A1",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_009_timber_04_debris_obstruction/A1.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/pipeline_session/session_20260522_131721/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/pipeline_session/session_20260522_131721/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_009_timber_04_debris_obstruction",
+    "anchor_id": "A2",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_009_timber_04_debris_obstruction/A2.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/pipeline_session/session_20260522_131721/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/pipeline_session/session_20260522_131721/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_009_timber_04_debris_obstruction",
+    "anchor_id": "A3",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_009_timber_04_debris_obstruction/A3.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/pipeline_session/session_20260522_131721/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/pipeline_session/session_20260522_131721/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_009_timber_04_debris_obstruction",
+    "anchor_id": "A4",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_009_timber_04_debris_obstruction/A4.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/pipeline_session/session_20260522_131721/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/pipeline_session/session_20260522_131721/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_009_timber_04_debris_obstruction",
+    "anchor_id": "A5",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_009_timber_04_debris_obstruction/A5.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/pipeline_session/session_20260522_131721/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_009_timber_04_debris_obstruction/pipeline_session/session_20260522_131721/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_010_timber_05_debris_obstruction",
+    "anchor_id": "A1",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_010_timber_05_debris_obstruction/A1.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/pipeline_session/session_20260522_131732/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/pipeline_session/session_20260522_131732/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_010_timber_05_debris_obstruction",
+    "anchor_id": "A2",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_010_timber_05_debris_obstruction/A2.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/pipeline_session/session_20260522_131732/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/pipeline_session/session_20260522_131732/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_010_timber_05_debris_obstruction",
+    "anchor_id": "A3",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_010_timber_05_debris_obstruction/A3.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/pipeline_session/session_20260522_131732/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/pipeline_session/session_20260522_131732/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_010_timber_05_debris_obstruction",
+    "anchor_id": "A4",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_010_timber_05_debris_obstruction/A4.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/pipeline_session/session_20260522_131732/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/pipeline_session/session_20260522_131732/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "E3",
+    "case": "case_010_timber_05_debris_obstruction",
+    "anchor_id": "A5",
+    "image": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/e3/case_010_timber_05_debris_obstruction/A5.png",
+    "geometry": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/pipeline_session/session_20260522_131732/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_experiments/e3_anchor_selection/session_20260522_131552/cases/case_010_timber_05_debris_obstruction/pipeline_session/session_20260522_131732/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_001",
+    "anchor_id": "A1",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/clean_single_anchor_inputs/source_A1.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/pipeline_session/session_20260626_005118/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/pipeline_session/session_20260626_005118/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/pipeline_session/session_20260626_005118/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_001",
+    "anchor_id": "A2",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/clean_single_anchor_inputs/source_A2.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/pipeline_session/session_20260626_005118/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/pipeline_session/session_20260626_005118/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/pipeline_session/session_20260626_005118/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_001",
+    "anchor_id": "A3",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/clean_single_anchor_inputs/source_A3.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/pipeline_session/session_20260626_005118/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/pipeline_session/session_20260626_005118/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/pipeline_session/session_20260626_005118/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_001",
+    "anchor_id": "A4",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/clean_single_anchor_inputs/source_A4.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/pipeline_session/session_20260626_005118/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/pipeline_session/session_20260626_005118/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_001/pipeline_session/session_20260626_005118/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_002",
+    "anchor_id": "A1",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/clean_single_anchor_inputs/source_A1.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/pipeline_session/session_20260626_005130/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/pipeline_session/session_20260626_005130/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/pipeline_session/session_20260626_005130/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_002",
+    "anchor_id": "A2",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/clean_single_anchor_inputs/source_A2.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/pipeline_session/session_20260626_005130/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/pipeline_session/session_20260626_005130/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/pipeline_session/session_20260626_005130/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_002",
+    "anchor_id": "A3",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/clean_single_anchor_inputs/source_A3.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/pipeline_session/session_20260626_005130/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/pipeline_session/session_20260626_005130/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/pipeline_session/session_20260626_005130/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_002",
+    "anchor_id": "A4",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/clean_single_anchor_inputs/source_A4.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/pipeline_session/session_20260626_005130/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/pipeline_session/session_20260626_005130/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_002/pipeline_session/session_20260626_005130/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_003",
+    "anchor_id": "A1",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/clean_single_anchor_inputs/source_A1.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/pipeline_session/session_20260626_005143/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/pipeline_session/session_20260626_005143/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/pipeline_session/session_20260626_005143/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_003",
+    "anchor_id": "A2",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/clean_single_anchor_inputs/source_A2.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/pipeline_session/session_20260626_005143/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/pipeline_session/session_20260626_005143/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/pipeline_session/session_20260626_005143/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_003",
+    "anchor_id": "A3",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/clean_single_anchor_inputs/source_A3.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/pipeline_session/session_20260626_005143/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/pipeline_session/session_20260626_005143/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/pipeline_session/session_20260626_005143/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_003",
+    "anchor_id": "A4",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/clean_single_anchor_inputs/source_A4.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/pipeline_session/session_20260626_005143/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/pipeline_session/session_20260626_005143/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_003/pipeline_session/session_20260626_005143/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_005",
+    "anchor_id": "A1",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/clean_single_anchor_inputs/source_A1.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_005",
+    "anchor_id": "A2",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/clean_single_anchor_inputs/source_A2.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_005",
+    "anchor_id": "A3",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/clean_single_anchor_inputs/source_A3.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_005",
+    "anchor_id": "A4",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/clean_single_anchor_inputs/source_A4.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_005",
+    "anchor_id": "A5",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/clean_single_anchor_inputs/source_A5.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_005/pipeline_session/session_20260626_005207/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_006",
+    "anchor_id": "A1",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_006/clean_single_anchor_inputs/source_A1.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_006/pipeline_session/session_20260626_005220/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_006/pipeline_session/session_20260626_005220/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_006/pipeline_session/session_20260626_005220/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_006",
+    "anchor_id": "A2",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_006/clean_single_anchor_inputs/source_A2.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_006/pipeline_session/session_20260626_005220/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_006/pipeline_session/session_20260626_005220/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_006/pipeline_session/session_20260626_005220/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_006",
+    "anchor_id": "A3",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_006/clean_single_anchor_inputs/source_A3.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_006/pipeline_session/session_20260626_005220/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_006/pipeline_session/session_20260626_005220/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_006/pipeline_session/session_20260626_005220/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_009",
+    "anchor_id": "A1",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/clean_single_anchor_inputs/source_A1.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/pipeline_session/session_20260626_005257/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/pipeline_session/session_20260626_005257/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/pipeline_session/session_20260626_005257/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_009",
+    "anchor_id": "A2",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/clean_single_anchor_inputs/source_A2.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/pipeline_session/session_20260626_005257/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/pipeline_session/session_20260626_005257/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/pipeline_session/session_20260626_005257/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_009",
+    "anchor_id": "A3",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/clean_single_anchor_inputs/source_A3.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/pipeline_session/session_20260626_005257/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/pipeline_session/session_20260626_005257/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/pipeline_session/session_20260626_005257/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_009",
+    "anchor_id": "A4",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/clean_single_anchor_inputs/source_A4.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/pipeline_session/session_20260626_005257/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/pipeline_session/session_20260626_005257/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_009/pipeline_session/session_20260626_005257/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_010",
+    "anchor_id": "A1",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/clean_single_anchor_inputs/source_A1.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_010",
+    "anchor_id": "A2",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/clean_single_anchor_inputs/source_A2.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_010",
+    "anchor_id": "A3",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/clean_single_anchor_inputs/source_A3.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "new10",
+    "case": "case_010",
+    "anchor_id": "A4",
+    "image": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/clean_single_anchor_inputs/source_A4.png",
+    "geometry": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/cases/case_010/pipeline_session/session_20260626_005309/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_001",
+    "anchor_id": "A1",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_001/clean_single_anchor_inputs/source_A1.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_001/pipeline_session/session_20260908_102753/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_001/pipeline_session/session_20260908_102753/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_001/pipeline_session/session_20260908_102753/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_001",
+    "anchor_id": "A2",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_001/clean_single_anchor_inputs/source_A2.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_001/pipeline_session/session_20260908_102753/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_001/pipeline_session/session_20260908_102753/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_001/pipeline_session/session_20260908_102753/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_001",
+    "anchor_id": "A3",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_001/clean_single_anchor_inputs/source_A3.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_001/pipeline_session/session_20260908_102753/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_001/pipeline_session/session_20260908_102753/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_001/pipeline_session/session_20260908_102753/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_002",
+    "anchor_id": "A1",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_002/clean_single_anchor_inputs/source_A1.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_002/pipeline_session/session_20260908_102805/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_002/pipeline_session/session_20260908_102805/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_002/pipeline_session/session_20260908_102805/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_002",
+    "anchor_id": "A2",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_002/clean_single_anchor_inputs/source_A2.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_002/pipeline_session/session_20260908_102805/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_002/pipeline_session/session_20260908_102805/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_002/pipeline_session/session_20260908_102805/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_002",
+    "anchor_id": "A3",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_002/clean_single_anchor_inputs/source_A3.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_002/pipeline_session/session_20260908_102805/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_002/pipeline_session/session_20260908_102805/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_002/pipeline_session/session_20260908_102805/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_003",
+    "anchor_id": "A1",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_003/clean_single_anchor_inputs/source_A1.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_003/pipeline_session/session_20260908_102817/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_003/pipeline_session/session_20260908_102817/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_003/pipeline_session/session_20260908_102817/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_003",
+    "anchor_id": "A2",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_003/clean_single_anchor_inputs/source_A2.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_003/pipeline_session/session_20260908_102817/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_003/pipeline_session/session_20260908_102817/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_003/pipeline_session/session_20260908_102817/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_003",
+    "anchor_id": "A3",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_003/clean_single_anchor_inputs/source_A3.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_003/pipeline_session/session_20260908_102817/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_003/pipeline_session/session_20260908_102817/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_003/pipeline_session/session_20260908_102817/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_004",
+    "anchor_id": "A1",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/clean_single_anchor_inputs/source_A1.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/pipeline_session/session_20260908_102829/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/pipeline_session/session_20260908_102829/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/pipeline_session/session_20260908_102829/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_004",
+    "anchor_id": "A2",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/clean_single_anchor_inputs/source_A2.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/pipeline_session/session_20260908_102829/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/pipeline_session/session_20260908_102829/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/pipeline_session/session_20260908_102829/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_004",
+    "anchor_id": "A3",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/clean_single_anchor_inputs/source_A3.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/pipeline_session/session_20260908_102829/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/pipeline_session/session_20260908_102829/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/pipeline_session/session_20260908_102829/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_004",
+    "anchor_id": "A4",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/clean_single_anchor_inputs/source_A4.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/pipeline_session/session_20260908_102829/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/pipeline_session/session_20260908_102829/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_004/pipeline_session/session_20260908_102829/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_005",
+    "anchor_id": "A1",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_005/clean_single_anchor_inputs/source_A1.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_005/pipeline_session/session_20260908_102844/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_005/pipeline_session/session_20260908_102844/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_005/pipeline_session/session_20260908_102844/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_005",
+    "anchor_id": "A2",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_005/clean_single_anchor_inputs/source_A2.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_005/pipeline_session/session_20260908_102844/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_005/pipeline_session/session_20260908_102844/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_005/pipeline_session/session_20260908_102844/artifacts/04_anchor_selection/rotated_object_mask.png"
+  },
+  {
+    "dataset": "contact89",
+    "split": "concrete5",
+    "case": "case_005",
+    "anchor_id": "A3",
+    "image": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_005/clean_single_anchor_inputs/source_A3.png",
+    "geometry": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_005/pipeline_session/session_20260908_102844/artifacts/04_anchor_selection/anchor_crop_geometry_debug.json",
+    "rgb": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_005/pipeline_session/session_20260908_102844/artifacts/04_anchor_selection/rotated_object_rgb.png",
+    "mask": "outputs/v2_datasets/concrete5_anchor_prep/session_20260908_102753/cases/case_005/pipeline_session/session_20260908_102844/artifacts/04_anchor_selection/rotated_object_mask.png"
   }
 ]

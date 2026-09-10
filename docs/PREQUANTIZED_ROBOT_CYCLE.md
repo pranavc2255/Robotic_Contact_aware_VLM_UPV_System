@@ -1,8 +1,9 @@
 # Staged prequantized Qwen complete UPV cycle
 
-This opt-in entrypoint uses Qwen2.5-VL-32B-Instruct-bnb-4bit with the validated
-BF16 visual-merger exclusions. Old deployment configs and recorded results are
-unchanged. The new path has only offline validation, not a robot acceptance test.
+The main entrypoint uses Qwen2.5-VL-32B-Instruct-bnb-4bit (BitsAndBytes NF4,
+double quantization, BF16 compute) with BF16 visual-merger exclusions. It stages
+GPU residency on a single RTX 4090 (24 GB). Real perception and Qwen have completed
+a saved-RGB-D run with simulated hardware; physical deployment needs a rig acceptance test.
 
 ## Sequence and manual reading
 
@@ -27,7 +28,7 @@ abort selection, rather than infer usability from a score. All-poor responses
 produce no selected anchor and do not reach contact execution. Old selector
 configs retain their previous behavior. The prompt is `multi_image_v1_original`.
 
-## Commands (development repository)
+## Commands (repository root)
 
 Leave the existing ROS2 RealSense publisher running. Stop your separately started
 Qwen/perception processes yourself first. The runner refuses an occupied managed
@@ -37,13 +38,13 @@ not detected or managed. Run from the repository root in the tested environment.
 Validation only, no models or hardware:
 
 ```bash
-.venv_gsam2/bin/python scripts/run_prequantized_qwen_upv_cycle.py --dry-run
+.venv/bin/python scripts/run_prequantized_qwen_upv_cycle.py --dry-run
 ```
 
 First perform an operator-run no-motion plan check (camera and inference DO run):
 
 ```bash
-.venv_gsam2/bin/python scripts/run_prequantized_qwen_upv_cycle.py \
+.venv/bin/python scripts/run_prequantized_qwen_upv_cycle.py \
   --material brick --axis major --plan-check
 ```
 
@@ -55,7 +56,7 @@ actual rig. The bundled settings are rig-specific, not universal safe defaults.
 Then, only with the rig checked and an operator at the emergency stop:
 
 ```bash
-.venv_gsam2/bin/python scripts/run_prequantized_qwen_upv_cycle.py \
+.venv/bin/python scripts/run_prequantized_qwen_upv_cycle.py \
   --material brick --axis major --execute --max-cycles 1
 ```
 
@@ -90,7 +91,7 @@ pushed by this change. Sync/review these changes before publishing. Existing
 
 ## Validation limits
 
-Only syntax checks, CLI validation and mocked lifecycle/selection tests were run.
-No Qwen/perception weights, camera, RTDE, Arduino or measurement hardware were
-started. Motion/actuator implementation and speeds were not changed. This is not
-evidence of a completed physical end-to-end run with the new checkpoint.
+Offline checks cover syntax, CLI validation and mocked lifecycle/selection.
+The recorded saved-input GPU simulation additionally exercised real perception
+and NF4 inference. These checks do not replace a physical rig acceptance test.
+Motion speeds, operator confirmations and safety gates remain unchanged.
