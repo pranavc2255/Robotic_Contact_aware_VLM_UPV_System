@@ -1,0 +1,17 @@
+{
+  "artifact_style": "main_pipeline_like",
+  "do_sample": false,
+  "endpoint": "/infer_multi",
+  "layout": "L6_magenta_line_only_fixed",
+  "layout_manifest": "data/contact_anchor_selection_benchmark_E3_E45_82/layouts/L6_magenta_line_only_fixed/layout_manifest.csv",
+  "llama_min_selectable_score": 85.0,
+  "max_new_tokens": 1600,
+  "mode": "full",
+  "model_label": "Qwen3-VL-2B-Instruct",
+  "prompt_variant": "multi_image_v1_original",
+  "seed": 12345,
+  "server_url": "http://127.0.0.1:8898",
+  "temperature": 0.0,
+  "vlm_backend": "qwen_multi_image",
+  "with_visual_artifacts": false
+}

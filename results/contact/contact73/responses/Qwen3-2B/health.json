@@ -1,0 +1,8 @@
+{
+  "ok": true,
+  "server": "qwen3_vl_anchor_server",
+  "model_loaded": true,
+  "model_path": "workspace/local_models/Qwen3-VL-2B-Instruct",
+  "device": "cuda",
+  "transformers_version": "5.6.2"
+}

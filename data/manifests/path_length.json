@@ -1,0 +1,7 @@
+{
+  "capture": "outputs/final_path_results_v1_capture_session_20260704_222852",
+  "evaluations": {
+    "v1": "outputs/final_path_results_v1_mask_depth_eval/session_20260704_230654",
+    "v2": "outputs/final_path_results_v2_percentile_endpoint_mask_depth_eval/session_20260705_135701"
+  }
+}

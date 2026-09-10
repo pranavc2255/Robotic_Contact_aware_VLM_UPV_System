@@ -1,0 +1,47 @@
+calibration_name: verified_tool0_to_realsense_color_optical
+version: 1
+description: >
+  Verified hand-eye transform migrated from the T4 full robot/clamp test
+  configuration. This transform maps points from the RealSense color optical
+  camera frame into the UR tool0/TCP frame used by the T4/T2 planning code.
+frame_convention:
+  parent_frame: tool0
+  child_frame: camera_color_optical_frame
+  transform_direction: T_tool0_camera_color_optical
+  point_mapping: p_tool0 = T_tool0_camera_color_optical * p_camera_color_optical
+translation_m:
+  x: -0.02888075
+  y: -0.087182149
+  z: 0.040293779
+quaternion_xyzw:
+  x: -0.011799122
+  y: 0.000145995
+  z: 0.01012026
+  w: 0.999879163
+matrix:
+  - [0.999795118, -0.02024152, 0.000053134, -0.02888075]
+  - [0.02023463, 0.999516722, 0.023598348, -0.087182149]
+  - [-0.000530775, -0.023592438, 0.999721519, 0.040293779]
+  - [0.0, 0.0, 0.0, 1.0]
+orientation_status:
+  calibrated: true
+  note: >
+    Orientation comes from configs/T4_full_robot_clamp_test.json
+    handeye.T_tool0_camera_color_optical and should be revalidated before
+    first v2 real execution.
+approximate_user_memory_offset_not_used_for_planning:
+  frame_note: RealSense camera lens offset relative to UR3e end link/TCP.
+  translation_m:
+    x: 0.0
+    y: -0.090
+    z: -0.047
+  provenance: user_provided_memory_not_code_proven_for_v2_planning
+provenance:
+  primary_source_files:
+    - configs/T4_full_robot_clamp_test.json
+  verified_config_path: configs/handeye_tool0_camera_color_optical_VERIFIED.json
+  source_field: handeye.T_tool0_camera_color_optical
+  value_status: code_proven_from_T4_config
+  migrated_for: upv_vlm_v2 plan_only and future execute modes
+  warnings:
+    - Revalidate hand-eye before enabling real v2 execution.

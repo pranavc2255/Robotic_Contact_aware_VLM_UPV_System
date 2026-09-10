@@ -1,0 +1,12 @@
+{
+  "groups_cases": 10,
+  "labels": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117/new10_manual_anchor_labels.csv",
+  "max_new_tokens": 1600,
+  "metrics_path": "outputs/debug_anchor_prompt_eval/qwen25_32b_multi_image_new10_orientation_fixed_core_support_seed12345_20260626_012116_full/qwen_new10_metrics.json",
+  "prompt_variant": "multi_image_v1_original",
+  "seed": 12345,
+  "server_url": "http://127.0.0.1:8899",
+  "session": "outputs/v2_datasets/manual_10_new_anchor_prep/session_20260626_005117",
+  "temperature": 0.0,
+  "valid_anchors": 42
+}

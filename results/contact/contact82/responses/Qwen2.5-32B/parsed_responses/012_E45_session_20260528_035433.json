@@ -1,0 +1,51 @@
+{
+  "comparative_baseline_observation": "Anchor A1 shows the cleanest contact bands with minimal surface irregularities along the magenta line. Anchor A2 exhibits a raised ridge on the left panel, while Anchor A3 has a visible gap on the right panel. Anchor A4 appears relatively stable but slightly more textured compared to A1.",
+  "final_robot_action": "CHOOSE_BEST_ANCHOR",
+  "per_anchor_analysis": [
+    {
+      "anchor_id": "A1",
+      "anchor_score": 95,
+      "anchor_usable": true,
+      "image_index": 1,
+      "left_panel_condition": "Clean, smooth surface with minor natural texture. No obstructions detected.",
+      "left_usable": true,
+      "right_panel_condition": "Clean, smooth surface with minor natural texture. No obstructions detected.",
+      "right_usable": true
+    },
+    {
+      "anchor_id": "A2",
+      "anchor_score": 30,
+      "anchor_usable": false,
+      "image_index": 2,
+      "left_panel_condition": "Raised ridge intersects the magenta line, creating a critical obstruction.",
+      "left_usable": false,
+      "right_panel_condition": "Clean, smooth surface with minor natural texture. No obstructions detected.",
+      "right_usable": true
+    },
+    {
+      "anchor_id": "A3",
+      "anchor_score": 25,
+      "anchor_usable": false,
+      "image_index": 3,
+      "left_panel_condition": "Clean, smooth surface with minor natural texture. No obstructions detected.",
+      "left_usable": true,
+      "right_panel_condition": "Open material gap intersects the magenta line, creating a critical obstruction.",
+      "right_usable": false
+    },
+    {
+      "anchor_id": "A4",
+      "anchor_score": 85,
+      "anchor_usable": true,
+      "image_index": 4,
+      "left_panel_condition": "Slightly textured surface but no obstructions detected.",
+      "left_usable": true,
+      "right_panel_condition": "Slightly textured surface but no obstructions detected.",
+      "right_usable": true
+    }
+  ],
+  "ranked_usable_anchors": [
+    "A1",
+    "A4"
+  ],
+  "selected_anchor_id": "A1"
+}

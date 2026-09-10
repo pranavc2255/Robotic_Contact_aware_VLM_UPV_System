@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this research software, please cite it using the metadata below."
+type: software
+title: "A Vision-Language Artificial Intelligence System for Contact-Aware Robotic Ultrasonic Inspection of Reclaimed Construction Materials"
+authors:
+  - family-names: Chougule
+    given-names: Pranav
+    orcid: "https://orcid.org/0009-0008-1596-0027"
+  - family-names: Ebrahimkhanlou
+    given-names: Arvin
+    orcid: "https://orcid.org/0000-0002-0740-5807"
+repository-code: "https://github.com/pranavc2255/Robotic_Contact_aware_VLM_UPV_System"

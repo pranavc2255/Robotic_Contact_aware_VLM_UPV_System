@@ -1,0 +1,63 @@
+{
+  "comparative_baseline_observation": "Anchor A1 shows the cleanest contact bands with minimal surface irregularities along the magenta line. Anchor A2 exhibits significant structural discontinuities, particularly on the right side, making it the most obstructed among the candidates. Anchors A3, A4, and A5 display varying degrees of surface roughness but remain relatively free of critical obstructions compared to A2.",
+  "final_robot_action": "CHOOSE_BEST_ANCHOR",
+  "per_anchor_analysis": [
+    {
+      "anchor_id": "A1",
+      "anchor_score": 90,
+      "anchor_usable": true,
+      "image_index": 1,
+      "left_panel_condition": "Clean, uniform surface with minor natural roughness. No obstructions detected.",
+      "left_usable": true,
+      "right_panel_condition": "Slightly textured but smooth. No obstructions detected.",
+      "right_usable": true
+    },
+    {
+      "anchor_id": "A2",
+      "anchor_score": 30,
+      "anchor_usable": false,
+      "image_index": 2,
+      "left_panel_condition": "Surface appears rough but intact. No obstructions detected.",
+      "left_usable": true,
+      "right_panel_condition": "Critical obstruction present; visible gap and uneven surface intersecting the magenta line.",
+      "right_usable": false
+    },
+    {
+      "anchor_id": "A3",
+      "anchor_score": 85,
+      "anchor_usable": true,
+      "image_index": 3,
+      "left_panel_condition": "Uniformly rough surface. No obstructions detected.",
+      "left_usable": true,
+      "right_panel_condition": "Slight roughness but no obstructions detected.",
+      "right_usable": true
+    },
+    {
+      "anchor_id": "A4",
+      "anchor_score": 88,
+      "anchor_usable": true,
+      "image_index": 4,
+      "left_panel_condition": "Slight surface irregularities but no obstructions detected.",
+      "left_usable": true,
+      "right_panel_condition": "Smooth surface with minor roughness. No obstructions detected.",
+      "right_usable": true
+    },
+    {
+      "anchor_id": "A5",
+      "anchor_score": 82,
+      "anchor_usable": true,
+      "image_index": 5,
+      "left_panel_condition": "Moderate roughness but no obstructions detected.",
+      "left_usable": true,
+      "right_panel_condition": "Slight roughness but no obstructions detected.",
+      "right_usable": true
+    }
+  ],
+  "ranked_usable_anchors": [
+    "A4",
+    "A1",
+    "A3",
+    "A5"
+  ],
+  "selected_anchor_id": "A4"
+}

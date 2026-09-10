@@ -1,0 +1,17 @@
+benchmark_group_id,dataset_split,material,candidate_count,good_candidate_count,selected_anchor_id,selected_pair_safety_score,selected_manual_is_usable,manual_good_anchor_ids,processing_time_ms
+E3_case_001_brick_01_clean_regular,E3,brick,5,3,A3,100.0,True,"A1,A2,A3,A4,A5",4783.901663031429
+E3_case_003_brick_03_chipped_jagged,E3,brick,5,5,A3,100.0,False,"A1,A5",4767.127510043792
+E3_case_004_brick_04_debris_obstruction,E3,brick,5,2,A1,100.0,True,"A1,A4,A5",4762.879058020189
+E3_case_005_brick_05_debris_obstruction,E3,brick,5,4,A2,100.0,True,"A1,A2,A3",4778.095768997446
+E3_case_006_timber_01_clean_regular,E3,timber,5,4,A2,100.0,True,"A1,A2,A3,A4,A5",4752.8207818977535
+E3_case_007_timber_02_chipped_jagged,E3,timber,5,4,A3,100.0,True,"A1,A2,A3,A5",4873.16832493525
+E3_case_008_timber_03_chipped_jagged,E3,timber,5,4,A3,100.0,True,"A1,A2,A3,A5",4867.41487600375
+E3_case_009_timber_04_debris_obstruction,E3,timber,5,2,A3,100.0,True,"A2,A3,A4,A5",4663.896429934539
+E3_case_010_timber_05_debris_obstruction,E3,timber,5,0,NO_SAFE_ANCHOR,,False,"A2,A3,A4",4705.9407129418105
+new10_case_001,new10,brick,4,1,A1,100.0,True,"A1,A4",448.3615029603243
+new10_case_002,new10,brick,4,1,A1,100.0,True,"A1,A4",307.7096468769014
+new10_case_003,new10,brick,4,3,A2,100.0,False,"A3,A4",280.3705290425569
+new10_case_005,new10,timber,5,4,A3,100.0,True,"A1,A2,A3,A5",321.4686040300876
+new10_case_006,new10,timber,3,1,A2,100.0,True,"A2,A3",230.06550502032042
+new10_case_009,new10,timber,4,2,A3,100.0,True,"A1,A2,A3",255.71198901161551
+new10_case_010,new10,brick,4,2,A1,100.0,True,"A1,A3,A4",311.4890190772712

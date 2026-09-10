@@ -1,0 +1,6 @@
+{
+  "device": "cuda",
+  "model_loaded": true,
+  "model_path": "local_models/Qwen2.5-VL-32B-Instruct",
+  "ok": true
+}

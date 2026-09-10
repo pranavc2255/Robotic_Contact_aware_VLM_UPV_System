@@ -1,0 +1,154 @@
+# Main-pipeline dry/plan-check config using Qwen32 multi-anchor L6 batch ranking.
+# This selects the main anchor-selection backend that sends all L6 contact
+# crops for a case to /infer_multi in one comparative request.
+camera:
+  source: ros2_realsense
+  color_topic: /camera/camera/color/image_raw
+  depth_topic: /camera/camera/aligned_depth_to_color/image_raw
+  camera_info_topic: /camera/camera/color/camera_info
+  allow_live_capture: true
+  live_timeout_sec: 5.0
+  depth_scale_m_per_unit: 0.001
+  save_depth_visualization: true
+
+input:
+  allow_saved_image: true
+  allow_saved_depth: true
+  camera_info_file: null
+
+perception:
+  detector_model_id: IDEA-Research/grounding-dino-tiny
+  sam2_checkpoint: third_party/Grounded-SAM-2/checkpoints/sam2.1_hiera_small.pt
+  sam2_config: configs/sam2.1/sam2.1_hiera_s.yaml
+  clip_model_id: openai/clip-vit-base-patch32
+  clip_subprocess_python: auto
+  gsam2_repo_dir: third_party/Grounded-SAM-2
+  gsam2_python: auto
+  primary_requested_class_only: true
+  allow_oracle_known_classes: false
+  qwen_required: false
+
+target_selection:
+  candidate_pool_enabled: true
+  use_clip_crop_verifier: true
+  save_candidate_crops: true
+  save_selected_mask_overlay: true
+  detection_query_mode: simple_requested_material_only
+  class_score_aggregation: max
+  clip_score_threshold: 0.0
+  crop_pad_px: 8
+  inner_crop_erode_px: 3
+
+geometry:
+  save_global_dimension_overlay: true
+  body_geometry_mode: raw_mask_existing
+  dominant_rectangle_enabled: false
+  dominant_rectangle_edge_method: robust_median
+  dominant_rectangle_min_column_coverage_px: 6
+  dominant_rectangle_trim_fraction: 0.10
+  dominant_rectangle_mad_multiplier: 2.5
+
+anchor_selection:
+  enabled: true
+  backend: qwen32_multi_anchor_l6_batch_ranking
+  qwen32_single_anchor_contact_scoring_enabled: false
+  qwen_required: true
+  qwen_mode: multi_image
+  qwen_server_url: http://127.0.0.1:8899
+  qwen_server_endpoint: /infer_multi
+  qwen_prompt_variant: multi_image_v1_original
+  anchor_layout_variant: L6_magenta_line_only_fixed
+  qwen_input_dir_name: clean_single_anchor_inputs
+  preserve_original_anchor_inputs: true
+  original_anchor_input_dir_name: original_clean_single_anchor_inputs
+  qwen_timeout_sec: 240
+  max_new_tokens: 1600
+  qwen_multi_anchor_max_new_tokens: 1600
+  qwen_temperature: 0.0
+  temperature: 0.0
+
+  run_both_axis_modes: false
+  axis_modes: [major, minor]
+  default_axis_mode: major
+  candidate_count_mode: transducer_diameter_floor
+  num_anchor_samples: 5
+  transducer_diameter_mm: 50.0
+  min_anchor_samples: 0
+  max_anchor_samples: 20
+  pixels_per_anchor: 35.0
+  usable_axis_margin_ratio: 0.18
+  cross_section_step_px: 1.0
+  contact_patch_radius_px: 18
+
+  single_anchor_edge_crop_depth_px: 170
+  single_anchor_outer_context_fraction: 0.56
+  single_anchor_min_outer_context_fraction: 0.52
+
+  save_edge_crops: true
+  save_candidate_overlays: true
+
+path_length:
+  use_depth_refinement: true
+  max_depth_mask_disagreement_ratio: 0.5
+  min_top_face_points: 1000
+  no_aggressive_downsampling: true
+  save_local_chord_overlay: true
+  local_depth_band_px: 6.0
+
+planning:
+  simulation_enabled: true
+  allow_missing_robot_calibration_in_simulation: false
+  workspace_limits_file: configs/v2/calibration/robot_workspace_limits.yaml
+  hover_offset_m: 0.15
+  approach_offset_m: 0.03
+  final_contact_offset_m: 0.0
+
+execution:
+  backend: none
+  allow_real_hardware: false
+  return_home_after_execution: true
+  clamp_hold_sec: 5.0
+
+robot:
+  enabled: false
+  robot_ip: 192.168.0.201
+  speed_m_s: 0.008
+  accel_m_s2: 0.015
+  home_before_capture_enabled: true
+  home_pose: [-0.04451708887209529, -0.30996360185460287, 0.44493861019776015, 1.6641551719613543e-05, -3.1411789271540913, -8.944466236178852e-05]
+  home_pose_tolerance_position_m: 0.015
+  home_pose_tolerance_orientation_rad: 0.10
+  return_home_on_failure: true
+
+tool:
+  camera_to_tcp_transform_file: configs/v2/calibration/camera_to_tcp.yaml
+  upv_tool_geometry_file: configs/v2/calibration/upv_tool_geometry.yaml
+
+clamp:
+  enabled: true
+  required: true
+  allow_missing_arduino: true
+  serial_port: /dev/ttyACM0
+  baud: 9600
+  timeout_s: 5.0
+  configure_before_clamp: true
+  open_before_clamp: true
+  clamp_command_mode: clamp_travel
+  steps_per_mm: 100.0
+  step_delay_us: 600
+  emergency_release_jog_ms: 3000
+  fully_open_probe_spacing_mm: 257.0
+  fully_closed_probe_spacing_mm: 40.0
+  safety_margin_mm: 5.0
+  contact_allowance_mm: 0.0
+
+safety:
+  dry_run_default: false
+  require_execute_confirm: true
+  execute_confirm_text: RUN_V2_EXECUTE
+  max_motion_step_m: 0.05
+
+logging:
+  output_root: outputs/v2_pipeline_runs
+  save_all_intermediates: true
+  save_calibration_snapshot: true

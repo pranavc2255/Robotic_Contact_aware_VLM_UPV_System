@@ -1,0 +1,48 @@
+{
+  "comparative_baseline_observation": "Across all anchors, Anchor A1 shows the cleanest contact bands with minimal surface irregularities along the magenta line. Anchor A2 exhibits slight surface roughness but remains largely unobstructed. Anchors A3 and A4 display consistent surface textures similar to A1, indicating good compliance with the contact requirements.",
+  "per_anchor_analysis": [
+    {
+      "image_index": 1,
+      "anchor_id": "A1",
+      "left_panel_condition": "Clean, smooth surface with minor natural texture variations. No critical obstructions detected.",
+      "right_panel_condition": "Uniformly textured surface showing slight roughness but no structural discontinuities.",
+      "left_usable": true,
+      "right_usable": true,
+      "anchor_score": 90,
+      "anchor_usable": true
+    },
+    {
+      "image_index": 2,
+      "anchor_id": "A2",
+      "left_panel_condition": "Surface shows some roughness but no significant obstructions. Minor imperfections present.",
+      "right_panel_condition": "Slight surface roughness observed, but no critical violations detected.",
+      "left_usable": true,
+      "right_usable": true,
+      "anchor_score": 85,
+      "anchor_usable": true
+    },
+    {
+      "image_index": 3,
+      "anchor_id": "A3",
+      "left_panel_condition": "Smooth surface with minor natural grain patterns. No obstructions noted.",
+      "right_panel_condition": "Consistent with left side; uniform surface texture without obstructions.",
+      "left_usable": true,
+      "right_usable": true,
+      "anchor_score": 92,
+      "anchor_usable": true
+    },
+    {
+      "image_index": 4,
+      "anchor_id": "A4",
+      "left_panel_condition": "Surface appears slightly rougher than others but free of critical obstructions.",
+      "right_panel_condition": "Similar to left side; roughness observed but no structural interruptions.",
+      "left_usable": true,
+      "right_usable": true,
+      "anchor_score": 88,
+      "anchor_usable": true
+    }
+  ],
+  "ranked_usable_anchors": ["A3", "A4", "A1", "A2"],
+  "final_robot_action": "CHOOSE_BEST_ANCHOR",
+  "selected_anchor_id": "A3"
+}

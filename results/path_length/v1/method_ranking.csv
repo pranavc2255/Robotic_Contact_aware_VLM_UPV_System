@@ -1,0 +1,4 @@
+path_label,best_method_by_MAE,best_method_by_RMSE,best_method_by_MAPE,mask_vs_manual_MAE_mm,whole_roi_vs_manual_MAE_mm,strip_vs_manual_MAE_mm
+major,strip_depth,strip_depth,strip_depth,3.0248102116854465,1.215556357109938,0.9694841942783355
+minor,strip_depth,strip_depth,strip_depth,3.470326942182578,2.0278380849324815,1.6327856514228425
+all,strip_depth,strip_depth,strip_depth,3.2475685769340124,1.6216972210212097,1.301134922850589

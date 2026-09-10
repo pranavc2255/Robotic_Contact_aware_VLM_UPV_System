@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "upv-vlm-contact"
+version = "0.1.0"
+description = "Saved-data reproduction for robotic UPV perception and contact selection"
+license = {file = "LICENSE"}
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+vision = ["numpy", "opencv-python", "Pillow", "matplotlib", "scipy", "pandas", "PyYAML"]
+vlm = ["torch", "transformers", "accelerate", "qwen-vl-utils", "bitsandbytes"]
+perception = ["torch", "torchvision", "transformers", "accelerate", "pycocotools", "supervision", "hydra-core", "iopath", "huggingface-hub"]
+
+[project.scripts]
+upv-reproduce = "upv_vlm_contact.cli:main"
+upv-pipeline = "upv_vlm_contact.pipeline:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["upv_vlm_contact*"]

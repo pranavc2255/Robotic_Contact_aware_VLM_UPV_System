@@ -1,0 +1,65 @@
+model,split,case,complete,selected,selected_good,action,top_tie_count
+Qwen2.5-32B,E3,case_001_brick_01_clean_regular,True,A3,True,SELECT,1
+Qwen2.5-32B,E3,case_003_brick_03_chipped_jagged,True,A1,True,SELECT,1
+Qwen2.5-32B,E3,case_004_brick_04_debris_obstruction,True,A1,True,SELECT,1
+Qwen2.5-32B,E3,case_005_brick_05_debris_obstruction,True,A1,True,SELECT,1
+Qwen2.5-32B,E3,case_006_timber_01_clean_regular,True,A1,True,SELECT,1
+Qwen2.5-32B,E3,case_007_timber_02_chipped_jagged,True,A1,True,SELECT,1
+Qwen2.5-32B,E3,case_008_timber_03_chipped_jagged,True,A2,True,SELECT,1
+Qwen2.5-32B,E3,case_009_timber_04_debris_obstruction,True,A2,True,SELECT,1
+Qwen2.5-32B,E3,case_010_timber_05_debris_obstruction,True,A2,True,SELECT,1
+Qwen2.5-32B,new10,case_001,True,A1,True,SELECT,1
+Qwen2.5-32B,new10,case_002,True,A1,True,SELECT,1
+Qwen2.5-32B,new10,case_003,True,A2,False,SELECT,1
+Qwen2.5-32B,new10,case_005,True,A1,True,SELECT,1
+Qwen2.5-32B,new10,case_006,True,A2,True,SELECT,1
+Qwen2.5-32B,new10,case_009,True,A1,True,SELECT,1
+Qwen2.5-32B,new10,case_010,True,A3,True,SELECT,1
+Qwen3-2B,E3,case_001_brick_01_clean_regular,True,A1,True,SELECT,5
+Qwen3-2B,E3,case_003_brick_03_chipped_jagged,True,A1,True,SELECT,2
+Qwen3-2B,E3,case_004_brick_04_debris_obstruction,True,A1,True,SELECT,3
+Qwen3-2B,E3,case_005_brick_05_debris_obstruction,True,A1,True,SELECT,4
+Qwen3-2B,E3,case_006_timber_01_clean_regular,True,A1,True,SELECT,3
+Qwen3-2B,E3,case_007_timber_02_chipped_jagged,True,A1,True,SELECT,3
+Qwen3-2B,E3,case_008_timber_03_chipped_jagged,True,A1,True,SELECT,4
+Qwen3-2B,E3,case_009_timber_04_debris_obstruction,True,A1,False,SELECT,5
+Qwen3-2B,E3,case_010_timber_05_debris_obstruction,True,A1,False,SELECT,4
+Qwen3-2B,new10,case_001,True,A1,True,SELECT,4
+Qwen3-2B,new10,case_002,True,A1,True,SELECT,2
+Qwen3-2B,new10,case_003,True,,,NO_SAFE_ANCHOR,0
+Qwen3-2B,new10,case_005,True,A1,True,SELECT,3
+Qwen3-2B,new10,case_006,True,A2,True,SELECT,1
+Qwen3-2B,new10,case_009,True,A1,True,SELECT,3
+Qwen3-2B,new10,case_010,True,A1,True,SELECT,3
+Qwen2.5-3B,E3,case_001_brick_01_clean_regular,True,A1,True,SELECT,4
+Qwen2.5-3B,E3,case_003_brick_03_chipped_jagged,True,A1,True,SELECT,3
+Qwen2.5-3B,E3,case_004_brick_04_debris_obstruction,True,A4,True,SELECT,1
+Qwen2.5-3B,E3,case_005_brick_05_debris_obstruction,True,A1,True,SELECT,1
+Qwen2.5-3B,E3,case_006_timber_01_clean_regular,True,A1,True,SELECT,1
+Qwen2.5-3B,E3,case_007_timber_02_chipped_jagged,True,A1,True,SELECT,4
+Qwen2.5-3B,E3,case_008_timber_03_chipped_jagged,True,A1,True,SELECT,4
+Qwen2.5-3B,E3,case_009_timber_04_debris_obstruction,True,A1,False,SELECT,1
+Qwen2.5-3B,E3,case_010_timber_05_debris_obstruction,True,A5,False,SELECT,1
+Qwen2.5-3B,new10,case_001,True,A1,True,SELECT,1
+Qwen2.5-3B,new10,case_002,True,A1,True,SELECT,2
+Qwen2.5-3B,new10,case_003,True,A1,False,SELECT,4
+Qwen2.5-3B,new10,case_005,True,A1,True,SELECT,3
+Qwen2.5-3B,new10,case_006,True,A3,True,SELECT,1
+Qwen2.5-3B,new10,case_009,True,A1,True,SELECT,1
+Qwen2.5-3B,new10,case_010,True,A1,True,SELECT,1
+Classical RGB+mask,E3,case_001_brick_01_clean_regular,True,A1,True,SELECT,3
+Classical RGB+mask,E3,case_003_brick_03_chipped_jagged,True,A1,True,SELECT,2
+Classical RGB+mask,E3,case_004_brick_04_debris_obstruction,True,A1,True,SELECT,4
+Classical RGB+mask,E3,case_005_brick_05_debris_obstruction,True,A1,True,SELECT,3
+Classical RGB+mask,E3,case_006_timber_01_clean_regular,True,A1,True,SELECT,5
+Classical RGB+mask,E3,case_007_timber_02_chipped_jagged,True,A1,True,SELECT,4
+Classical RGB+mask,E3,case_008_timber_03_chipped_jagged,True,A1,True,SELECT,4
+Classical RGB+mask,E3,case_009_timber_04_debris_obstruction,True,A2,True,SELECT,2
+Classical RGB+mask,E3,case_010_timber_05_debris_obstruction,True,A1,False,SELECT,4
+Classical RGB+mask,new10,case_001,True,A1,True,SELECT,1
+Classical RGB+mask,new10,case_002,True,A1,True,SELECT,3
+Classical RGB+mask,new10,case_003,True,A1,False,SELECT,3
+Classical RGB+mask,new10,case_005,True,A1,True,SELECT,4
+Classical RGB+mask,new10,case_006,True,A1,False,SELECT,3
+Classical RGB+mask,new10,case_009,True,A1,True,SELECT,4
+Classical RGB+mask,new10,case_010,True,A1,True,SELECT,4

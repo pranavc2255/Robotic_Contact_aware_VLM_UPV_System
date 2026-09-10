@@ -1,0 +1,41 @@
+{
+  "comparative_baseline_observation": "Anchor A2 exhibits the cleanest contact bands along the magenta line on both sides, showing minimal surface irregularities. Anchor A1 shows significant obstruction on the right side due to white material buildup, while Anchor A3 has minor surface roughness but no critical obstructions.",
+  "final_robot_action": "CHOOSE_BEST_ANCHOR",
+  "per_anchor_analysis": [
+    {
+      "anchor_id": "A1",
+      "anchor_score": 30,
+      "anchor_usable": false,
+      "image_index": 1,
+      "left_panel_condition": "Surface shows slight roughness but no critical obstructions along the magenta line.",
+      "left_usable": true,
+      "right_panel_condition": "White material buildup intersects the magenta line, creating a critical obstruction.",
+      "right_usable": false
+    },
+    {
+      "anchor_id": "A2",
+      "anchor_score": 90,
+      "anchor_usable": true,
+      "image_index": 2,
+      "left_panel_condition": "Clean and smooth surface with no obstructions along the magenta line.",
+      "left_usable": true,
+      "right_panel_condition": "Slight wood grain texture but no obstructions along the magenta line.",
+      "right_usable": true
+    },
+    {
+      "anchor_id": "A3",
+      "anchor_score": 75,
+      "anchor_usable": true,
+      "image_index": 3,
+      "left_panel_condition": "Surface has minor roughness but no critical obstructions along the magenta line.",
+      "left_usable": true,
+      "right_panel_condition": "Surface shows minor roughness but no critical obstructions along the magenta line.",
+      "right_usable": true
+    }
+  ],
+  "ranked_usable_anchors": [
+    "A2",
+    "A3"
+  ],
+  "selected_anchor_id": "A2"
+}

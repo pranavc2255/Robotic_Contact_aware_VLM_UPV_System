@@ -1,0 +1,29 @@
+{
+  "inference": false,
+  "hardware": false,
+  "git_candidate_bytes": 5472713,
+  "git_candidate_files": 738,
+  "archives": {
+    "contact": {
+      "sha256": "passed",
+      "logical_files": 6396,
+      "max_internal_path_chars": 77
+    },
+    "perception": {
+      "sha256": "passed",
+      "logical_files": 2513,
+      "max_internal_path_chars": 77
+    },
+    "path_length": {
+      "sha256": "passed",
+      "logical_files": 1638,
+      "max_internal_path_chars": 77
+    },
+    "runtime": {
+      "sha256": "passed",
+      "logical_files": 786,
+      "max_internal_path_chars": 77
+    }
+  },
+  "detached_copy_reproduction": "passed"
+}

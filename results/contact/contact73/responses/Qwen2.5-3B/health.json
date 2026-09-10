@@ -1,0 +1,6 @@
+{
+  "ok": true,
+  "model_loaded": true,
+  "model_path": "workspace/local_models/Qwen2.5-VL-3B-Instruct",
+  "device": "cuda"
+}

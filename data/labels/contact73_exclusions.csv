@@ -1,0 +1,5 @@
+study_split,case_id,source,removed_from_final_16,note
+E3,case_002_brick_02_chipped_jagged,original_e3,True,removed due to dataset-quality issue flagged by operator
+new10,case_004,new10,True,removed due to dataset-quality issue flagged by operator
+new10,case_007,new10,True,removed due to dataset-quality issue flagged by operator
+new10,case_008,new10,True,removed due to dataset-quality issue flagged by operator

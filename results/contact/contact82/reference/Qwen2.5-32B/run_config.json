@@ -1,0 +1,7 @@
+{
+  "artifact_style": "main_pipeline_like",
+  "max_new_tokens": 1600,
+  "mode": "full",
+  "server_url": "http://127.0.0.1:8899",
+  "with_visual_artifacts": true
+}

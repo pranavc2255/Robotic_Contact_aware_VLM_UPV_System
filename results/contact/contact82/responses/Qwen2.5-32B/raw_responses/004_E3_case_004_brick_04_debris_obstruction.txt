@@ -1,0 +1,58 @@
+{
+  "comparative_baseline_observation": "Anchor A1 and A4 show the cleanest contact bands with minimal surface irregularities along the magenta line. Anchor A3 exhibits significant structural discontinuities on both sides, while A2 and A5 have minor imperfections but are still more compromised than A1 and A4.",
+  "per_anchor_analysis": [
+    {
+      "image_index": 1,
+      "anchor_id": "A1",
+      "left_panel_condition": "Clean, smooth surface with slight uniform roughness. No critical obstructions detected.",
+      "right_panel_condition": "Slightly textured but consistent surface. No violations observed.",
+      "left_usable": true,
+      "right_usable": true,
+      "anchor_score": 90,
+      "anchor_usable": true
+    },
+    {
+      "image_index": 2,
+      "anchor_id": "A2",
+      "left_panel_condition": "Raised ridge intersects the magenta line, creating a critical obstruction.",
+      "right_panel_condition": "Clean surface with no visible obstructions.",
+      "left_usable": false,
+      "right_usable": true,
+      "anchor_score": 30,
+      "anchor_usable": false
+    },
+    {
+      "image_index": 3,
+      "anchor_id": "A3",
+      "left_panel_condition": "Jagged edge and missing material directly intersect the magenta line.",
+      "right_panel_condition": "Clean surface with no obstructions.",
+      "left_usable": false,
+      "right_usable": true,
+      "anchor_score": 20,
+      "anchor_usable": false
+    },
+    {
+      "image_index": 4,
+      "anchor_id": "A4",
+      "left_panel_condition": "Uniformly rough surface with no obstructions.",
+      "right_panel_condition": "Slight surface variation but no critical interruptions.",
+      "left_usable": true,
+      "right_usable": true,
+      "anchor_score": 85,
+      "anchor_usable": true
+    },
+    {
+      "image_index": 5,
+      "anchor_id": "A5",
+      "left_panel_condition": "Minor surface gap near the magenta line.",
+      "right_panel_condition": "Clean surface with no obstructions.",
+      "left_usable": false,
+      "right_usable": true,
+      "anchor_score": 35,
+      "anchor_usable": false
+    }
+  ],
+  "ranked_usable_anchors": ["A1", "A4"],
+  "final_robot_action": "CHOOSE_BEST_ANCHOR",
+  "selected_anchor_id": "A1"
+}

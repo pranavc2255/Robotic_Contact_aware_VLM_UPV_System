@@ -1,0 +1,18 @@
+{
+  "F1": 0.8076923076923076,
+  "FN": 2,
+  "FP": 8,
+  "TN": 11,
+  "TP": 21,
+  "accuracy": 0.7619047619047619,
+  "balanced_accuracy": 0.7459954233409611,
+  "groups_cases": 10,
+  "manually_unusable": 19,
+  "manually_usable": 23,
+  "precision": 0.7241379310344828,
+  "recall": 0.9130434782608695,
+  "specificity": 0.5789473684210527,
+  "top_ranked_usable_rate": 0.6,
+  "top_ranked_usable_selections": 6,
+  "valid_anchors": 42
+}

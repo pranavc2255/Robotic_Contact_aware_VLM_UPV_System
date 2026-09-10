@@ -1,0 +1,48 @@
+calibration_name: t4_robot_workspace_and_motion_limits
+version: 1
+description: 'Conservative UR3e workspace and motion limits migrated from the T4 full
+  robot/clamp test configuration. These are planning/safety limits only.
+
+  '
+workspace_limits_base_m:
+  x_min: -0.5
+  x_max: 0.5
+  y_min: -0.7
+  y_max: 0.1
+  z_min: 0.12
+  z_max: 0.7
+safety:
+  max_single_move_distance_m: 10.0
+  max_xy_step_m: 10.0
+  max_final_z_drop_m: 10.0
+  min_final_tcp_z_m: 0.17
+  min_hover_z_m: 0.12
+  abort_if_workspace_invalid: true
+motion_limits:
+  speed_midhover_m_s: 0.04
+  accel_midhover_m_s2: 0.08
+  speed_xy_m_s: 0.03
+  accel_xy_m_s2: 0.06
+  speed_rotate_m_s: 0.05
+  accel_rotate_m_s2: 0.1
+  speed_preview_z_m_s: 0.008
+  accel_preview_z_m_s2: 0.015
+  speed_final_z_m_s: 0.004
+  accel_final_z_m_s2: 0.01
+  speed_home_m_s: 0.08
+  accel_home_m_s2: 0.15
+home_observation_pose:
+  source: configs/T4_full_robot_clamp_test.json
+  pose_base:
+  - -0.04451708887209529
+  - -0.30996360185460287
+  - 0.44
+  - 1.6641551719613543e-05
+  - -3.1411789271540913
+  - -8.944466236178852e-05
+provenance:
+  primary_source_files:
+  - configs/T4_full_robot_clamp_test.json
+  value_status: code_proven_from_T4_config
+  warnings:
+  - Workspace limits must be revalidated with the physical setup before real execution.

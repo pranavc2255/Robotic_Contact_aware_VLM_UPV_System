@@ -1,0 +1,50 @@
+{
+  "comparative_baseline_observation": "Across the batch, Anchor A1 shows the cleanest contact bands with minimal surface irregularities along the magenta line. Anchors A2, A3, and A4 exhibit varying degrees of structural discontinuities, particularly raised ridges and potential mortar crusts, which compromise the direct transmission path at the magenta line.",
+  "final_robot_action": "CHOOSE_BEST_ANCHOR",
+  "per_anchor_analysis": [
+    {
+      "anchor_id": "A1",
+      "anchor_score": 90,
+      "anchor_usable": true,
+      "image_index": 1,
+      "left_panel_condition": "Clean, smooth surface with minor natural grain texture. No critical obstructions detected at the magenta line.",
+      "left_usable": true,
+      "right_panel_condition": "Slightly rougher texture but still uniform. No critical obstructions detected at the magenta line.",
+      "right_usable": true
+    },
+    {
+      "anchor_id": "A2",
+      "anchor_score": 30,
+      "anchor_usable": false,
+      "image_index": 2,
+      "left_panel_condition": "Raised ridge intersects the magenta line, creating a critical obstruction.",
+      "left_usable": false,
+      "right_panel_condition": "Clean, smooth surface with no critical obstructions detected at the magenta line.",
+      "right_usable": true
+    },
+    {
+      "anchor_id": "A3",
+      "anchor_score": 30,
+      "anchor_usable": false,
+      "image_index": 3,
+      "left_panel_condition": "Clean, smooth surface with no critical obstructions detected at the magenta line.",
+      "left_usable": true,
+      "right_panel_condition": "Raised ridge intersects the magenta line, creating a critical obstruction.",
+      "right_usable": false
+    },
+    {
+      "anchor_id": "A4",
+      "anchor_score": 20,
+      "anchor_usable": false,
+      "image_index": 4,
+      "left_panel_condition": "Raised ridge intersects the magenta line, creating a critical obstruction.",
+      "left_usable": false,
+      "right_panel_condition": "Raised ridge intersects the magenta line, creating a critical obstruction.",
+      "right_usable": false
+    }
+  ],
+  "ranked_usable_anchors": [
+    "A1"
+  ],
+  "selected_anchor_id": "A1"
+}

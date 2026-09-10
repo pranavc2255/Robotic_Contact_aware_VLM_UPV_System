@@ -1,0 +1,62 @@
+{
+  "comparative_baseline_observation": "The batch of anchors shows a range of surface conditions, with A1 and A2 exhibiting the most uniform and compliant surfaces. A3 and A4 show minor irregularities, while A5 has a significant obstruction in the right panel. The magenta lines are all continuous, but the right side of A4 and A5 shows clear obstructions.",
+  "final_robot_action": "CHOOSE_BEST_ANCHOR",
+  "per_anchor_analysis": [
+    {
+      "anchor_id": "A1",
+      "anchor_score": 0,
+      "anchor_usable": true,
+      "image_index": 1,
+      "left_panel_condition": "Smooth, uniform surface with a continuous magenta line.",
+      "left_usable": true,
+      "right_panel_condition": "Smooth, uniform surface with a continuous magenta line.",
+      "right_usable": true
+    },
+    {
+      "anchor_id": "A2",
+      "anchor_score": 0,
+      "anchor_usable": true,
+      "image_index": 2,
+      "left_panel_condition": "Smooth, uniform surface with a continuous magenta line.",
+      "left_usable": true,
+      "right_panel_condition": "Smooth, uniform surface with a continuous magenta line.",
+      "right_usable": true
+    },
+    {
+      "anchor_id": "A3",
+      "anchor_score": 0,
+      "anchor_usable": true,
+      "image_index": 3,
+      "left_panel_condition": "Smooth, uniform surface with a continuous magenta line.",
+      "left_usable": true,
+      "right_panel_condition": "Smooth, uniform surface with a continuous magenta line.",
+      "right_usable": true
+    },
+    {
+      "anchor_id": "A4",
+      "anchor_score": 35,
+      "anchor_usable": false,
+      "image_index": 4,
+      "left_panel_condition": "Smooth, uniform surface with a continuous magenta line.",
+      "left_usable": true,
+      "right_panel_condition": "The magenta line is interrupted by a protruding chip on the right side.",
+      "right_usable": false
+    },
+    {
+      "anchor_id": "A5",
+      "anchor_score": 35,
+      "anchor_usable": false,
+      "image_index": 5,
+      "left_panel_condition": "Smooth, uniform surface with a continuous magenta line.",
+      "left_usable": true,
+      "right_panel_condition": "The magenta line is interrupted by a protruding chip on the right side.",
+      "right_usable": false
+    }
+  ],
+  "ranked_usable_anchors": [
+    "A1",
+    "A2",
+    "A3"
+  ],
+  "selected_anchor_id": "A1"
+}

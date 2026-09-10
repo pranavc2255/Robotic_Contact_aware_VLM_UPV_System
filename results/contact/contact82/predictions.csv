@@ -1,0 +1,411 @@
+model,split,case,anchor_id,manual_good,predicted_good,score
+Qwen2.5-32B,E3,case_001_brick_01_clean_regular,A1,True,True,85.0
+Qwen2.5-32B,E3,case_001_brick_01_clean_regular,A2,True,True,90.0
+Qwen2.5-32B,E3,case_001_brick_01_clean_regular,A3,True,True,95.0
+Qwen2.5-32B,E3,case_001_brick_01_clean_regular,A4,True,True,88.0
+Qwen2.5-32B,E3,case_001_brick_01_clean_regular,A5,True,False,30.0
+Qwen2.5-32B,E3,case_002_brick_02_chipped_jagged,A1,True,True,78.0
+Qwen2.5-32B,E3,case_002_brick_02_chipped_jagged,A2,True,True,82.0
+Qwen2.5-32B,E3,case_002_brick_02_chipped_jagged,A3,True,False,20.0
+Qwen2.5-32B,E3,case_002_brick_02_chipped_jagged,A4,False,True,90.0
+Qwen2.5-32B,E3,case_002_brick_02_chipped_jagged,A5,False,True,85.0
+Qwen2.5-32B,E3,case_003_brick_03_chipped_jagged,A1,True,True,90.0
+Qwen2.5-32B,E3,case_003_brick_03_chipped_jagged,A2,False,False,30.0
+Qwen2.5-32B,E3,case_003_brick_03_chipped_jagged,A3,False,True,75.0
+Qwen2.5-32B,E3,case_003_brick_03_chipped_jagged,A4,False,True,85.0
+Qwen2.5-32B,E3,case_003_brick_03_chipped_jagged,A5,True,True,80.0
+Qwen2.5-32B,E3,case_004_brick_04_debris_obstruction,A1,True,True,90.0
+Qwen2.5-32B,E3,case_004_brick_04_debris_obstruction,A2,False,False,30.0
+Qwen2.5-32B,E3,case_004_brick_04_debris_obstruction,A3,False,False,20.0
+Qwen2.5-32B,E3,case_004_brick_04_debris_obstruction,A4,True,True,85.0
+Qwen2.5-32B,E3,case_004_brick_04_debris_obstruction,A5,True,False,35.0
+Qwen2.5-32B,E3,case_005_brick_05_debris_obstruction,A1,True,True,90.0
+Qwen2.5-32B,E3,case_005_brick_05_debris_obstruction,A2,True,True,85.0
+Qwen2.5-32B,E3,case_005_brick_05_debris_obstruction,A3,True,False,30.0
+Qwen2.5-32B,E3,case_005_brick_05_debris_obstruction,A4,False,False,20.0
+Qwen2.5-32B,E3,case_005_brick_05_debris_obstruction,A5,False,True,88.0
+Qwen2.5-32B,E3,case_006_timber_01_clean_regular,A1,True,True,90.0
+Qwen2.5-32B,E3,case_006_timber_01_clean_regular,A2,True,False,30.0
+Qwen2.5-32B,E3,case_006_timber_01_clean_regular,A3,True,True,85.0
+Qwen2.5-32B,E3,case_006_timber_01_clean_regular,A4,True,True,88.0
+Qwen2.5-32B,E3,case_006_timber_01_clean_regular,A5,True,True,82.0
+Qwen2.5-32B,E3,case_007_timber_02_chipped_jagged,A1,True,True,90.0
+Qwen2.5-32B,E3,case_007_timber_02_chipped_jagged,A2,True,True,85.0
+Qwen2.5-32B,E3,case_007_timber_02_chipped_jagged,A3,True,True,88.0
+Qwen2.5-32B,E3,case_007_timber_02_chipped_jagged,A4,False,False,30.0
+Qwen2.5-32B,E3,case_007_timber_02_chipped_jagged,A5,True,True,87.0
+Qwen2.5-32B,E3,case_008_timber_03_chipped_jagged,A1,True,True,70.0
+Qwen2.5-32B,E3,case_008_timber_03_chipped_jagged,A2,True,True,85.0
+Qwen2.5-32B,E3,case_008_timber_03_chipped_jagged,A3,True,True,75.0
+Qwen2.5-32B,E3,case_008_timber_03_chipped_jagged,A4,False,False,30.0
+Qwen2.5-32B,E3,case_008_timber_03_chipped_jagged,A5,True,False,30.0
+Qwen2.5-32B,E3,case_009_timber_04_debris_obstruction,A1,False,False,30.0
+Qwen2.5-32B,E3,case_009_timber_04_debris_obstruction,A2,True,True,90.0
+Qwen2.5-32B,E3,case_009_timber_04_debris_obstruction,A3,True,False,35.0
+Qwen2.5-32B,E3,case_009_timber_04_debris_obstruction,A4,True,False,35.0
+Qwen2.5-32B,E3,case_009_timber_04_debris_obstruction,A5,True,True,85.0
+Qwen2.5-32B,E3,case_010_timber_05_debris_obstruction,A1,False,False,30.0
+Qwen2.5-32B,E3,case_010_timber_05_debris_obstruction,A2,True,True,90.0
+Qwen2.5-32B,E3,case_010_timber_05_debris_obstruction,A3,True,True,85.0
+Qwen2.5-32B,E3,case_010_timber_05_debris_obstruction,A4,True,True,88.0
+Qwen2.5-32B,E3,case_010_timber_05_debris_obstruction,A5,False,False,32.0
+Qwen2.5-32B,E45,session_20260528_035248,A1,True,True,90.0
+Qwen2.5-32B,E45,session_20260528_035248,A2,False,True,80.0
+Qwen2.5-32B,E45,session_20260528_035248,A3,False,False,30.0
+Qwen2.5-32B,E45,session_20260528_035248,A4,True,True,75.0
+Qwen2.5-32B,E45,session_20260528_035433,A1,True,True,95.0
+Qwen2.5-32B,E45,session_20260528_035433,A2,False,False,30.0
+Qwen2.5-32B,E45,session_20260528_035433,A3,False,False,25.0
+Qwen2.5-32B,E45,session_20260528_035433,A4,True,True,85.0
+Qwen2.5-32B,E45,session_20260528_035620,A1,True,True,90.0
+Qwen2.5-32B,E45,session_20260528_035620,A2,False,True,80.0
+Qwen2.5-32B,E45,session_20260528_035620,A3,False,False,30.0
+Qwen2.5-32B,E45,session_20260528_035620,A4,True,True,85.0
+Qwen2.5-32B,E45,session_20260528_035801,A1,True,True,78.0
+Qwen2.5-32B,E45,session_20260528_035801,A2,False,False,30.0
+Qwen2.5-32B,E45,session_20260528_035801,A3,False,False,25.0
+Qwen2.5-32B,E45,session_20260528_035801,A4,True,True,92.0
+Qwen2.5-32B,E45,session_20260528_035949,A1,True,True,90.0
+Qwen2.5-32B,E45,session_20260528_035949,A2,False,False,30.0
+Qwen2.5-32B,E45,session_20260528_035949,A3,False,False,25.0
+Qwen2.5-32B,E45,session_20260528_035949,A4,True,True,85.0
+Qwen2.5-32B,E45,session_20260528_041815,A1,True,True,85.0
+Qwen2.5-32B,E45,session_20260528_041815,A2,False,True,70.0
+Qwen2.5-32B,E45,session_20260528_041815,A3,False,False,20.0
+Qwen2.5-32B,E45,session_20260528_041815,A4,True,True,80.0
+Qwen2.5-32B,E45,session_20260528_042004,A1,True,True,85.0
+Qwen2.5-32B,E45,session_20260528_042004,A2,False,False,20.0
+Qwen2.5-32B,E45,session_20260528_042004,A3,False,False,10.0
+Qwen2.5-32B,E45,session_20260528_042004,A4,True,True,90.0
+Qwen2.5-32B,E45,session_20260528_042147,A1,True,True,85.0
+Qwen2.5-32B,E45,session_20260528_042147,A2,False,True,70.0
+Qwen2.5-32B,E45,session_20260528_042147,A3,False,False,30.0
+Qwen2.5-32B,E45,session_20260528_042147,A4,True,True,75.0
+Qwen3-2B,E3,case_001_brick_01_clean_regular,A1,True,True,0.0
+Qwen3-2B,E3,case_001_brick_01_clean_regular,A2,True,True,0.0
+Qwen3-2B,E3,case_001_brick_01_clean_regular,A3,True,True,0.0
+Qwen3-2B,E3,case_001_brick_01_clean_regular,A4,True,True,0.0
+Qwen3-2B,E3,case_001_brick_01_clean_regular,A5,True,True,0.0
+Qwen3-2B,E3,case_002_brick_02_chipped_jagged,A1,True,True,0.0
+Qwen3-2B,E3,case_002_brick_02_chipped_jagged,A2,True,True,0.0
+Qwen3-2B,E3,case_002_brick_02_chipped_jagged,A3,True,True,0.0
+Qwen3-2B,E3,case_002_brick_02_chipped_jagged,A4,False,True,0.0
+Qwen3-2B,E3,case_002_brick_02_chipped_jagged,A5,False,True,0.0
+Qwen3-2B,E3,case_003_brick_03_chipped_jagged,A1,True,True,0.0
+Qwen3-2B,E3,case_003_brick_03_chipped_jagged,A2,False,True,0.0
+Qwen3-2B,E3,case_003_brick_03_chipped_jagged,A3,False,False,35.0
+Qwen3-2B,E3,case_003_brick_03_chipped_jagged,A4,False,False,35.0
+Qwen3-2B,E3,case_003_brick_03_chipped_jagged,A5,True,False,35.0
+Qwen3-2B,E3,case_004_brick_04_debris_obstruction,A1,True,True,0.0
+Qwen3-2B,E3,case_004_brick_04_debris_obstruction,A2,False,False,35.0
+Qwen3-2B,E3,case_004_brick_04_debris_obstruction,A3,False,False,35.0
+Qwen3-2B,E3,case_004_brick_04_debris_obstruction,A4,True,True,0.0
+Qwen3-2B,E3,case_004_brick_04_debris_obstruction,A5,True,True,0.0
+Qwen3-2B,E3,case_005_brick_05_debris_obstruction,A1,True,True,0.0
+Qwen3-2B,E3,case_005_brick_05_debris_obstruction,A2,True,True,0.0
+Qwen3-2B,E3,case_005_brick_05_debris_obstruction,A3,True,False,35.0
+Qwen3-2B,E3,case_005_brick_05_debris_obstruction,A4,False,True,0.0
+Qwen3-2B,E3,case_005_brick_05_debris_obstruction,A5,False,True,0.0
+Qwen3-2B,E3,case_006_timber_01_clean_regular,A1,True,True,0.0
+Qwen3-2B,E3,case_006_timber_01_clean_regular,A2,True,True,0.0
+Qwen3-2B,E3,case_006_timber_01_clean_regular,A3,True,True,0.0
+Qwen3-2B,E3,case_006_timber_01_clean_regular,A4,True,False,35.0
+Qwen3-2B,E3,case_006_timber_01_clean_regular,A5,True,False,35.0
+Qwen3-2B,E3,case_007_timber_02_chipped_jagged,A1,True,True,0.0
+Qwen3-2B,E3,case_007_timber_02_chipped_jagged,A2,True,True,0.0
+Qwen3-2B,E3,case_007_timber_02_chipped_jagged,A3,True,True,0.0
+Qwen3-2B,E3,case_007_timber_02_chipped_jagged,A4,False,False,35.0
+Qwen3-2B,E3,case_007_timber_02_chipped_jagged,A5,True,False,35.0
+Qwen3-2B,E3,case_008_timber_03_chipped_jagged,A1,True,True,0.0
+Qwen3-2B,E3,case_008_timber_03_chipped_jagged,A2,True,True,0.0
+Qwen3-2B,E3,case_008_timber_03_chipped_jagged,A3,True,True,0.0
+Qwen3-2B,E3,case_008_timber_03_chipped_jagged,A4,False,True,0.0
+Qwen3-2B,E3,case_008_timber_03_chipped_jagged,A5,True,False,35.0
+Qwen3-2B,E3,case_009_timber_04_debris_obstruction,A1,False,True,0.0
+Qwen3-2B,E3,case_009_timber_04_debris_obstruction,A2,True,True,0.0
+Qwen3-2B,E3,case_009_timber_04_debris_obstruction,A3,True,True,0.0
+Qwen3-2B,E3,case_009_timber_04_debris_obstruction,A4,True,True,0.0
+Qwen3-2B,E3,case_009_timber_04_debris_obstruction,A5,True,True,0.0
+Qwen3-2B,E3,case_010_timber_05_debris_obstruction,A1,False,True,0.0
+Qwen3-2B,E3,case_010_timber_05_debris_obstruction,A2,True,True,0.0
+Qwen3-2B,E3,case_010_timber_05_debris_obstruction,A3,True,True,0.0
+Qwen3-2B,E3,case_010_timber_05_debris_obstruction,A4,True,True,0.0
+Qwen3-2B,E3,case_010_timber_05_debris_obstruction,A5,False,False,35.0
+Qwen3-2B,E45,session_20260528_035248,A1,True,True,0.0
+Qwen3-2B,E45,session_20260528_035248,A2,False,False,35.0
+Qwen3-2B,E45,session_20260528_035248,A3,False,False,35.0
+Qwen3-2B,E45,session_20260528_035248,A4,True,True,0.0
+Qwen3-2B,E45,session_20260528_035433,A1,True,True,0.0
+Qwen3-2B,E45,session_20260528_035433,A2,False,False,35.0
+Qwen3-2B,E45,session_20260528_035433,A3,False,False,35.0
+Qwen3-2B,E45,session_20260528_035433,A4,True,True,0.0
+Qwen3-2B,E45,session_20260528_035620,A1,True,True,0.0
+Qwen3-2B,E45,session_20260528_035620,A2,False,True,0.0
+Qwen3-2B,E45,session_20260528_035620,A3,False,True,0.0
+Qwen3-2B,E45,session_20260528_035620,A4,True,True,0.0
+Qwen3-2B,E45,session_20260528_035801,A1,True,True,0.0
+Qwen3-2B,E45,session_20260528_035801,A2,False,False,35.0
+Qwen3-2B,E45,session_20260528_035801,A3,False,False,35.0
+Qwen3-2B,E45,session_20260528_035801,A4,True,True,0.0
+Qwen3-2B,E45,session_20260528_035949,A1,True,True,0.0
+Qwen3-2B,E45,session_20260528_035949,A2,False,False,35.0
+Qwen3-2B,E45,session_20260528_035949,A3,False,False,35.0
+Qwen3-2B,E45,session_20260528_035949,A4,True,True,0.0
+Qwen3-2B,E45,session_20260528_041815,A1,True,True,0.0
+Qwen3-2B,E45,session_20260528_041815,A2,False,True,0.0
+Qwen3-2B,E45,session_20260528_041815,A3,False,True,0.0
+Qwen3-2B,E45,session_20260528_041815,A4,True,False,35.0
+Qwen3-2B,E45,session_20260528_042004,A1,True,True,0.0
+Qwen3-2B,E45,session_20260528_042004,A2,False,False,35.0
+Qwen3-2B,E45,session_20260528_042004,A3,False,False,35.0
+Qwen3-2B,E45,session_20260528_042004,A4,True,False,35.0
+Qwen3-2B,E45,session_20260528_042147,A1,True,True,0.0
+Qwen3-2B,E45,session_20260528_042147,A2,False,False,35.0
+Qwen3-2B,E45,session_20260528_042147,A3,False,True,0.0
+Qwen3-2B,E45,session_20260528_042147,A4,True,False,35.0
+Qwen2.5-3B,E3,case_001_brick_01_clean_regular,A1,True,True,0.0
+Qwen2.5-3B,E3,case_001_brick_01_clean_regular,A2,True,True,0.0
+Qwen2.5-3B,E3,case_001_brick_01_clean_regular,A3,True,True,0.0
+Qwen2.5-3B,E3,case_001_brick_01_clean_regular,A4,True,False,35.0
+Qwen2.5-3B,E3,case_001_brick_01_clean_regular,A5,True,True,0.0
+Qwen2.5-3B,E3,case_002_brick_02_chipped_jagged,A1,True,True,0.0
+Qwen2.5-3B,E3,case_002_brick_02_chipped_jagged,A2,True,False,35.0
+Qwen2.5-3B,E3,case_002_brick_02_chipped_jagged,A3,True,True,0.0
+Qwen2.5-3B,E3,case_002_brick_02_chipped_jagged,A4,False,False,35.0
+Qwen2.5-3B,E3,case_002_brick_02_chipped_jagged,A5,False,True,0.0
+Qwen2.5-3B,E3,case_003_brick_03_chipped_jagged,A1,True,True,80.0
+Qwen2.5-3B,E3,case_003_brick_03_chipped_jagged,A2,False,True,75.0
+Qwen2.5-3B,E3,case_003_brick_03_chipped_jagged,A3,False,True,80.0
+Qwen2.5-3B,E3,case_003_brick_03_chipped_jagged,A4,False,True,75.0
+Qwen2.5-3B,E3,case_003_brick_03_chipped_jagged,A5,True,True,80.0
+Qwen2.5-3B,E3,case_004_brick_04_debris_obstruction,A1,True,True,80.0
+Qwen2.5-3B,E3,case_004_brick_04_debris_obstruction,A2,False,False,60.0
+Qwen2.5-3B,E3,case_004_brick_04_debris_obstruction,A3,False,False,70.0
+Qwen2.5-3B,E3,case_004_brick_04_debris_obstruction,A4,True,True,90.0
+Qwen2.5-3B,E3,case_004_brick_04_debris_obstruction,A5,True,False,75.0
+Qwen2.5-3B,E3,case_005_brick_05_debris_obstruction,A1,True,True,80.0
+Qwen2.5-3B,E3,case_005_brick_05_debris_obstruction,A2,True,True,75.0
+Qwen2.5-3B,E3,case_005_brick_05_debris_obstruction,A3,True,True,70.0
+Qwen2.5-3B,E3,case_005_brick_05_debris_obstruction,A4,False,True,65.0
+Qwen2.5-3B,E3,case_005_brick_05_debris_obstruction,A5,False,True,60.0
+Qwen2.5-3B,E3,case_006_timber_01_clean_regular,A1,True,True,80.0
+Qwen2.5-3B,E3,case_006_timber_01_clean_regular,A2,True,False,60.0
+Qwen2.5-3B,E3,case_006_timber_01_clean_regular,A3,True,False,70.0
+Qwen2.5-3B,E3,case_006_timber_01_clean_regular,A4,True,False,65.0
+Qwen2.5-3B,E3,case_006_timber_01_clean_regular,A5,True,False,75.0
+Qwen2.5-3B,E3,case_007_timber_02_chipped_jagged,A1,True,True,0.0
+Qwen2.5-3B,E3,case_007_timber_02_chipped_jagged,A2,True,True,0.0
+Qwen2.5-3B,E3,case_007_timber_02_chipped_jagged,A3,True,True,0.0
+Qwen2.5-3B,E3,case_007_timber_02_chipped_jagged,A4,False,False,0.0
+Qwen2.5-3B,E3,case_007_timber_02_chipped_jagged,A5,True,True,0.0
+Qwen2.5-3B,E3,case_008_timber_03_chipped_jagged,A1,True,True,0.0
+Qwen2.5-3B,E3,case_008_timber_03_chipped_jagged,A2,True,True,0.0
+Qwen2.5-3B,E3,case_008_timber_03_chipped_jagged,A3,True,True,0.0
+Qwen2.5-3B,E3,case_008_timber_03_chipped_jagged,A4,False,False,35.0
+Qwen2.5-3B,E3,case_008_timber_03_chipped_jagged,A5,True,True,0.0
+Qwen2.5-3B,E3,case_009_timber_04_debris_obstruction,A1,False,True,0.0
+Qwen2.5-3B,E3,case_009_timber_04_debris_obstruction,A2,True,False,35.0
+Qwen2.5-3B,E3,case_009_timber_04_debris_obstruction,A3,True,False,35.0
+Qwen2.5-3B,E3,case_009_timber_04_debris_obstruction,A4,True,False,35.0
+Qwen2.5-3B,E3,case_009_timber_04_debris_obstruction,A5,True,False,35.0
+Qwen2.5-3B,E3,case_010_timber_05_debris_obstruction,A1,False,True,80.0
+Qwen2.5-3B,E3,case_010_timber_05_debris_obstruction,A2,True,True,75.0
+Qwen2.5-3B,E3,case_010_timber_05_debris_obstruction,A3,True,False,60.0
+Qwen2.5-3B,E3,case_010_timber_05_debris_obstruction,A4,True,True,70.0
+Qwen2.5-3B,E3,case_010_timber_05_debris_obstruction,A5,False,True,85.0
+Qwen2.5-3B,E45,session_20260528_035248,A1,True,True,0.0
+Qwen2.5-3B,E45,session_20260528_035248,A2,False,False,35.0
+Qwen2.5-3B,E45,session_20260528_035248,A3,False,False,35.0
+Qwen2.5-3B,E45,session_20260528_035248,A4,True,True,0.0
+Qwen2.5-3B,E45,session_20260528_035433,A1,True,True,0.0
+Qwen2.5-3B,E45,session_20260528_035433,A2,False,False,35.0
+Qwen2.5-3B,E45,session_20260528_035433,A3,False,False,35.0
+Qwen2.5-3B,E45,session_20260528_035433,A4,True,True,0.0
+Qwen2.5-3B,E45,session_20260528_035620,A1,True,True,0.0
+Qwen2.5-3B,E45,session_20260528_035620,A2,False,False,35.0
+Qwen2.5-3B,E45,session_20260528_035620,A3,False,False,35.0
+Qwen2.5-3B,E45,session_20260528_035620,A4,True,True,0.0
+Qwen2.5-3B,E45,session_20260528_035801,A1,True,True,0.0
+Qwen2.5-3B,E45,session_20260528_035801,A2,False,False,35.0
+Qwen2.5-3B,E45,session_20260528_035801,A3,False,False,35.0
+Qwen2.5-3B,E45,session_20260528_035801,A4,True,True,0.0
+Qwen2.5-3B,E45,session_20260528_035949,A1,True,True,0.0
+Qwen2.5-3B,E45,session_20260528_035949,A2,False,False,35.0
+Qwen2.5-3B,E45,session_20260528_035949,A3,False,False,35.0
+Qwen2.5-3B,E45,session_20260528_035949,A4,True,True,0.0
+Qwen2.5-3B,E45,session_20260528_041815,A1,True,True,80.0
+Qwen2.5-3B,E45,session_20260528_041815,A2,False,True,75.0
+Qwen2.5-3B,E45,session_20260528_041815,A3,False,True,70.0
+Qwen2.5-3B,E45,session_20260528_041815,A4,True,False,60.0
+Qwen2.5-3B,E45,session_20260528_042004,A1,True,True,80.0
+Qwen2.5-3B,E45,session_20260528_042004,A2,False,True,75.0
+Qwen2.5-3B,E45,session_20260528_042004,A3,False,True,70.0
+Qwen2.5-3B,E45,session_20260528_042004,A4,True,False,30.0
+Qwen2.5-3B,E45,session_20260528_042147,A1,True,True,0.0
+Qwen2.5-3B,E45,session_20260528_042147,A2,False,True,0.0
+Qwen2.5-3B,E45,session_20260528_042147,A3,False,False,0.0
+Qwen2.5-3B,E45,session_20260528_042147,A4,True,True,0.0
+Classical RGB+mask,E3,case_001_brick_01_clean_regular,A1,True,True,0.0
+Classical RGB+mask,E3,case_001_brick_01_clean_regular,A2,True,False,0.0028597335565320498
+Classical RGB+mask,E3,case_001_brick_01_clean_regular,A3,True,True,0.0
+Classical RGB+mask,E3,case_001_brick_01_clean_regular,A4,True,False,0.0016739903745553464
+Classical RGB+mask,E3,case_001_brick_01_clean_regular,A5,True,True,0.0
+Classical RGB+mask,E3,case_002_brick_02_chipped_jagged,A1,True,False,0.0026504847597126316
+Classical RGB+mask,E3,case_002_brick_02_chipped_jagged,A2,True,False,0.005440468717304876
+Classical RGB+mask,E3,case_002_brick_02_chipped_jagged,A3,True,False,0.012973425402803935
+Classical RGB+mask,E3,case_002_brick_02_chipped_jagged,A4,False,False,0.18106995884773663
+Classical RGB+mask,E3,case_002_brick_02_chipped_jagged,A5,False,False,0.07407407407407407
+Classical RGB+mask,E3,case_003_brick_03_chipped_jagged,A1,True,True,0.0
+Classical RGB+mask,E3,case_003_brick_03_chipped_jagged,A2,False,False,0.06172839506172839
+Classical RGB+mask,E3,case_003_brick_03_chipped_jagged,A3,False,True,0.0
+Classical RGB+mask,E3,case_003_brick_03_chipped_jagged,A4,False,False,0.0030689823533514684
+Classical RGB+mask,E3,case_003_brick_03_chipped_jagged,A5,True,False,0.004882471925786427
+Classical RGB+mask,E3,case_004_brick_04_debris_obstruction,A1,True,True,0.0
+Classical RGB+mask,E3,case_004_brick_04_debris_obstruction,A2,False,False,0.003975727139568948
+Classical RGB+mask,E3,case_004_brick_04_debris_obstruction,A3,False,True,0.0
+Classical RGB+mask,E3,case_004_brick_04_debris_obstruction,A4,True,True,0.0
+Classical RGB+mask,E3,case_004_brick_04_debris_obstruction,A5,True,True,0.0
+Classical RGB+mask,E3,case_005_brick_05_debris_obstruction,A1,True,True,0.0
+Classical RGB+mask,E3,case_005_brick_05_debris_obstruction,A2,True,True,0.0
+Classical RGB+mask,E3,case_005_brick_05_debris_obstruction,A3,True,False,0.19753086419753085
+Classical RGB+mask,E3,case_005_brick_05_debris_obstruction,A4,False,False,0.006905210295040804
+Classical RGB+mask,E3,case_005_brick_05_debris_obstruction,A5,False,True,0.0
+Classical RGB+mask,E3,case_006_timber_01_clean_regular,A1,True,True,0.0
+Classical RGB+mask,E3,case_006_timber_01_clean_regular,A2,True,True,0.0
+Classical RGB+mask,E3,case_006_timber_01_clean_regular,A3,True,True,0.0
+Classical RGB+mask,E3,case_006_timber_01_clean_regular,A4,True,True,0.0
+Classical RGB+mask,E3,case_006_timber_01_clean_regular,A5,True,True,0.0
+Classical RGB+mask,E3,case_007_timber_02_chipped_jagged,A1,True,True,0.0
+Classical RGB+mask,E3,case_007_timber_02_chipped_jagged,A2,True,True,0.0
+Classical RGB+mask,E3,case_007_timber_02_chipped_jagged,A3,True,True,0.0
+Classical RGB+mask,E3,case_007_timber_02_chipped_jagged,A4,False,False,0.3991769547325103
+Classical RGB+mask,E3,case_007_timber_02_chipped_jagged,A5,True,True,0.0
+Classical RGB+mask,E3,case_008_timber_03_chipped_jagged,A1,True,True,0.0
+Classical RGB+mask,E3,case_008_timber_03_chipped_jagged,A2,True,True,0.0
+Classical RGB+mask,E3,case_008_timber_03_chipped_jagged,A3,True,True,0.0
+Classical RGB+mask,E3,case_008_timber_03_chipped_jagged,A4,False,False,0.36011717932621884
+Classical RGB+mask,E3,case_008_timber_03_chipped_jagged,A5,True,True,0.0
+Classical RGB+mask,E3,case_009_timber_04_debris_obstruction,A1,False,False,0.229010101010101
+Classical RGB+mask,E3,case_009_timber_04_debris_obstruction,A2,True,True,0.0
+Classical RGB+mask,E3,case_009_timber_04_debris_obstruction,A3,True,False,0.0026666666666666666
+Classical RGB+mask,E3,case_009_timber_04_debris_obstruction,A4,True,False,0.004525252525252525
+Classical RGB+mask,E3,case_009_timber_04_debris_obstruction,A5,True,True,0.0
+Classical RGB+mask,E3,case_010_timber_05_debris_obstruction,A1,False,True,0.0
+Classical RGB+mask,E3,case_010_timber_05_debris_obstruction,A2,True,True,0.0
+Classical RGB+mask,E3,case_010_timber_05_debris_obstruction,A3,True,True,0.0
+Classical RGB+mask,E3,case_010_timber_05_debris_obstruction,A4,True,True,0.0
+Classical RGB+mask,E3,case_010_timber_05_debris_obstruction,A5,False,True,0.037037037037037035
+Classical RGB+mask,E45,session_20260528_035248,A1,True,True,0.0
+Classical RGB+mask,E45,session_20260528_035248,A2,False,False,0.1728395061728395
+Classical RGB+mask,E45,session_20260528_035248,A3,False,False,0.25584152891120876
+Classical RGB+mask,E45,session_20260528_035248,A4,True,True,0.0
+Classical RGB+mask,E45,session_20260528_035433,A1,True,True,0.0
+Classical RGB+mask,E45,session_20260528_035433,A2,False,False,0.16049382716049382
+Classical RGB+mask,E45,session_20260528_035433,A3,False,False,0.3103857152821371
+Classical RGB+mask,E45,session_20260528_035433,A4,True,True,0.0
+Classical RGB+mask,E45,session_20260528_035620,A1,True,True,0.0
+Classical RGB+mask,E45,session_20260528_035620,A2,False,False,0.16049382716049382
+Classical RGB+mask,E45,session_20260528_035620,A3,False,False,0.2839506172839506
+Classical RGB+mask,E45,session_20260528_035620,A4,True,True,0.0
+Classical RGB+mask,E45,session_20260528_035801,A1,True,True,0.0
+Classical RGB+mask,E45,session_20260528_035801,A2,False,False,0.1728395061728395
+Classical RGB+mask,E45,session_20260528_035801,A3,False,False,0.2652577247680826
+Classical RGB+mask,E45,session_20260528_035801,A4,True,True,0.0
+Classical RGB+mask,E45,session_20260528_035949,A1,True,True,0.0
+Classical RGB+mask,E45,session_20260528_035949,A2,False,False,0.23045267489711935
+Classical RGB+mask,E45,session_20260528_035949,A3,False,False,0.2289879333193834
+Classical RGB+mask,E45,session_20260528_035949,A4,True,True,0.0
+Classical RGB+mask,E45,session_20260528_041815,A1,True,True,0.0
+Classical RGB+mask,E45,session_20260528_041815,A2,False,True,0.0
+Classical RGB+mask,E45,session_20260528_041815,A3,False,False,0.007742205482318477
+Classical RGB+mask,E45,session_20260528_041815,A4,True,True,0.0
+Classical RGB+mask,E45,session_20260528_042004,A1,True,False,0.0036967287438097233
+Classical RGB+mask,E45,session_20260528_042004,A2,False,True,0.02880658436213992
+Classical RGB+mask,E45,session_20260528_042004,A3,False,True,0.0
+Classical RGB+mask,E45,session_20260528_042004,A4,True,True,0.0
+Classical RGB+mask,E45,session_20260528_042147,A1,True,True,0.0
+Classical RGB+mask,E45,session_20260528_042147,A2,False,True,0.0
+Classical RGB+mask,E45,session_20260528_042147,A3,False,True,0.0
+Classical RGB+mask,E45,session_20260528_042147,A4,True,True,0.0
+Classical RGB-D,E3,case_001_brick_01_clean_regular,A1,True,True,100.0
+Classical RGB-D,E3,case_001_brick_01_clean_regular,A2,True,False,0.0
+Classical RGB-D,E3,case_001_brick_01_clean_regular,A3,True,True,100.0
+Classical RGB-D,E3,case_001_brick_01_clean_regular,A4,True,False,0.0
+Classical RGB-D,E3,case_001_brick_01_clean_regular,A5,True,True,100.0
+Classical RGB-D,E3,case_002_brick_02_chipped_jagged,A1,True,True,100.0
+Classical RGB-D,E3,case_002_brick_02_chipped_jagged,A2,True,True,100.0
+Classical RGB-D,E3,case_002_brick_02_chipped_jagged,A3,True,True,100.0
+Classical RGB-D,E3,case_002_brick_02_chipped_jagged,A4,False,False,0.0
+Classical RGB-D,E3,case_002_brick_02_chipped_jagged,A5,False,False,0.0
+Classical RGB-D,E3,case_003_brick_03_chipped_jagged,A1,True,True,100.0
+Classical RGB-D,E3,case_003_brick_03_chipped_jagged,A2,False,True,100.0
+Classical RGB-D,E3,case_003_brick_03_chipped_jagged,A3,False,True,100.0
+Classical RGB-D,E3,case_003_brick_03_chipped_jagged,A4,False,True,100.0
+Classical RGB-D,E3,case_003_brick_03_chipped_jagged,A5,True,True,100.0
+Classical RGB-D,E3,case_004_brick_04_debris_obstruction,A1,True,True,100.0
+Classical RGB-D,E3,case_004_brick_04_debris_obstruction,A2,False,False,0.0
+Classical RGB-D,E3,case_004_brick_04_debris_obstruction,A3,False,False,0.0
+Classical RGB-D,E3,case_004_brick_04_debris_obstruction,A4,True,False,0.0
+Classical RGB-D,E3,case_004_brick_04_debris_obstruction,A5,True,True,100.0
+Classical RGB-D,E3,case_005_brick_05_debris_obstruction,A1,True,True,100.0
+Classical RGB-D,E3,case_005_brick_05_debris_obstruction,A2,True,True,100.0
+Classical RGB-D,E3,case_005_brick_05_debris_obstruction,A3,True,False,0.0
+Classical RGB-D,E3,case_005_brick_05_debris_obstruction,A4,False,True,100.0
+Classical RGB-D,E3,case_005_brick_05_debris_obstruction,A5,False,True,100.0
+Classical RGB-D,E3,case_006_timber_01_clean_regular,A1,True,True,100.0
+Classical RGB-D,E3,case_006_timber_01_clean_regular,A2,True,True,100.0
+Classical RGB-D,E3,case_006_timber_01_clean_regular,A3,True,False,26.811594202898558
+Classical RGB-D,E3,case_006_timber_01_clean_regular,A4,True,True,100.0
+Classical RGB-D,E3,case_006_timber_01_clean_regular,A5,True,True,100.0
+Classical RGB-D,E3,case_007_timber_02_chipped_jagged,A1,True,True,100.0
+Classical RGB-D,E3,case_007_timber_02_chipped_jagged,A2,True,True,100.0
+Classical RGB-D,E3,case_007_timber_02_chipped_jagged,A3,True,True,100.0
+Classical RGB-D,E3,case_007_timber_02_chipped_jagged,A4,False,False,0.0
+Classical RGB-D,E3,case_007_timber_02_chipped_jagged,A5,True,True,100.0
+Classical RGB-D,E3,case_008_timber_03_chipped_jagged,A1,True,True,100.0
+Classical RGB-D,E3,case_008_timber_03_chipped_jagged,A2,True,True,100.0
+Classical RGB-D,E3,case_008_timber_03_chipped_jagged,A3,True,True,100.0
+Classical RGB-D,E3,case_008_timber_03_chipped_jagged,A4,False,False,0.0
+Classical RGB-D,E3,case_008_timber_03_chipped_jagged,A5,True,True,100.0
+Classical RGB-D,E3,case_009_timber_04_debris_obstruction,A1,False,False,0.0
+Classical RGB-D,E3,case_009_timber_04_debris_obstruction,A2,True,False,0.0
+Classical RGB-D,E3,case_009_timber_04_debris_obstruction,A3,True,True,100.0
+Classical RGB-D,E3,case_009_timber_04_debris_obstruction,A4,True,False,33.69524522650692
+Classical RGB-D,E3,case_009_timber_04_debris_obstruction,A5,True,True,100.0
+Classical RGB-D,E3,case_010_timber_05_debris_obstruction,A1,False,False,8.738042678440028
+Classical RGB-D,E3,case_010_timber_05_debris_obstruction,A2,True,False,0.0
+Classical RGB-D,E3,case_010_timber_05_debris_obstruction,A3,True,False,0.0
+Classical RGB-D,E3,case_010_timber_05_debris_obstruction,A4,True,False,99.00764748725419
+Classical RGB-D,E3,case_010_timber_05_debris_obstruction,A5,False,False,59.426601342769004
+Classical RGB-D,E45,session_20260528_035248,A1,True,True,100.0
+Classical RGB-D,E45,session_20260528_035248,A2,False,False,0.0
+Classical RGB-D,E45,session_20260528_035248,A3,False,False,0.0
+Classical RGB-D,E45,session_20260528_035248,A4,True,True,100.0
+Classical RGB-D,E45,session_20260528_035433,A1,True,True,100.0
+Classical RGB-D,E45,session_20260528_035433,A2,False,False,0.0
+Classical RGB-D,E45,session_20260528_035433,A3,False,False,0.0
+Classical RGB-D,E45,session_20260528_035433,A4,True,True,100.0
+Classical RGB-D,E45,session_20260528_035620,A1,True,False,0.0
+Classical RGB-D,E45,session_20260528_035620,A2,False,False,0.0
+Classical RGB-D,E45,session_20260528_035620,A3,False,False,0.0
+Classical RGB-D,E45,session_20260528_035620,A4,True,True,100.0
+Classical RGB-D,E45,session_20260528_035801,A1,True,False,0.0
+Classical RGB-D,E45,session_20260528_035801,A2,False,False,0.0
+Classical RGB-D,E45,session_20260528_035801,A3,False,False,0.0
+Classical RGB-D,E45,session_20260528_035801,A4,True,True,100.0
+Classical RGB-D,E45,session_20260528_035949,A1,True,False,0.0
+Classical RGB-D,E45,session_20260528_035949,A2,False,False,0.0
+Classical RGB-D,E45,session_20260528_035949,A3,False,False,0.0
+Classical RGB-D,E45,session_20260528_035949,A4,True,True,100.0
+Classical RGB-D,E45,session_20260528_041815,A1,True,False,0.0
+Classical RGB-D,E45,session_20260528_041815,A2,False,False,0.0
+Classical RGB-D,E45,session_20260528_041815,A3,False,False,0.0
+Classical RGB-D,E45,session_20260528_041815,A4,True,True,100.0
+Classical RGB-D,E45,session_20260528_042004,A1,True,True,100.0
+Classical RGB-D,E45,session_20260528_042004,A2,False,False,0.0
+Classical RGB-D,E45,session_20260528_042004,A3,False,False,0.0
+Classical RGB-D,E45,session_20260528_042004,A4,True,True,100.0
+Classical RGB-D,E45,session_20260528_042147,A1,True,False,0.0
+Classical RGB-D,E45,session_20260528_042147,A2,False,True,0.0
+Classical RGB-D,E45,session_20260528_042147,A3,False,False,0.0
+Classical RGB-D,E45,session_20260528_042147,A4,True,True,100.0

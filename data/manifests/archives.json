@@ -1,0 +1,34 @@
+{
+  "contact": {
+    "file": "contact.zip",
+    "sha256": "f49dacee6bea5d26824a00e666dec67786019a0413a105c44269a53a286d4fd7",
+    "size_bytes": 805403052,
+    "logical_files": 6396,
+    "unique_objects": 2878,
+    "url": null
+  },
+  "perception": {
+    "file": "perception.zip",
+    "sha256": "35f26788db2d36d2c2f85036e83b77d2af3860415eed345bbd49748081540ae3",
+    "size_bytes": 135989674,
+    "logical_files": 2513,
+    "unique_objects": 1535,
+    "url": null
+  },
+  "path_length": {
+    "file": "path_length.zip",
+    "sha256": "74a11bb1f0c016f4f8e1627c926c751418f5734e4b6f5b61c03943416cef9071",
+    "size_bytes": 421224517,
+    "logical_files": 1638,
+    "unique_objects": 861,
+    "url": null
+  },
+  "runtime": {
+    "file": "runtime.zip",
+    "sha256": "c938c6b5f8a2bff56ed62d7f852a449431b59ad737373827a881d430c7f90803",
+    "size_bytes": 2950352,
+    "logical_files": 786,
+    "unique_objects": 557,
+    "url": null
+  }
+}

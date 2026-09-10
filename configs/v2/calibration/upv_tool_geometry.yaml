@@ -1,0 +1,57 @@
+calibration_name: t4_t2_upv_tool_geometry
+version: 1
+description: >
+  UPV tool geometry migrated from T4/T2 tool_geometry_validation values.
+  Points are expressed in the same tool0/TCP frame convention used by the
+  verified hand-eye transform.
+frame_convention:
+  frame: tool0
+  coordinate_convention: tool0_frame_offsets_same_convention_as_handeye
+  source_rule: object_surface_equals_tool0_surface_target_point
+tool_points_m:
+  p_tool0_upv_center_m: [0.0, -0.023, 0.108, 1.0]
+  p_tool0_upv_upper_probe_edge_m: [0.0, -0.023, 0.078, 1.0]
+  p_tool0_upv_bottom_m: [0.0, -0.023, 0.140, 1.0]
+  p_tool0_object_surface_target_m: [0.0, -0.023, 0.085, 1.0]
+tcp_to_tool_lowest_point_m:
+  x: 0.0
+  y: -0.023
+  z: 0.140
+tcp_to_transducer_midpoint_m:
+  x: 0.0
+  y: -0.023
+  z: 0.108
+tcp_to_object_surface_target_m:
+  x: 0.0
+  y: -0.023
+  z: 0.085
+desired_surface_gap_m: 0.010
+hover_offset_m: 0.150
+approach_offset_m: 0.030
+final_contact_offset_m: 0.0
+preview_above_final_z_m: 0.030
+clamp_geometry:
+  fully_open_probe_spacing_mm: 257.0
+  fully_closed_probe_spacing_mm: 40.0
+  safety_margin_mm: 5.0
+  contact_allowance_mm: 0.0
+  steps_per_mm: 100.0
+  step_delay_us: 600
+approximate_user_memory_offsets_not_used_for_planning:
+  tcp_to_tool_lowest_point_m:
+    z: -0.140
+  tcp_to_transducer_midpoint_m:
+    z: -0.110
+  hover_offset_m: 0.150
+  provenance: user_provided_memory_consistent_with_T4_T2_distance_magnitudes
+provenance:
+  primary_source_files:
+    - configs/T4_full_robot_clamp_test.json
+    - terminal_scripts/run_T2_upv_tool_offset_validation_motion.py
+  supporting_source_files:
+    - configs/r7_hover_pose_planner.json
+    - configs/S1_simple_visual_servo_upv.json
+  value_status: code_proven_from_T4_T2_config_and_defaults
+  warnings:
+    - Revalidate physical UPV geometry before enabling real v2 execution.
+    - Signed direction of approximate legacy quick-test offsets is not used by v2 planning.

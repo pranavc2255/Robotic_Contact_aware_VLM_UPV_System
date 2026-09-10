@@ -1,0 +1,33 @@
+Perform a comparative physical contact audit on the provided sequence of anchor images.
+
+The image-to-anchor mapping is:
+{mapping}
+
+Evaluate the geometric integrity of the contact band at the magenta line for both the LEFT panel (Side 1) and RIGHT panel (Side 2) across all images.
+
+Return your joint analysis in the following exact JSON schema:
+{{
+  "comparative_baseline_observation": "Brief summary contrasting the cleanest surfaces against the most obstructed surfaces in this batch.",
+  "per_anchor_analysis": [
+    {{
+      "image_index": 1,
+      "anchor_id": "A1",
+      "left_panel_condition": "Visual status of the contact line on the left side",
+      "right_panel_condition": "Visual status of the contact line on the right side",
+      "left_usable": true,
+      "right_usable": true,
+      "anchor_score": 0,
+      "anchor_usable": true
+    }}
+  ],
+  "ranked_usable_anchors": ["List anchor_ids in order of descending physical stability, including only those where anchor_usable is true. Leave empty if none are safe."],
+  "final_robot_action": "CHOOSE_BEST_ANCHOR or NO_SAFE_ANCHOR",
+  "selected_anchor_id": "The single highest-ranked anchor ID from the list, or null if final_robot_action is NO_SAFE_ANCHOR"
+}}
+
+Constraints:
+- per_anchor_analysis must contain exactly one entry for each provided image.
+- Use only anchor IDs listed in the image-to-anchor mapping.
+- For any anchor where left_usable or right_usable is false, anchor_usable MUST be false, and anchor_score MUST be <= 35.
+- If ranked_usable_anchors is empty, final_robot_action MUST be "NO_SAFE_ANCHOR" and selected_anchor_id MUST be null.
+- selected_anchor_id must be either one of the listed anchor IDs or null.
