@@ -57,17 +57,32 @@ def contact(root, dataset):
 
 
 def perception(root):
-    rows=read(root/'results/perception/trials63.csv')
-    if len(rows)!=63 or len({r['trial'] for r in rows})!=63:raise ValueError('Expected 63 unique trials')
-    correct=[]
-    for r in rows:
-        success=r['requested_material'].strip().lower()==r['actual_class'].strip().lower()
-        if success!=boolean(r['correct']):raise ValueError(f"Saved perception label mismatch: {r['trial']}")
-        correct.append(success)
-    return dict(n=63,correct=sum(correct),accuracy=sum(correct)/63,
-        original27=dict(n=27,correct=sum(c for r,c in zip(rows,correct) if r['dataset']=='original27')),
-        revision36=dict(n=36,correct=sum(c for r,c in zip(rows,correct) if r['dataset']=='revision36')),
-        policy='saved GSAM2+CLIP decisions: score>=0.10; no margin veto or color/texture rules')
+    import math
+    rows=read(root/'results/perception/trials72.csv')
+    if len(rows)!=72 or len({r['trial'] for r in rows})!=72:
+        raise ValueError('Expected 72 unique trials')
+    if sum(r['kind']=='present' for r in rows)!=63 or sum(r['kind']=='absent' for r in rows)!=9:
+        raise ValueError('Expected 63 present and 9 absent queries')
+    def counts(threshold):
+        present=absent=0
+        for r in rows:
+            score=float(r['score'])
+            if not math.isfinite(score) or not 0<=score<=1:
+                raise ValueError('Invalid saved CLIP probability')
+            accepted=score>=threshold
+            correct=not accepted if r['kind']=='absent' else accepted and boolean(r['candidate_good'])
+            if threshold==.35 and correct!=boolean(r['correct_at_035']):
+                raise ValueError(f"Saved perception decision mismatch: {r['trial']}")
+            present+=correct and r['kind']=='present'
+            absent+=correct and r['kind']=='absent'
+        return dict(threshold=threshold,present_correct=present,absent_correct_rejections=absent,
+                    correct=present+absent,accuracy=(present+absent)/72)
+    main=counts(.35)
+    return dict(n=72,**main,present=dict(n=63,correct=main['present_correct'],accuracy=main['present_correct']/63),
+        absent=dict(n=9,correct=main['absent_correct_rejections'],accuracy=main['absent_correct_rejections']/9),
+        threshold_sensitivity=[counts(t) for t in [.1,.2,.3,.35,.4,.5,.6]],
+        policy='CLIP normalized mean text embeddings; three-class softmax; score>=0.35; no guards or margin veto',
+        evaluation_note='Prompt and threshold selected on these data; exploratory, not independent validation')
 
 
 def paths(root):

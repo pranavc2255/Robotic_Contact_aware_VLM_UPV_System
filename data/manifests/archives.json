@@ -9,11 +9,14 @@
   },
   "perception": {
     "file": "perception.zip",
-    "sha256": "35f26788db2d36d2c2f85036e83b77d2af3860415eed345bbd49748081540ae3",
-    "size_bytes": 135989674,
-    "logical_files": 2513,
-    "unique_objects": 1535,
-    "url": "https://github.com/pranavc2255/Robotic_Contact_aware_VLM_UPV_System/releases/download/v0.1.0/perception.zip"
+    "sha256": "aa04d800e711bb06db62845f844cde717fdf4a8ba9fa65286b9f1e69b8ca5a88",
+    "size_bytes": 32648282,
+    "logical_files": 417,
+    "unique_objects": 322,
+    "url": "https://github.com/pranavc2255/Robotic_Contact_aware_VLM_UPV_System/releases/download/v0.1.0/perception.zip",
+    "status": "Current ensemble archive validated locally; replace GitHub perception.zip asset",
+    "main_results": "clip72/results/final72_at_035.csv",
+    "threshold": 0.35
   },
   "path_length": {
     "file": "path_length.zip",

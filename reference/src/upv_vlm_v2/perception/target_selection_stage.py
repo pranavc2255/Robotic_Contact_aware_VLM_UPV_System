@@ -106,7 +106,7 @@ def _write_material_verification_artifacts(
             "selected_candidate_id_after_no_match_gate": verification.get("selected_candidate_id_after_no_match_gate"),
             "allow_no_verified_match": verification.get("allow_no_verified_match"),
             "absent_class_rejection_enabled": verification.get("absent_class_rejection_enabled"),
-            "no_verified_match": True,
+            "no_verified_match": bool(verification.get("no_verified_match", not verification.get("errors"))),
         }
     selected_summary_path = material_dir / "selected_candidate_summary.json"
     _write_json(selected_summary_path, selected_summary)
@@ -333,7 +333,7 @@ def run_target_selection(
         if selected is None:
             payload = {
                 "success": False,
-                "failure_reason": "NO_VERIFIED_MATCH",
+                "failure_reason": verification.get("failure_reason") or "NO_VERIFIED_MATCH",
                 "requested_material": requested_material,
                 "selected_candidate_id": "NO_VERIFIED_MATCH",
                 "candidate_count": len(candidates),
@@ -452,7 +452,7 @@ def run_target_selection(
     if selected is None:
         payload = {
             "success": False,
-            "failure_reason": "NO_VERIFIED_MATCH",
+            "failure_reason": verification.get("failure_reason") or "NO_VERIFIED_MATCH",
             "requested_material": requested_material,
             "candidate_count": len(candidates),
             "candidate_artifacts": {item["candidate_id"]: item for item in candidates},

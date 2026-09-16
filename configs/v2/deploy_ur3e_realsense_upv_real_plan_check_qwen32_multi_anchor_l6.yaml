@@ -34,8 +34,9 @@ target_selection:
   save_candidate_crops: true
   save_selected_mask_overlay: true
   detection_query_mode: simple_requested_material_only
-  class_score_aggregation: max
-  clip_score_threshold: 0.0
+  class_score_aggregation: mean_embedding_class_softmax
+  selection_rule: clip_prompt_ensemble_requested_score_threshold
+  clip_score_threshold: 0.35
   crop_pad_px: 8
   inner_crop_erode_px: 3
 

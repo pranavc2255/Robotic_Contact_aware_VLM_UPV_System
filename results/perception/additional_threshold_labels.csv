@@ -1,0 +1,2 @@
+trial,candidate_id,actual_material,timestamp_utc,annotation_source
+case_001_timber,candidate_001_timber,timber,2026-09-16T04:07:00Z,user confirmed timber after viewing raw image and selected-mask review panel in conversation

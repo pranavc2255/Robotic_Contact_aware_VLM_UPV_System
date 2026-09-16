@@ -13,6 +13,20 @@ No models, archives or hardware dependencies are needed for this command.
 The output has contact73/contact82/perception/path_length/runtime JSON and a
 contact/perception Markdown summary. `results/` preserves original numeric files.
 
+Main perception reproduction reads `results/perception/trials72.csv`: 58/63
+present-target successes, 7/9 absent rejections, and 65/72 overall (90.28%). It
+recomputes acceptance from saved scores and candidate-specific labels at 0.35,
+plus thresholds 0.10, 0.20, 0.30, 0.40, 0.50 and 0.60. All are fully labeled.
+Historical `trials63.csv` is retained, but is not the default main result.
+See [CLIP_ENSEMBLE.md](CLIP_ENSEMBLE.md) for equations, exact prompts and limitations.
+
+The replacement `perception.zip` contains the current `clip72/` results, scoring
+crops, masks, RGB evidence, annotations and exact prompts. Redundant earlier result
+bundles are excluded; source metadata remains for traceability and does not define
+the current predictions. The normal installer verifies its new hash. If an older
+`datasets/perception` is installed, rename that directory to keep a backup before
+installing the replacement; the installer never overwrites existing data.
+
 ## Data and CPU RGB+Mask Baseline
 
 ```bash

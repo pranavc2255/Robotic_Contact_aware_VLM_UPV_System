@@ -33,9 +33,11 @@ class ReproductionTests(unittest.TestCase):
 
     def test_perception(self):
         result = perception(ROOT)
-        self.assertEqual(result['correct'], 57)
-        self.assertEqual(result['original27']['correct'], 27)
-        self.assertEqual(result['revision36']['correct'], 30)
+        self.assertEqual(result['n'], 72)
+        self.assertEqual(result['correct'], 65)
+        self.assertEqual(result['present']['correct'], 58)
+        self.assertEqual(result['absent']['correct'], 7)
+        self.assertEqual([r['correct'] for r in result['threshold_sensitivity']], [60,60,63,65,59,49,47])
 
     def test_contact89_reported_metrics(self):
         import csv

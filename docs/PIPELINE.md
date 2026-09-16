@@ -14,10 +14,14 @@ when running with `PYTHONPATH=src`.
 
 The default configuration preserves the bundled main contact-preparation setup:
 orientation-fixed core-support rectangle, transducer-diameter candidate count,
-and original multi-image prompt. Its legacy CLIP source-prior/color-guard policy
-is **not** the later 63-trial CLIP-only ablation. These should not be presented as
-the same experiment. Use saved-result reproduction for the exact published cohort
-policy and numbers.
+and original multi-image contact prompt. Material verification uses the CLIP
+prompt ensemble: eight descriptions per material, normalized mean text embeddings,
+three-class softmax, and `score >= 0.35`. No source-prior or color/texture guards
+and no margin veto are used. All candidate crops are scored in one isolated CLIP
+worker, which exits before the next stage. CLIP defaults to CPU as in the saved
+ensemble experiment; Qwen GPU residency remains staged. Failures stop selection,
+not count as successful absent-class rejection. See [CLIP_ENSEMBLE.md](CLIP_ENSEMBLE.md).
+The changed perception configuration has offline tests, not fresh robot validation.
 
 ## Input contract
 

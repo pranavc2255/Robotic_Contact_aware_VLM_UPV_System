@@ -1,7 +1,39 @@
 {
   "inference": false,
   "hardware": false,
-  "git_candidate_bytes": 5773772,
-  "git_candidate_files": 748,
+  "git_candidate_bytes": 6316384,
+  "git_candidate_files": 762,
+  "archives": {
+    "contact": {
+      "sha256": "passed",
+      "logical_files": 6396,
+      "max_internal_path_chars": 77
+    },
+    "perception": {
+      "sha256": "passed",
+      "logical_files": 417,
+      "max_internal_path_chars": 77
+    },
+    "path_length": {
+      "sha256": "passed",
+      "logical_files": 1638,
+      "max_internal_path_chars": 77
+    },
+    "runtime": {
+      "sha256": "passed",
+      "logical_files": 786,
+      "max_internal_path_chars": 77
+    },
+    "contact89": {
+      "sha256": "passed",
+      "logical_files": 7142,
+      "max_internal_path_chars": 77
+    },
+    "pl200": {
+      "sha256": "passed",
+      "logical_files": 401,
+      "max_internal_path_chars": 26
+    }
+  },
   "detached_copy_reproduction": "passed"
 }

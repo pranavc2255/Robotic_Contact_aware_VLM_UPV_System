@@ -594,6 +594,11 @@ def verify_candidate_crops_with_clip(
     config: dict[str, Any],
     output_path: str | Path,
 ) -> dict[str, Any]:
+    if config.get('target_selection', {}).get('class_score_aggregation') == 'mean_embedding_class_softmax':
+        from upv_vlm_v2.perception.clip_ensemble import verify
+        return verify(candidates=candidates, requested_material=_normalize_material_name(requested_material),
+            config=config, output_path=output_path, crop_for_candidate=_crop_for_candidate,
+            python_info=resolve_clip_python(config))
     rows = _prompt_rows()
     labels = [row["prompt"] for row in rows]
     aggregation = str(config.get("target_selection", {}).get("class_score_aggregation", "max")).lower()

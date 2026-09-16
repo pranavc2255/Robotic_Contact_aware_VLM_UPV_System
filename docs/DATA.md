@@ -2,13 +2,14 @@
 
 `data/manifests/archives.json` records archive byte sizes, SHA-256, unique object
 counts and logical file counts. Download URLs point to the new repository's
-public v0.1.0 release. GitHub-reported sizes and digests match the verified archives.
+public v0.1.0 release. The new perception asset is validated locally; replace the
+remote asset before expecting its digest to match the updated catalog.
 See [dataset rights](../DATA_LICENSE.md) before reuse. Local ZIPs are in `release_assets/` and
 are ignored by Git. Copy/upload them separately, not through normal Git history.
 
 Every ZIP has `index.json` and `objects/<sha256>.<extension>`. The index retains
-the original logical path, release hash, original source hash, and whether text
-was sanitized. Binary image/depth bytes are unchanged. Repeated files are stored
+the original logical path and release hash; historical entries additionally
+record source hashes and sanitization where available. Binary image/depth bytes are unchanged. Repeated files are stored
 once per archive. Extracted filenames are short; original long Windows-incompatible
 experiment names are only JSON keys. Use the installer instead of reconstructing
 the original directory hierarchy on Windows.
@@ -16,7 +17,7 @@ the original directory hierarchy on Windows.
 | Archive | Contents |
 |---|---|
 | contact.zip | 73/82 crops, masks, raw geometry/RGB-D lineage, labels, model evidence, classical diagnostics |
-| perception.zip | Final 63-trial evidence, source RGB, candidates, scores, labels, prompt text and annotation provenance |
+| perception.zip | Main 72-query CLIP ensemble results and threshold analysis, source RGB, masks/crops, scores, labels, source metadata and exact prompts; no redundant prior result bundles |
 | path_length.zip | Raw 15-case saved session, masks, selected paths, V1/V2 evaluations and packaged figures |
 | runtime.zip | E45 master tables and timing/pipeline/robot execution logs |
 
@@ -28,7 +29,9 @@ in records beginning `workspace/` are resolved by the public `Assets` adapter.
 This is a working-tree snapshot, not an assertion that every file was committed
 under that parent revision. The parent workspace was not changed by assembly.
 
-Text substitutions remove source home paths and private 192.168.* robot hosts.
+Historical text substitutions remove source home paths and private 192.168.* robot hosts.
+The newly imported `clip72/` evidence retains original source references in JSON;
+use its `FILE_MAP.csv` and the archive index for portable resolution.
 These are portability/privacy redactions, not proof of complete anonymization.
 Inspect faces, labels, lab information, serial numbers, hostnames and third-party
 assets before public release. No model checkpoints or virtual environments are

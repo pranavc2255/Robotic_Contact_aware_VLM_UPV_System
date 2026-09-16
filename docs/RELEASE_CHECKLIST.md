@@ -4,7 +4,7 @@
 - Review third-party model/code licenses and retain their required notices; copied source is not automatically relicensed.
 - Author names, ORCIDs and title are recorded in CITATION.cff; add a publication DOI only when available.
 - Review all images and text for publication rights and sensitive laboratory information.
-- Four verified ZIPs are public on the new repository's v0.1.0 release; archive URLs are populated and GitHub sizes/digests match the catalog.
+- The perception archive has been updated locally for the CLIP ensemble. Replace the v0.1.0 `perception.zip` asset before remote installation; verify its size/digest against the new catalog. Other assets are unchanged by this update.
 - Keep `release_assets/`, `datasets/`, `local_models/`, environments and new runs out of Git.
 - PL-200 exports are packaged locally in `pl200.zip`; upload the asset. Preserve instrument metadata and verify specimen/session associations before waveform reprocessing claims.
 - Validate `upv-pipeline` on a fresh GPU environment with real perception and Qwen. Synthetic CPU tests do not establish model compatibility or fresh-run equivalence.

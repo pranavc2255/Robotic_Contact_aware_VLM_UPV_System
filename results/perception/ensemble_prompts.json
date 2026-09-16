@@ -1,0 +1,32 @@
+{
+  "brick": [
+    "A photo of clay brick.",
+    "A cropped photo of clay brick.",
+    "A close-up photo of clay brick.",
+    "A photo of a piece of clay brick.",
+    "A photo of fired clay masonry brick.",
+    "A cropped photo of fired clay masonry brick.",
+    "A close-up photo of fired clay masonry brick.",
+    "A photo of a piece of fired clay masonry brick."
+  ],
+  "concrete block": [
+    "A photo of concrete block.",
+    "A cropped photo of concrete block.",
+    "A close-up photo of concrete block.",
+    "A photo of a piece of concrete block.",
+    "A photo of concrete masonry unit.",
+    "A cropped photo of concrete masonry unit.",
+    "A close-up photo of concrete masonry unit.",
+    "A photo of a piece of concrete masonry unit."
+  ],
+  "timber": [
+    "A photo of wood.",
+    "A cropped photo of wood.",
+    "A close-up photo of wood.",
+    "A photo of a piece of wood.",
+    "A photo of timber lumber.",
+    "A cropped photo of timber lumber.",
+    "A close-up photo of timber lumber.",
+    "A photo of a piece of timber lumber."
+  ]
+}

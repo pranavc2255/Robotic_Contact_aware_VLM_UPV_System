@@ -1,5 +1,19 @@
 # Assembly Validation
 
+## CLIP Ensemble Update (2026-09-16)
+
+The main perception defaults now use normalized mean text embeddings and 0.35.
+Detached-copy reproduction verifies 65/72, with 58 present successes and seven
+absent rejections. Twenty stdlib tests cover candidate ranking, inclusive threshold
+boundaries, prompt/config equality, failed CLIP workers and the existing result tables.
+The replacement perception archive contains 417 current-method evidence files;
+redundant prior result bundles are excluded. Original capture metadata is retained
+as provenance, not as current selector predictions. Archive CRCs, whole-file and object checksums pass;
+internal filenames remain at most 77 characters. Source research outputs are unchanged.
+No fresh model inference or hardware run was performed for this integration.
+
+## Original Assembly Record
+
 The release was assembled from branch `robot_upv_interactive_20260527`, including
 its uncommitted working-tree state. The new nested repository uses branch `main`.
 No commit, remote, push, model download, GPU inference or hardware run occurred.

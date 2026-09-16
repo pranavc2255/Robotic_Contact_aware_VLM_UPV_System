@@ -1,0 +1,73 @@
+trial,kind,requested_material,candidate_id,score,candidate_good,correct_at_035
+old_1,present,brick,candidate_001_brick,0.35584306716918945,True,True
+old_2,present,timber,candidate_002_timber,0.7180770039558411,True,True
+old_3,present,brick,candidate_001_brick,0.4893479347229004,True,True
+old_4,present,concrete block,candidate_002_concrete_block,0.7715930938720703,True,True
+old_5,present,timber,candidate_001_timber,0.8956970572471619,True,True
+old_6,present,concrete block,candidate_001_concrete_block,0.6831173896789551,True,True
+old_7,present,brick,candidate_001_brick,0.7690891027450562,True,True
+old_8,present,timber,candidate_002_timber,0.6492123007774353,True,True
+old_9,present,concrete block,candidate_002_concrete_block,0.6914406418800354,True,True
+old_10,present,brick,candidate_001_brick,0.7822116017341614,True,True
+old_11,present,timber,candidate_002_timber,0.9724374413490295,True,True
+old_12,present,brick,candidate_001_brick,0.7812227606773376,True,True
+old_13,present,concrete block,candidate_001_concrete_block,0.5375277400016785,True,True
+old_14,present,timber,candidate_001_timber,0.9705531001091003,True,True
+old_15,present,concrete block,candidate_001_concrete_block,0.4939245879650116,True,True
+old_16,present,brick,candidate_001_brick,0.6904717683792114,True,True
+old_17,present,timber,candidate_002_timber,0.9460432529449463,True,True
+old_18,present,concrete block,candidate_002_concrete_block,0.4728775918483734,True,True
+old_19,present,brick,candidate_001_brick,0.3635619878768921,True,True
+old_20,present,timber,candidate_002_timber,0.9939290285110474,True,True
+old_21,present,brick,candidate_001_brick,0.48222672939300537,True,True
+old_22,present,concrete block,candidate_002_concrete_block,0.5824006199836731,True,True
+old_23,present,timber,candidate_001_timber,0.8384943008422852,True,True
+old_24,present,concrete block,candidate_002_concrete_block,0.4775560796260834,True,True
+old_25,present,brick,candidate_001_brick,0.42898887395858765,True,True
+old_26,present,timber,candidate_002_timber,0.7708199620246887,True,True
+old_27,present,concrete block,candidate_001_concrete_block,0.4165295958518982,False,False
+case_001_brick,present,brick,candidate_002_brick,0.8175323605537415,True,True
+case_001_concrete_block,present,concrete block,candidate_002_concrete_block,0.642561674118042,True,True
+case_001_timber,present,timber,candidate_001_timber,0.18803837895393372,True,False
+case_002_brick,present,brick,candidate_001_brick,0.7051465511322021,True,True
+case_002_concrete_block,present,concrete block,candidate_002_concrete_block,0.3887917101383209,True,True
+case_002_timber,present,timber,candidate_002_timber,0.9866458177566528,True,True
+case_003_brick,present,brick,candidate_001_brick,0.7720949649810791,True,True
+case_003_concrete_block,present,concrete block,candidate_001_concrete_block,0.20826086401939392,False,False
+case_003_timber,present,timber,candidate_002_timber,0.6409398317337036,True,True
+case_004_brick,present,brick,candidate_001_brick,0.8878313302993774,True,True
+case_004_concrete_block,present,concrete block,candidate_001_concrete_block,0.8946208357810974,True,True
+case_004_timber,present,timber,candidate_002_timber,0.38697168231010437,True,True
+case_005_brick,present,brick,candidate_001_brick,0.778569757938385,True,True
+case_005_concrete_block,present,concrete block,candidate_003_concrete_block,0.31559574604034424,True,False
+case_005_timber,present,timber,candidate_002_timber,0.9872265458106995,True,True
+case_006_brick,present,brick,candidate_001_brick,0.7911633253097534,True,True
+case_006_concrete_block,present,concrete block,candidate_002_concrete_block,0.47368648648262024,True,True
+case_006_timber,present,timber,candidate_003_timber,0.6016408801078796,True,True
+case_007_brick,present,brick,candidate_001_brick,0.8316866755485535,True,True
+case_007_concrete_block,present,concrete block,candidate_001_concrete_block,0.5967497229576111,True,True
+case_007_timber,present,timber,candidate_001_timber,0.89349764585495,True,True
+case_008_brick,present,brick,candidate_001_brick,0.784758985042572,True,True
+case_008_concrete_block,present,concrete block,candidate_003_concrete_block,0.4007193446159363,True,True
+case_008_timber,present,timber,candidate_002_timber,0.8010328412055969,True,True
+case_009_brick,present,brick,candidate_001_brick,0.4413820207118988,True,True
+case_009_concrete_block,present,concrete block,candidate_001_concrete_block,0.5463142395019531,False,False
+case_009_timber,present,timber,candidate_002_timber,0.994512677192688,True,True
+case_010_brick,present,brick,candidate_001_brick,0.4379303753376007,True,True
+case_010_concrete_block,present,concrete block,candidate_001_concrete_block,0.7031881213188171,True,True
+case_010_timber,present,timber,candidate_003_timber,0.5947245955467224,True,True
+case_011_brick,present,brick,candidate_002_brick,0.8398587107658386,True,True
+case_011_concrete_block,present,concrete block,candidate_001_concrete_block,0.39436158537864685,True,True
+case_011_timber,present,timber,candidate_001_timber,0.959014892578125,True,True
+case_012_brick,present,brick,candidate_001_brick,0.9181249141693115,True,True
+case_012_concrete_block,present,concrete block,candidate_002_concrete_block,0.38097816705703735,True,True
+case_012_timber,present,timber,candidate_002_timber,0.8523852825164795,True,True
+TS_F01,absent,concrete block,candidate_001_concrete_block,0.5271643400192261,,False
+TS_F02,absent,timber,candidate_001_timber,0.2646927833557129,,True
+TS_F03,absent,brick,candidate_001_brick,0.3095349371433258,,True
+TS_F05,absent,concrete block,candidate_001_concrete_block,0.1175699308514595,,True
+TS_F06,absent,timber,candidate_002_timber,0.21190448105335236,,True
+TS_F07,absent,brick,candidate_001_brick,0.34317025542259216,,True
+TS_F09,absent,concrete block,candidate_001_concrete_block,0.5784648656845093,,False
+TS_F10,absent,timber,candidate_002_timber,0.27165690064430237,,True
+TS_F11,absent,brick,candidate_002_brick,0.34849417209625244,,True

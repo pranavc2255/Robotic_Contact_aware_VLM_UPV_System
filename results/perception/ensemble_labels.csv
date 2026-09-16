@@ -1,0 +1,5 @@
+trial,candidate_id,actual_material,timestamp_utc
+old_27,candidate_001_concrete_block,brick,2026-09-16T03:56:12.871496+00:00
+case_001_concrete_block,candidate_002_concrete_block,concrete block,2026-09-16T03:56:24.276987+00:00
+case_002_concrete_block,candidate_002_concrete_block,concrete block,2026-09-16T03:56:28.477092+00:00
+case_010_concrete_block,candidate_001_concrete_block,concrete block,2026-09-16T03:56:35.439129+00:00

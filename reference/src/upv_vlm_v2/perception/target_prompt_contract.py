@@ -89,6 +89,10 @@ def save_target_prompt_contract(
         candidate_ids=candidate_ids,
     )
     prompt_path = prompt_dir / "material_crop_verification_prompt.txt"
+    ensemble = (config or {}).get('target_selection', {}).get('class_score_aggregation') == 'mean_embedding_class_softmax'
+    if ensemble:
+        from upv_vlm_v2.perception.clip_ensemble import prompts
+        prompt_text = json.dumps(prompts(), indent=2) + '\n'
     prompt_path.write_text(prompt_text, encoding="utf-8")
     manifest = {
         "stage_name": "material_crop_verification",
@@ -107,6 +111,10 @@ def save_target_prompt_contract(
         ),
     }
     manifest_path = prompt_dir / "prompt_manifest.json"
+    if ensemble:
+        manifest.update(prompt_logged_for_contract=False, actual_clip_prompts_logged=True,
+            class_score_aggregation='mean_embedding_class_softmax',
+            threshold=(config or {}).get('target_selection', {}).get('clip_score_threshold', .35))
     manifest_path.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
     return {
         "target_prompt_dir": str(prompt_dir),

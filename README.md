@@ -1,4 +1,4 @@
-# Robotic Contact aware VLM Based UPV System
+# UPV-VLM Contact
 
 Research software for RGB-D material perception, candidate contact-pair generation,
 vision-language contact assessment, and selected-path length estimation for
@@ -121,7 +121,7 @@ See [complete-cycle commands and prerequisites](docs/PREQUANTIZED_ROBOT_CYCLE.md
 | Experiment | Cohort | Supported analysis |
 |---|---|---|
 | Contact89 | 89 candidate pairs; 21 cases, including five concrete cases | Classification and selected-pair usability; three VLMs and classical RGB+mask |
-| Perception | 27 original + 36 revision trials | Saved 57/63 correct (90.48%) |
+| Perception | 63 present + 9 absent queries; 24 scene configurations | CLIP prompt ensemble: 58/63 present, 7/9 absent; **65/72 correct (90.28%)** at 0.35 |
 | Contact73 | 45 E3 + 28 new10 pairs; 16 scenes | Classification and selected-pair usability; five methods |
 | Contact82 | 50 E3 + 32 E45 pairs; 18 scenes | Classification and selected-pair usability; five methods |
 | Path length V1/V2 | 15 cases, 30 manual paths each | MAE, RMSE, MAPE and material summaries |
@@ -132,9 +132,13 @@ contact methods are Qwen2.5-VL-32B, Qwen2.5-VL-3B, Qwen3-VL-2B, classical RGB+ma
 and classical RGB-D. The classical contact classifiers are untrained, but their
 upstream GSAM2/CLIP perception is learned.
 
-The main candidate-preparation config retains the historical CLIP policy; it is
-not interchangeable with the later 63-trial CLIP-only ablation. Saved results
-preserve those experiment-specific choices. Selection metrics use Python score
+The main perception config uses eight descriptions per material, normalized mean
+CLIP text embeddings, three-class softmax, and an inclusive 0.35 threshold. It
+does not use source priors, color/texture guards, or a margin rejection veto.
+Prompts and threshold were selected on these 72 queries; this is not independent
+validation. [Mechanism and threshold analysis](docs/CLIP_ENSEMBLE.md).
+Saved contact, path-length and runtime experiments retain their original inputs
+and settings; changing perception does not retroactively rerun them. Selection metrics use Python score
 selection among model-labeled usable pairs, not necessarily the VLM's original
 final-action field. Raw responses retain both for audit.
 
@@ -159,8 +163,10 @@ upv-reproduce install-data path_length --archive release_assets/path_length.zip
 upv-reproduce install-data runtime --archive release_assets/runtime.zip
 ```
 
-The four archives have verified sizes and SHA256 digests in
+The four archives have local sizes and SHA256 digests in
 `data/manifests/archives.json`, with download URLs for the public v0.1.0 release.
+The updated `perception.zip` must replace the previous release asset before
+remote installation can match the new checksum; local installation works now.
 Git alone supports saved-table reproduction;
 image-based reruns need the archives. Do not commit dataset ZIPs, model weights,
 environments or generated runs. Historical `workspace/...` paths are provenance
