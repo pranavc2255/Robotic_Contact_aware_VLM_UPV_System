@@ -1,20 +1,23 @@
-# Dataset Rights Notice
+# Dataset License
 
-All rights reserved, except where otherwise indicated.
+Except where otherwise indicated, the project-owned dataset materials in this repository and associated release assets are licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
 
-No public reuse license is currently granted for the project-owned dataset
-images, annotations, or other dataset materials. Pending a licensing decision,
-permission must be obtained from the relevant rights holders for uses that
-require their authorization, including redistribution, modification, model
-training, or commercial exploitation.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-This notice does not restrict uses permitted by applicable law, override
-third-party licenses, or revoke permissions previously granted. Third-party
-materials remain subject to their respective terms.
+Under this license, you may share and adapt the covered dataset materials provided that you:
 
-The dataset licensing decision is pending. A later license, if issued, will
-identify the materials and versions to which it applies.
+* give appropriate credit;
+* provide a link to the license;
+* indicate if changes were made;
+* do not use the materials for commercial purposes; and
+* distribute adaptations under the same license.
 
-This notice applies to dataset materials, not software source code. See the
-root LICENSE for the code rights notice. This notice does not establish
-ownership or substitute for any required institutional publication approval.
+The covered dataset materials include, where applicable, project-owned images, annotations, masks, crops, waveform exports, labels, and derived dataset files distributed with this project.
+
+Third-party materials are not relicensed by this notice and remain subject to their respective licenses, terms, or rights.
+
+This license applies to dataset materials only. The software source code is licensed separately under the PolyForm Noncommercial License 1.0.0; see the root [`LICENSE`](LICENSE) file.
+
+For the complete legally binding license terms, see:
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
