@@ -16,7 +16,7 @@ The covered dataset materials include, where applicable, project-owned images, a
 
 Third-party materials are not relicensed by this notice and remain subject to their respective licenses, terms, or rights.
 
-This license applies to dataset materials only. The software source code is licensed separately under the PolyForm Noncommercial License 1.0.0; see the root [`LICENSE`](LICENSE) file.
+This license applies to dataset materials only. The software source code is licensed separately under the **PolyForm Noncommercial License 1.0.0**; see the root [`LICENSE`](LICENSE) file.
 
 For the complete legally binding license terms, see:
 
